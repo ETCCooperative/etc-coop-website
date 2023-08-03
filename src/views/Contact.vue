@@ -152,13 +152,7 @@ export default {
 					mail: "angelah@etccooperative.org",
 					twitter: "angelahliu_",
 				},
-				{
-					img: "emma-todd.png",
-					name: "Emma Todd",
-					title: "Events Manager",
-					mail: "emma@etccooperative.org",
-					twitter: "CryptoEmmaT",
-				},
+				
 			],
 		};
 	},
