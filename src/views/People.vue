@@ -280,18 +280,7 @@ export default {
 						linkedin: "https://www.linkedin.com",
 					},
 				},
-				{
-					img: "emma-todd.png",
-					name: "Emma Todd",
-					title: "Events Manager",
-					description: "",
-					mail: "",
-					social: {
-						twitter: "https://www.twitter.com",
-						discord: "https://www.discord.com",
-						linkedin: "https://www.linkedin.com",
-					},
-				},
+				
 			],
 			boards: [
 				{
