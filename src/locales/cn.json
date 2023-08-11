@@ -19,8 +19,8 @@
 		"sign_up_subscribe": "Subscribe",
 		"sign_up_privacy_title": "We care about your data in our",
 		"sign_up_privacy_link_title": "privacy policy",
-		"sign_up_success": "You successfuly subscribed to newsletter!",
-		"sign_up_error": "An error occured. Please check your email and try again.",
+		"sign_up_success": "You successfully subscribed to the newsletter!",
+		"sign_up_error": "An error occurred. Please check your email and try again.",
 		"sign_up_sending": "Sending.."
 	},
 	"ethereum-classic": {
@@ -28,9 +28,9 @@
 		"p1": "Following the rapid growth of the cryptocurrency space, many new players enter the scene, and while scrolling down a list of projects ranked by market cap, some notice a blockchain called Ethereum Classic.",
 		"p2": "They see a name and logo that is similar to the famous Ethereum™ and may assume that this Classic thing is some sort of copy-cat project trying to cash in on ETH's success. In a market saturated with such projects, and with limited research time, many people may reasonably give Ethereum Classic a pass without much thought.",
 		"p3": "But some, like yourself, decide to dive a little deeper, and they discover some interesting facts that debunk that initial skepticism. Their journey down the rabbit hole begins when they find out that Ethereum Classic is not a clone of Ethereum™, but a continuation of the original Ethereum launched in 2015, which The Ethereum Foundation forked away from by launching a new protocol one year later in 2016.",
-		"p4": "Applications on Ethereum Classic have been operating uninterrupted for a year longer than on Ethereum™, making ETC the longest running and most reliable Smart Contract Platform.",
+		"p4": "Applications on Ethereum Classic have been operating uninterrupted for a year longer than on Ethereum™, making ETC the longest-running and most reliable Smart Contract Platform.",
 		"p5": "More importantly, Ethereum Classic has never and will never stop or interfere with Smart Contracts deployed to it, as unstoppability is what makes blockchains useful and valuable.",
-		"p6": "Unlike Ethereum™, on Classic, Code is Law. This means that \"applications run exactly as programmed without downtime, censorship, or third party interference.\" Ethereum Classic has evolved its ability to deliver on this promise by maxing-out the characteristics that yield decentralization, unstoppability, and censorship resistance against strong external forces. It is the only major Smart Contract Platform that has proven its ability to uphold this promise.",
+		"p6": "Unlike Ethereum™, on Classic, Code is Law. This means that \"applications run exactly as programmed without downtime, censorship, or third-party interference.\" Ethereum Classic has evolved its ability to deliver on this promise by maxing-out the characteristics that yield decentralization, unstoppability, and censorship resistance against strong external forces. It is the only major Smart Contract Platform that has proven its ability to uphold this promise.",
 		"wanna_learn_more": "Wanna learn more?",
 		"discover_etherium_classic_1": "Discover Ethereum Classic at the ",
 		"discover_etherium_classic_2": "website."
