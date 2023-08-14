@@ -122,34 +122,7 @@ export default {
 					mail: "bob@etccooperative.org",
 					twitter: "bobsummerwill",
 				},
-				{
-					img: "alison-alexis.png",
-					name: "Alison Alexis",
-					title: "Financial Controller and Business Services",
-					mail: "alison@etccooperative.org",
-					twitter: "AlisonBobEth",
-				},
-				{
-					img: "isaac-ardis.png",
-					name: "Isaac Ardis",
-					title: "Core Developer",
-					mail: "isaac@etccooperative.org",
-					twitter: "isaacardis",
-				},
-				{
-					img: "chris-ziogas.png",
-					name: "Chris Ziogas",
-					title: "Core Developer",
-					mail: "chris@etccooperative.org",
-					twitter: "ziogaschr",
-				},
-				{
-					img: "diego-leon.png",
-					name: "Diego López León",
-					title: "Core Developer",
-					mail: "diego@etccooperative.org",
-					twitter: "diega",
-				},
+			
 				{
 					img: "donald-mcintyre.png",
 					name: "Donald McIntyre",
