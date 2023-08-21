@@ -1,10 +1,10 @@
 {
 	"homepage": {
-		"title": "ETC Cooperative",
-		"description": "加速 Ethereum Classic 的发展",
+		"title": "ETC Cooperative以太坊经典合作社",
+		"description": "加速以太坊经典的发展",
 		"teaser": "我们的使命是管理以太坊经典协议的开发，并支持其成长为一个成熟的生态系统。",
-		"blog": "News",
-		"see_all_news": "See All News",
+		"blog": "新闻",
+		"see_all_news": "查看所有新闻",
 		"our_history_badge": "关于我们",
 		"our_history_title": "我们的历史",
 		"our_history_description": "以太经典合作社（ETC Cooperative）是一个于2017年成立的非营利组织，旨在支持和推动以太经典（ETC）区块链平台的发展。",
@@ -19,9 +19,9 @@
 		"sign_up_subscribe": "订阅",
 		"sign_up_privacy_title": "根据我们的隐私条款",
 		"sign_up_privacy_link_title": "我们将全力保护您的数据",
-		"sign_up_success": "You successfully subscribed to the newsletter!",
-		"sign_up_error": "An error occurred. Please check your email and try again.",
-		"sign_up_sending": "Sending.."
+		"sign_up_success": "您已经成功订阅我们的邮件简报!",
+		"sign_up_error": "此处出现了一个错误。请您查看您的邮件并在试一次。",
+		"sign_up_sending": "正在发送中.."
 	},
 	"ethereum-classic": {
 		"header": "什么是以太坊经典（ETC）？",
@@ -31,36 +31,36 @@
 		"p4": "在以太经典上的应用比在以太坊™上运行了一年更长时间，使得ETC成为运行时间最长、最可靠的智能合约平台。",
 		"p5": "更重要的是，以太经典从未并且将永远不会停止或干预部署在其上的智能合约，因为不可阻止性是使区块链有用和有价值的特点。",
 		"p6": "与以太坊™不同，在以太经典上，法律即代码。这意味着“应用程序按照编程的方式运行，没有停机、审查或第三方干预”。以太经典通过充分发挥产生分散化、不可阻止性和抗审查特性的特点，进化了其实现这一承诺的能力，以抵御来自强大外部力量的影响。它是唯一一个已经证明能够履行这一承诺的主要智能合约平台。",
-		"wanna_learn_more": "Wanna learn more?",
-		"discover_etherium_classic_1": "Discover Ethereum Classic at the ",
-		"discover_etherium_classic_2": "website."
+		"wanna_learn_more": "想要了解更多?",
+		"discover_etherium_classic_1": "通过我们的网站 ",
+		"discover_etherium_classic_2": "来探索以太坊经典"
 	},
 	"what-is-etc-coop": {
-		"header": "What is The ETC Cooperative?",
-		"p1": "The <b>Ethereum Classic Cooperative (ETC Cooperative)</b> is a non-profit organization that was established in 2017 with the aim of supporting and promoting the development of the Ethereum Classic (ETC) blockchain platform. <br /> <br /> The ETC Cooperative is funded by donations from individuals and organizations that support the ETC community, and it is governed by a board of directors who oversee the organization's activities and initiatives. <br /> <br /> The main focus of the ETC Cooperative is to support the development of the ETC ecosystem by providing funding, resources, and support for developers, researchers, and other stakeholders. This includes grants programs, research projects, and supporting the development of tools and infrastructure for the ETC platform. <br /> <br /> The ETC Cooperative also plays a role in promoting the use of ETC as a cryptocurrency and raising awareness of its potential benefits, such as its security and immutability features. <br /> <br /> Overall, the ETC Cooperative is a key player in the ETC community, working to support and promote the development of the ETC platform and its ecosystem.",
-		"mission_badge": "Mission",
-		"mission_title": "Mission of the ETC Cooperative",
-		"mission_body": "The mission of the ETC Cooperative is to steward the development of the Ethereum Classic protocol and to support the growth of a mature ecosystem around that protocol. There are three pillars to this mission",
-		"accelerate_title": "Accelerate",
-		"accelerate_body": "Accelerate the adoption of ETC technology by individuals and enterprises through effective branding, marketing, and education.",
-		"foster_title": "Foster",
-		"foster_body": "Foster collaboration between ecosystem participants including developers, miners, investors, enterprises, and end-users.",
-		"governance_title": "Governance",
-		"governance_body": "Mature governance and transparency – efficient and transparent governance framework, including the use of funds.",
-		"history_badge": "History",
-		"history_title": "History of the ETC Cooperative",
-		"history_1": "ETC incorporated in the State of Delaware <span>(7th September 2017)</span>",
-		"history_2": "That application was filed with the IRS <span>(10th May 2018)</span>",
-		"history_3": "The ETC Coop was granted 501(c)(3) public charity status <span>(14th November 2018)</span>",
-		"donation_p": "Donations to ETC Coop are tax deductible under IRC Section 170 for US taxpayers, both individual and corporate. Enterprises investing in infrastructure or other “public goods” within the ETC ecosystem can do so in a more tax-efficient manner by donating to the ETC Coop rather than investing directly. Private foundations often fulfill a similar function in other ICO-funded cryptocurrency projects, along with holding ICO funds, trademarks, driving roadmap, and other centralized functions. <br /> <br /> In that sense, ETC is quite unique (along with Bitcoin) in having none of those centralizing functions. There is no ETC Foundation (very intentionally). There was no ICO for ETC. The abandoned chain we now call ETC was picked up and kept alive by volunteers following the DAO Fork. <br /> <br /> Just over a year later the ETC Coop was formed, to provide some much-needed (but non-exclusive) funding and support for the ETC ecosystem. There is nothing “official” in ETC, including the role of the ETC Coop within the ecosystem. The ETC Coop and its staff have no special influence within ETC other than whatever respect our actions have earned. Earning that respect is a “forever process”. Any other group of individuals or other legal entity could displace the ETC Coop tomorrow if we cease to be good citizens.",
-		"wanna_learn_more": "Wanna learn more?",
-		"discover_etherium_classic_1": "Discover Ethereum Classic at the ",
-		"discover_etherium_classic_2": "website."
+		"header": "什么是以太坊经典合作社ETC Coop?",
+		"p1": "<b>以太经典合作社（ETC Cooperative）</b>是一个非营利组织，成立于2017年，旨在支持和推动以太经典（ETC）区块链平台的发展。 <br /><br />以太经典合作社通过来自支持ETC社区的个人和组织的捐赠来获得资金，由董事会进行管理，监督该组织的活动和倡议。 <br /><br />以太经典合作社的主要重点是通过为开发人员、研究人员和其他利益相关者提供资金、资源和支持来支持ETC生态系统的发展。这包括拨款计划、研究项目以及支持为ETC平台开发工具和基础设施。 <br /><br />以太经典合作社还在推广ETC作为加密货币的使用以及提高人们对其潜在优势的认识方面发挥着作用，例如其安全性和不可变性功能。 <br /><br/>总的来说，以太经典合作社是ETC社区的关键参与者，致力于支持和推动ETC平台及其生态系统的发展。",
+		"mission_badge": "我们的使命",
+		"mission_title": "ETC合作社的使命",
+		"mission_body": "以太经典合作社的使命是引导以太经典协议的发展，并支持围绕该协议的成熟生态系统的增长。这一使命有三个支柱",
+		"accelerate_title": "加速",
+		"accelerate_body": "通过有效的品牌推广、营销和教育，加速个人和企业对以太经典技术的采用。",
+		"foster_title": "促进",
+		"foster_body": "促进生态系统参与者之间的合作，包括开发人员、矿工、投资者、企业和最终用户。",
+		"governance_title": "治理",
+		"governance_body": "成熟的治理和透明度 - 高效透明的治理框架，包括资金的使用。",
+		"history_badge": "历史",
+		"history_title": "ETC合作社的历史",
+		"history_1": "以太经典在特拉华州注册。 <span>(2017年9月7日)</span>",
+		"history_2": "该申请已于 IRS 提交 <span>（2018年5月10日）</span>",
+                "history_3": "以太经典合作社获得了501(c)(3)公益慈善机构地位 <span>（2018年11月14日）</span>",
+		"donation_p": "对于美国纳税人，无论是个人还是企业，对以太经典合作社的捐赠都可以根据《内部税收法典》第170条进行税务抵免。在以太经典生态系统内投资基础设施或其他“公共产品”的企业，可以通过捐赠给以太经典合作社而不是直接投资的方式以更具有税务效益的方式进行。私人基金会在其他ICO资助的加密货币项目中通常也履行类似的职能，包括持有ICO资金、商标、推动路线图和其他中心化职能。<br /><br />从这个意义上讲，以太经典（以及比特币）在没有这些集中职能方面是相当独特的。没有以太经典基金会（这是非常有意为之的）。以太经典没有进行ICO。我们现在称为以太经典的这条被遗弃的链是在DAO分叉后由志愿者接管并保持活力。<br /><br />仅仅一年多一点的时间，以太经典合作社成立，为以太经典生态系统提供了一些急需的（但非独占的）资金和支持。在以太经典中没有任何“官方”之物，包括以太经典合作社在生态系统中的角色。以太经典合作社及其员工在以太经典内没有特殊的影响力，除非我们的行动赢得了尊重。赢得这种尊重是一个“永恒的过程”。如果我们不再成为良好的公民，任何其他一组个人或其他法人实体都可能在明天取代以太经典合作社。",
+		"wanna_learn_more": "想要了解更多吗？",
+                "discover_etherium_classic_1": "欢迎通过本站",
+                "discover_etherium_classic_2": "了解以太经典。"
 	},
 	"mining": {
 		"header": "在ETC上挖坑",
 		"p1": "在以太经典（ETC）上进行挖矿类似于在其他区块链平台上进行挖矿。它涉及使用计算机来解决计算密集型的谜题，这些谜题必须用于验证交易并在区块链上刻上新的区块。",
-		"mining_badge": "Mining",
+		"mining_badge": "挖矿",
 		"mining_title": "挖掘ETC所需的条件",
 		"mining_body": "ETC中的挖矿过程基于一种工作量证明（Proof of Work，PoW）共识算法，称为中本聪共识（Nakamoto Consensus），这意味着挖矿者必须竞争解决计算谜题，以将新的区块添加到区块链中。第一个解决问题并刻上新区块的挖矿者将获得新铸造的ETC代币以及交易费用作为奖励。",
 		"what_you_need_1_title": "专用硬件",
@@ -74,13 +74,13 @@
 	"developing-for-etc": {
 		"header": "开发以太经典",
 		"p1": "由于以太经典（ETC）是一个遵循以太坊虚拟机（EVM）标准的区块链，因此为其开发类似于为其他区块链平台开发。该平台提供了一系列工具和技术，使开发者能够创建可以在ETC区块链上运行的去中心化应用（DApps）和智能合约。",
-		"languages_badge": "Languages",
+		"languages_badge": "语言",
 		"languages_title": "Solidity - 用于ETC开发",
 		"languages_body": "用于ETC开发的主要编程语言之一是Solidity，它也用于以太坊开发。Solidity是一种高级编程语言，专门设计用于编写可以在ETC区块链上执行的智能合约。",
-		"explorer_badge": "Explorer",
+		"explorer_badge": "浏览器",
 		"explorer_title": "ETC区块链浏览器",
 		"explorer_body": "开发者还可以使用ETC区块链浏览器来测试并在网络上部署他们的DApps和智能合约。ETC区块链浏览器提供了一个用户友好的界面，用于与区块链进行交互、监控交易并访问其他有用信息。",
-		"community_badge": "Community",
+		"community_badge": "社区",
 		"community_title": "ETC社区",
 		"community_body": "ETC社区还为对在该平台上开发感兴趣的开发者提供各种资源和支持。这些资源包括文档、教程、论坛以及开发者社区，可以在整个开发过程中提供指导和支持。",
 		"p2": "总体而言，为ETC开发需要对区块链技术、编程语言和智能合约开发有很好的理解。然而，借助适当的工具和资源，开发者可以在ETC区块链上创建强大且创新的DApps和智能合约。"
@@ -109,13 +109,13 @@
 		"board_of_directors": "董事会成员："
 	},
 	"newsList": {
-		"header": "News"
+		"header": "新闻"
 	},
 	"footer": {
-		"learn_about_etc": "Learn about ETC",
-		"mine_etc": "Mine ETC",
-		"develop_for_etc": "Develop for ETC",
-		"etc_partners": "ETC COOP Partners",
+		"learn_about_etc": "了解更多有关ETC",
+		"mine_etc": "在ETC上挖矿",
+		"develop_for_etc": "在ETC上开发",
+		"etc_partners": "ETC合作社的合作伙伴",
 		"reserved_text": "版权所有 - © 2023"
 	}
 }
