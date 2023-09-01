@@ -6,7 +6,7 @@ featuredImage: q2-2023-report-banner-cn.png
 tags: [governance]
 ---
 
-We are pleased to share [ETC Cooperative's Board Package for Q2](https://etccooperative.org/posts/2023-06-30-q1-report-cn).
+We are pleased to share [ETC Cooperative's Board Package for Q2](https://etccooperative.org/etc-cooperative-q2-2023-cn.pdf).
 
 Highlights:
 
