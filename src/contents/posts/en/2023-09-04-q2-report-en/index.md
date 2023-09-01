@@ -1,8 +1,8 @@
 ---
-id: "2023-09-10-q2-report-en"
+id: "2023-09-04-q2-report-en"
 title: "ETC Cooperative 2023 Q2 Report"
 author: Donald McIntyre
-featuredImage: q2-2023-report-banner.png
+featuredImage: q2-2023-report-banner-en.png
 tags: [governance]
 ---
 
