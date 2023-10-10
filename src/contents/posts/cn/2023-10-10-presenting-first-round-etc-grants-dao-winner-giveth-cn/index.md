@@ -1,31 +1,31 @@
 ---
 id: "2023-10-10-presenting-first-round-etc-grants-dao-winner-giveth-cn"
-title: "Presenting First Round ETC Grants DAO Winner Giveth"
+title: "首轮ETC Grants DAO获奖项目 - Giveth"
 author: Donald McIntyre
 featuredImage: giveth-banner.png
 tags: [Announcement]
 ---
 
-We are happy to present  [Giveth](https://etcgrants.softr.app/project-details-zh?recordId=recNgFDKdD1K7XSZ1) as one of the winners of the first round of the ETC Grants DAO program!
+我们很高兴地宣布[Giveth](https://etcgrants.softr.app/project-details-zh?recordId=recNgFDKdD1K7XSZ1)是首轮ETC Grants DAO计划的获奖者之一！
 
 ----------
 
-**You can watch this interview here:**
+**您可以由此收听此次访谈:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iRqpY34xgag?si=GAtFbApuyS7gkHCR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ----------
 
-In our video interview, we spoke with Griff Green, founder of Giveth, about the following topics:
+在我们的视频采访中，我们与 Giveth 的创始人Griff Green讨论了以下内容：
 
-- Giveth team description
-- What is the Giveth project?
-- Grant amount earned
-- Why did they choose Ethereum Classic to do this Giveth implementation?
-- Bonus: What was Griff Green's role in 2016 when ETH and ETC split?
+- Giveth团队介绍
+- Giveth项目是什么？
+- 获得的赠款金额
+- 为什么选择以太坊经典来实施Giveth项目？
+- 附加内容：2016年ETH和ETC分裂时，Griff Green的角色是什么？
 
-Among the highlights of the interview we touched on what is the GIV token and how it works, what are "public goods" projects, how are donors and projects matched, and that the donations function is only the starting point of a grander vision for Giveth.
+在采访的亮点中，我们涉及了什么是 GIV 代币以及它是如何运作的，什么是 "公共物品" 项目，捐助者和项目如何匹配，以及捐款功能只是 Giveth 更宏大愿景的起点。
 
-We invite you to see the Giveth web app [here](https://giveth.io/)!
+我们邀请您查看 Giveth 网页应用 [这里](https://giveth.io/)！
 
-To see the full list of winners go here:  [https://etcgrants.softr.app/projects-list-en](https://etcgrants.softr.app/projects-list-zh)
+要查看获奖名单的完整列表，请点击这里：[https://etcgrants.softr.app/projects-list-zh](https://etcgrants.softr.app/projects-list-zh)。
