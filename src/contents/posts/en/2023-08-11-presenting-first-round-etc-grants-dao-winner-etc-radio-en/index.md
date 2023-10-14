@@ -26,7 +26,7 @@ In our video interview, we spoke with Corey, ETC Radio's host, about the followi
 
 Donald McIntyre (DM): Hi I'm Donald McIntyre senior editor at the ETC Cooperative, today we're going to talk about the ETC Grants DAO winners and we are going to interview Corey of ETC Radio, hello Corey, how are you?
 
-Corey (C): Good! How are you doing Donald? Donald is one of my favorite people in ETC, by the way, so...
+Corey ( C ): Good! How are you doing Donald? Donald is one of my favorite people in ETC, by the way, so...
 
 DM: Very well thank you! Bueno, I see that we have amazing backgrounds. That we found here on Zoom. Very ETC backgrounds!
 
