@@ -23,98 +23,77 @@ tags: [Announcement]
 - 获得助款金额
 - 为什么 Rivet 选择以太经典来实现PluGeth？
 
-## This Is the Transcription of the Interview
+唐纳德·麦金太尔 (DM)：嗨，我是ETC Cooperative的高级编辑唐纳德·麦金太尔。这是关于ETC Grants Dao项目的一次采访之一，也是关于获奖者之一的采访。今天我们要与Plugeth项目的Philip Morlier进行交谈。你好，Philip，你好吗？
 
-Donald McIntyre (DM): Hi I'm Donald McIntyre senior editor at the ETC Cooperative. This is one of the interviews about the ETC Grants Dao program, and one of the winners. Today we're going to talk to Philip Morlier of Plugeth, the Plugeth project. Hello, Philip, how are you?
+Philip Morlier (PM)：我很好，谢谢！
 
-Philip Morlier (PM): I'm well thank you!
+DM：好的，这个想法是请你回答一些关于你的团队和你的项目的问题，非常感谢你能与我们在一起。第一个问题是，你能描述一下你的团队，你的组织是谁等等。
 
-DM: Bueno, the idea is to ask you a few questions about your team and your project, so thank you very much for being here with us. And, the first question is if you could describe your team, who is your organization, etc.
+PM：当然，Plugeth是我工作的公司Rivet旗下的项目之一。Rivet由四个主要成员组成，我们有两名开发人员，一个项目经理，还有一个我们称之为CXO的人，他主要负责销售和市场营销等方面的工作，社区互动等等。他承担了很多不同的角色。此外，我们还与一些合同工和其他人合作。
 
-PM: Sure, so Plugeth is one of the projects that is underneath the umbrella of the company that I work for, called Rivet. Rivet consists of four main people. We have two developers and then a project manager, and then another individual that we call CXO and he kind of fills in the role of sales and marketing. Sort of community engagement, etc. You know, he's got a lot of jobs that aren't mine. And, then we we have some contractors and some other folks that work with us from time to time. 
+DM：那么，你在团队中扮演的角色是什么？
 
-DM: But, it's your role in the team?
+PM：我是一名软件工程师。所以，我们的项目都是共同负责的，但Plugeth主要由我来维护，与用户互动等等。
 
-PM: I'm a software engineer. So, of our projects Plugeth is, I mean all of our projects are shared responsibilities, but Plugeth is kind of mainly on my desk in terms of keeping it maintained, engaging with our users, etc.
+DM：好的，很有趣，因为Rivet对ETC生态系统非常重要，因为你们为大多数用户提供了基础设施，是吗？
 
-DM: Bueno, it's interesting because Rivet is a very important member of the ETC ecosystem because you guys, you provide the infrastructure for the mostly used endpoint, no? 
+PM：是的，Rivet的主要产品是为基于EVM的区块链提供端点。目前，ETC是我们的主要客户之一，我们非常高兴能够拥有你们作为我们的客户之一。
 
-PM: Yeah, and that's Rivet's main product that we offer to, you know, the the public is that we're an endpoint for EVM based blockchains at this point in time. And, ETC, as you remark, is one of our kind of main and primary clients, and we're very happy to have you all as a part of our [clients].
+DM：是的，那个端点是etc.rivet.link，如果我记得没错，供每个人使用。第二个问题是，Plugeth是什么？它是什么？
 
-DM: Yeah, and that endpoint is etc.rivet.link, if I remember correctly, for everybody to remember to use that one. The second question is, what is Plugeth? What is it?
+PM：好的，Plugeth是Geth的一个分支，Geth是Go Ethereum项目。所以，我们分叉了Geth，并在其中构建了一个插件基础架构，以支持编写可以针对Geth节点运行的插件。这使我们能够支持和协调我们作为节点提供者的工作，但也是我们以开源的方式提供给社区的东西。因此，其他人可以使用Plugeth，编写Plugeth的插件，它是一个非常通用和通用的工具。从最高层面来看，Go提供了一个非常易于使用的插件框架，我们的划分方式使用户能够使用我们在Geth代码库内编写的插件挂钩，或者他们可以编写自己的插件挂钩，然后将插件托管到一个单独的存储库中。对于我们来说，我们对Geth代码库的注入和接触点非常有限，这就是保持这个分叉的难度不高的原因，尽管不是完全简单，但我们大部分时间可以将上游的Geth客户端的变更合并进来，因为我们的变更相对较小。我们希望能够使其他人也能够保持与Geth项目同步，同时修改Geth客户端以实现他们希望通过他们编写的插件或使用我们编写的插件来实现的目标。
 
-PM: Okay, so Plugeth is a fork of Geth, which is the Go Ethereum project. So, we have forked Geth and built a plugin infrastructure into it to enable writing plugins that can be run against the Geth node. This enables us to support and orchestrate the work that we do with being node providers.  But, it's also something that we offer to the community from an open source standpoint. So, that other people can use Plugeth, write plugins for Plugeth, you know, it's a really versatile and generalized tool. It's pretty simple at the highest level. Go provides a plugin framework that's really easy to work with, and the way that we have things partitioned out, ultimately a user could utilize plugin hooks that we've written inside of the Geth code base, or they can write their own plugin hooks, and then you would write a plugin to be hosted at a separate repository. So, for us it's, our injections, and touch points, and the Geth code base are pretty minimal, and that's what makes maintaining the fork, you know, it's not simple necessarily, every now and again it seems like we're getting the weeds having to figure out one thing or another, but for the most part we can just merge in upstream changes to the Geth client and because our changes are relatively small. It it it enables us to stay current with the Geth project and our hope is that we can enable other people to also stay current with the Geth project while they are modifying the Geth client to do whatever it is that they're hoping to accomplish with the plugins that either they write or using the plugins that we've written. 
+DM：我觉得这很有趣。你的解释让我对它的理解有了不同的角度。我原本以为它只是一个添加到Go Ethereum上的新平台，但插件本身实际上是Go Ethereum的一个分支...
 
-DM: I think it's, this is very interesting. I didn't understand it this way, the way you explained it. I thought it was just a new platform for Go Ethereum, but the plugin itself is a fork of Go Ethereum...
+PM：是的
 
-PM: Correct
+DM：并且你很容易添加插件，是吗？非常出色。我以前以为它只是在Go Ethereum上添加的一个层次。
 
-DM: And, you added the ability to accept plugins very easily, no? To add plugins very easily so that's excellent. I think it's a very good idea. I thought it was just a layer added to Go Ethereum.
+PM：不是的。我们的想法不是要干扰或在那个层次上竞争，很明显，维护一个以太坊协议的实现，像Geth这样的客户端是一个巨大的工作，他们很出色地完成了这项工作。所以，我们的想法不是在那个层面上竞争，而是要创建一个工具，你可以多样化，以便更多的人可以使用Geth。 
 
-PM: No. So, our our idea wasn't to, you know, obviously maintaining an implementation of the ethereum protocol with the client like Geth is a massive undertaking, and they do that job, and they do it well. So, our idea was not to interfere or to compete at that level, but more to make a tool that you could diversify so that Geth itself is potentially more useful to more people.
+DM：是的，无论谁需要添加一个插件，都可以使用插件，而不是使用Go Ethereum，这可能更困难并且需要更多的工作。他们可以使用插件，这也是你想要减少实施的难度的原因，或者你的分支，以便与Go Ethereum尽可能兼容和无缝。
 
-DM: Yeah yeah, whoever needs to add a plugin, instead of doing it with Go Ethereum, that may be more difficult and require more work, they can use a plugin and this is why you wanted to minimize the amount of the difficulty of your implementation, or your fork, so it could be as compatible and easy to, and seamless, no? With Go Ethereum as possible. So, now that I understand these things, my question is how, because ETC does have a different client. It uses, it's a downstream of Go Ethereum, but Core Geth is a completely different client, and with significant differences, no? So, how are you, are you going to actually also fork Core Geth, the ETC node software, or...
+PM：是的，这是一个粗糙的类比，我自己都会笑，但就好像Go Ethereum是一个土豆先生（Mr. Potato Head），我们使你能够改变它的服装，对吧？所以，ETC现在就是一顶帽子和一副眼镜，你可以戴在土豆先生上，它突然之间就成了一个全新的...
 
-PM: So, the grant that we've received is actually to write a plug-in to implement ETC into Foundation Geth. So, while you remark that the Ethereum Classic client, you know, has substantial modifications, and some very important, distinctions in the way that it operates in the protocol that it implements. I maintain our various Plugeth forks and I'm to some degree familiar with the work that is done at Ethereum Classic. So, I'm aware that while y'all have, well, while ETC has its own independent fork, and independent protocol, that they're still bringing in changes from up upstream Geth. So, what we're hoping, we have received the grant to do, and what we're going to be working for towards is to enable Ethereum Classic to expand its footprint to more users by offering a plugin that you can run against Foundation Geth nodes, that would implement the Ethereum Classic protocol. So, while, you know, I feel like I'm repeating myself, but while the Ethereum Classic has some substantial changes, there's a lot of the code that's the same, right? And there's a lot that is just copied back and forth between the two forks, and so what we're hoping to do is to make, expand the footprint of Ethereum Classic to folks who maybe intimidated by running a separate, entire Fork.
+DM：哈哈哈，这个比喻非常好。当我使用WordPress时，因为我不是开发人员，我不是工程师，所以我经常使用插件，连接它们和断开连接，这也是一个我提出的类比。
 
-DM: So, so Plugeth, in this project in particular, is to create the plugin of ETC on Go Ethereum. And that plugin would work with Plugeth, the client? Or Go Ethereum? 
+PM：当然。
 
-PM: It would work with Plugeth. So, you know, Go Ethereum doesn't have a plugin infrastructure. Plugeth does... 
+DM：太棒了，我喜欢这个项目，非常有趣，我认为你们赢得这笔资助是当之无愧的。那你们申请了多少，最终获得了多少资助？
 
-DM: So, ETC would be a plugin of Plugeth!....hahhaa
+PM：关于这个问题，我说的有点超出了我的知识范围。我不属于我公司的财务部门，但据我所知，我们申请了5万美元，我们获得了5万美元。
 
-PM: That's correct! If you took Plugeth out of the box and just ran it as a vanilla Geth node, you would notice no difference between a standard Geth node. You actually have to load plugins in order to start to modify the behavior, and so if you go, if anyone wants to browse at GitHub Open Relay XYZ Plugeth plugins, is a repository where we have our plugins and we have a consensus engine plugin there which we implemented as a kind of basic platform to enable modifying the consensus, the consensus aspect of the EVM machine, and so what we're going to do is take that consensus engine plugin and complexify it to enable implementation of the Ethereum Classic protocol. 
+DM：好的，太好了。我认为这是当之无愧的，既然我现在了解了这个项目。我可以想到，正如你之前说的，这如何有益于ETC。为什么选择ETC作为创建这个插件的平台？
 
-DM: Good. Okay, okay so, just to clarify and to see if I got it: You have Go Ethereum, you create Plugeth, which is Go Ethereum but in that one you can add plugins easily. Developers can do that. Perfect. You are going to create a plugin so that ETC is another plugin for Plugeth.
+PM：嗯，我认为有几种不同的回答这个问题的方式。首先，从我们公司的创始原则出发，我们非常相信多链的未来。我们非常相信多元化的Web 3环境。所以，与其他链一起工作在很大程度上是我们尝试做的事情的本质，也是Plugeth项目从一开始的根本。正如你已经指出的那样，你们是我们的节点提供者，所以从某种意义上说，我认为这是一个自然的合作伙伴关系，因为这将是我们首次为完全新的链开发插件。既然我们与你们合作，我们很熟悉你们，你们已经存在了，你们有良好的声誉，就我所知，ETC的价值观和Rivet的价值观非常一致。所以，这最终是使ETC成为我们吸引人的选择的原因。
 
-PM: That's correct. 
+DM：很好。
 
-DM: Very good. So, someone in the future, once this plugin is there, they're going to be able to download Plugeth and activate or deactivate ETC very easily as a plugin. 
+PM：我们迟早会尝试为某个人实现这样的插件，所以我们会去找那些已经与我们建立合作关系，我们已经知道他们与我们一样，都通过加密来扩展个体的自由。所以，我认为这可能是我最好的总结方式。两个组织之间存在平行的价值观。
 
-PM: That's correct. I mean, this is a crude analogy, and I'm cracking myself up thinking about it, but it's as if Go Ethereum was a Mr Potato Head and we've enabled you to sort of change the outfits, right? So, ETC is now a hat and some glasses you can put on Mr Potato Head, and it's, all of a sudden, a whole new...
+DM：是的，我能看到这如何有益于ETC，正如我之前所说，你们是生态系统中一个重要的成员。你们为钱包、矿池和个人提供了最多的流量和最常用的端点，以及发送交易等等。而且这五万美元将加速你们在Plugeth上实现这个想法。只是为了澄清一下，关于项目本身的最后一个问题，项目是创建一个通用共识引擎插件，恰好使用ETC吗？还是ETC的特定插件？
 
-DM: Hahaha, that's very good. When I use WordPress, because I'm not a developer, I'm not an engineer, so I use WordPress, and I use plugins all the time, and connect them and disconnect them, so that is another, I propose that also as an analogy. 
+PM：我们已经有一个通用共识引擎插件，但就像大多数东西一样，我们只有一个非常基本的实现，允许你中断Go Ethereum，并基本上告诉它“你不使用你自己的共识逻辑，我将为你提供自定义的共识逻辑”。但我们还没有编写任何相关的逻辑。所以，我们只是有了第一步，它允许你中断共识过程。所以，你知道，ETC项目的目标不是创建基本的共识插件，我们已经有了它。但它也不是无用的，我们用它来进行测试等，但它是一个平台，进一步的开发和实现需要在此基础上进行，以创建有用的东西。所以，我们与ETC的这个项目将使我们能够将它发展成熟，将我们现在拥有的基本通用自定义共识引擎进一步发展，以实现以太坊经典协议。
 
-PM: Sure.
+DM：非常好。那么，Philip，我的最后一个问题是，你们的总部在哪里？
 
-DM: That's amazing. I love the project, very interesting and I think that you won the grant is well deserved. So, how much did you get how much did you apply for, and how much did you get of the grant?
+PM：我在俄勒冈州波特兰。我的团队大部分在堪萨斯城，堪萨斯。我们还有一个团队成员在印度，还有一个在尼日利亚。
 
-PM: So, I'm speaking a little outside of my depth. I'm not part of the financial wing of my company, but as far as I'm aware we applied for $50,000 dollars and we got $50,000. 
+DM：太好了，非常感谢你的时间。感谢你提供这些解释，祝贺你获得ETC Grants计划的5万美元资助。
 
-DM: Good. Excellent. I think it's well deserved now that I understand the project. I think it's well deserved and I can think of ways you already said, no? Of how this benefits ETC. Why did you choose ETC as the platform to create this plugin?
+PM：非常感谢大家。对于那些有兴趣更深入研究和可能跟踪的观众，Plugeth项目的网站是[plugeth.org](https://plugeth.org)，[rivet.cloud](https://rivet.cloud)是总公司的网站。你可以找到链接到Twitter和其他社交媒体平台的链接。要关注这个故事，我们还有一个在plugeth.org上列出的Discord，我只想强调一下，尽管技术挑战对我们来说很有吸引力，但我们是一个开源优先的公司，因此我们渴望社区的参与。我们渴望开发人员和用户一起来了解我们正在做的事情。所以，我只想恳请任何有兴趣的人来提问，来看看我们做了什么，尝试使用它。我们尽量以最具包容性的方式与那些希望使用我们制作的东西的人互动。
 
-PM: Well, I mean, I think there's a few different ways to answer that question. One, you know, starting from the founding principles of our company, we very much believe in a multi-chained future. We very much believe in a diversified web 3 environment. So, you know, working with other chains is kind of in very much in the ethos of what it is that we're trying to do, and what is at the root of the Plugeth project from the inception. ETC, as you have remarked, you know, we are y'all's node providers so in some ways I think it was a natural partnership for, because this will be the first time we've developed a plugin to support an entirely new chain. And, since we work with you guys we're familiar. You all have been around, y'all have a good reputation, and as far as I understand the values of ETC, and the values of Rivet are closely aligned. So, that ultimately was what made ETC an attractive proposition for us.
+DM：太好了。那么，这些地方是plugeth.org和rivet.cloud，那里的人会找到你们的社交媒体渠道，还会找到与团队互动的Discord链接。
 
-DM: Excellent.
+PM：没错。
 
-PM: We would have been trying at some point to implement a plugin like this for somebody, and so it just kind of makes sense that we would go to someone who we already have a partnership with, who already we know shares our notion of, you know, expanding freedoms for the individual through cryptography. So, yeah, I think that's probably the best way I can can sum it up. It's that there's there's parallel values between the two organizations.
+DM：非常好，非常感谢你的时间，Philip。
 
-DM: Yeah I can see how this benefits ETC, and like I said before you are an important member of the ecosystem. You provide the largest, the most traffic and most used endpoint, no? For wallets and mining pools, and individuals, no? Who who need to send transactions, etc. And, the fifty thousand dollars is going to accelerate this idea that you had to implement this addition on Plugeth. Just to clarify, the last question about the project itself, is the project to create a general consensus engine plugin that happens to use ETC? Or, a specific plugin for ETC?
+PM：多谢，唐纳德。
 
-PM: We already have a general consensus engine plug-in, but like most things, what we have is a is a very basic implementation that allows you to interrupt Go Ethereum and basically tell it "you're not using your own consensus logic, I'm going to provide you with custom consensus logic". But, we don't have any of that logic written yet, right? So, all we have is just that one first step that enables you to interrupt that consensus process. So, you know, the project with ETC is not about creating that basic consensus plugin, we already have that. But, it's also, I don't want to say it's useless. We use it for testing and stuff, but it it is there as a platform on top of which further development and implementation would be necessary to create something useful. So, you know that is where we are, you know, with our partnership on ETC. With this project. Will enable us to bring that to maturity, you know, to take what we have now which is just a completely generic custom consensus engine and customize that to implement the Ethereum Classic protocol.
+DM：再见！
 
-DM: Very good. And, Philip my last question is where where are you based?
-
-PM: I'm in Portland, Oregon. The majority of my team is in Kansas City, Kansas. We also have a team member in India, and we also have a team member in Nigeria. 
-
-DM: Excellent. Well, thank you so much for your time. Thank you for these explanations and congratulations for earning the fifty thousand dollars from the ETC Grants program.
-
-PM: Thank you all very much. For those in the audience who are interested in researching this more and potentially following along,
-[plugeth.org](https://plugeth.org) is the website of the Plugeth project, [rivet.cloud](https://rivet.cloud) is the, you know, overarching company. You can find links to Twitter and various other social media platforms. To follow the story and we also have a Discord that's listed on the plugeth.org, and, you know, I just would like to emphasize that, you know, as much as the technical challenges are compelling to us in taking on this project we are an open source first company and as such we crave community engagement. We crave, you know, developers and users to come along and check out what we're doing. So, I just want to implore anyone who's interested to come and and ask us questions and check out what we've done. Try and use it. We try and be as inclusive as possible with engagement with the folks that are, that want to use the things we've made.
-
-DM: Excellent. So, the the places are plugeth.org and rivet.cloud and there people are going to find your social media channels and they will find the the link to Discord to interact with the team.
-
-PM: That's correct. 
-
-DM: Very good, thank you so much for your time Philip.
-
-PM: Thank you Donald,
-
-DM: Goodbye!
-
-PM: Nos vemos!
-
-DM: Bye-bye!
+PM：再见！
 
 ---
 以下是 PluGeth 项目的链接：
