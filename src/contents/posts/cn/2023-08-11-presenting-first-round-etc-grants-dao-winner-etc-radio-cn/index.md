@@ -22,71 +22,61 @@ tags: [Announcement]
 - 拨款金额。
 - 为什么 ETC Radio 选择了以太经典？
 
-### This Is the Transcript of the Interview
+这是采访的文字记录
 
-Donald McIntyre (DM): Hi I'm Donald McIntyre senior editor at the ETC Cooperative, today we're going to talk about the ETC Grants DAO winners and we are going to interview Corey of ETC Radio, hello Corey, how are you?
+唐纳德·麦金太尔（DM）：嗨，我是ETC合作社的高级编辑唐纳德·麦金太尔，今天我们要谈论ETC Grants DAO的获奖者，我们将采访ETC Radio的Corey，你好Corey，你好吗？
 
-Corey ( C ): Good! How are you doing Donald? Donald is one of my favorite people in ETC, by the way, so...
+Corey（C）：好！唐纳德，你好吗？顺便说一下，唐纳德是ETC中我最喜欢的人之一，所以...
 
-DM: Very well thank you! Bueno, I see that we have amazing backgrounds. That we found here on Zoom. Very ETC backgrounds!
+DM：非常好，谢谢！好吧，我看到我们的背景都很棒，我们在Zoom上找到了这些。非常ETC的背景！
 
-C: Right and the green shirts. I wore the green shirt on purpose. 
+C：对，还有我们的绿色衬衫，我特意穿了绿色的衬衫。
 
-DM: And the green shirts! Yeah, yeah it's the perfect interview. Bueno, Corey, you are one of the winners, or ETC Radio is one of the winners of the ETC Grants DAO, so congratulations for that. And, I have a few questions for you. The first one is to describe your team.
+DM：还有绿色的衬衫！是的，这真的是一个完美的采访。好的，Corey，你和ETC Radio都是ETC Grants DAO的获奖者，所以恭喜你。我有一些问题想问你。第一个问题是，请描述一下你的团队。
 
-C: Great question because it's actually evolved over time. So, 15 months ago I hosted the first ETC Radio and it wasn't even called ETC Radio at the time. I think I called it like ETC Chat for some giveaways, I was involved with a bunch of different NFT projects. So, the team was actually myself and my a guy named Michael.ETC at the time co-hosted it. And, then he rolled off a few months later. When you say my team I have to talk about the ETC Community first of all. I've gotten Graphics made by so many community members! And, so when I say team it's not just me it's the whole community. I mean I got graphics from, Perioso, Tricky.Mick, Xenos... I mean, I can name 30 or 40 people that have helped out, honestly, with ETC Radio since it started so the team will evolve over time but I've been the main, kind of consistent player in ETC Radio since day one, is the way to describe it.
+C：这是一个很好的问题，因为团队实际上随着时间的推移有所变化。所以，15个月前，我主持了第一期ETC Radio，那时它甚至还没有叫ETC Radio。我想我当时称它为ETC Chat，为了一些赠品，我参与了一些不同的NFT项目。所以，当我提到我的团队时，首先我要谈论ETC社区。我从这个社区的许多成员那里得到了制作的图形！所以，当我说团队时，不仅仅是我，整个社区都在其中。我的意思是，我从Perioso、Tricky.Mick、Xenos等等社区成员那里得到了图形...我可以列出大约30或40个人，他们从ETC Radio开始就帮了很多忙，所以团队会随时间而演化，但我一直是ETC Radio自从一开始以来的主要、一直不变的角色。
 
-DM: I would say. If you've been doing it for 15 months that's very consistent! Especially during this crypto winter.
+DM：我想说，如果你已经做了15个月，那真的非常持之以恒！尤其是在这个加密冬季。
 
-C: That's right.
+C：没错。
 
-DM: Bueno, tell me what is the project. What is ETC radio?
+DM：好的，告诉我一下，ETC Radio是什么项目？
 
-C: Yeah, so the main goal of ETC radio, honestly, is to help with crypto adoption, ETC adoption is the main focus, but when you ask what the project really is, it is the mouthpiece for anything related to Ethereum Classic. We have dozens of projects on every Friday. These are project leads, projects that haven't come out, community members, just fans of of proof of work, and etc. in general. But I would say the main project's goal is adoption of ETC. Get the word out, education, we talk about crypto safety, we talk about news and chat of what's going on in the ecosystem of ETC. I know you're on there a lot as well and the topics can go any direction. Sometimes you talk about life, so, but I think the number one goal is to get the word out, and get adoption to the ETC ecosystem... that's the number one goal of it.
+C：是的，ETC Radio的主要目标，老实说，是帮助推动加密货币和ETC的采用，但当你问这个项目到底是什么时，它是与以太坊经典（ETC）相关的任何信息的发言人。每个星期五，我们有数十个项目参与。这些是项目负责人，即将推出的项目、社区成员，以及对工作量证明和等等有兴趣的粉丝。但我要说主要项目的目标是推动ETC的采用。传播信息，教育，我们谈论加密货币的安全性，我们谈论新闻，以及ETC生态系统中的发展。我知道你也经常在那里，主题可以朝任何方向发展。有时候我们谈论生活，但我认为第一要务是传播信息，促进ETC生态系统的采用...这是它的主要目标。
 
-DM: Yes, I have attended the show several times and I like the format. It's like very relaxed and open. It's like a conversation format, right? Because I hear or I think of ETC radio, and when I think of a radio it's usually a one-way speaker to everybody. But in this case the format is very open isn't it?
+DM：是的，我多次参加过节目，我喜欢这种格式。它很轻松，开放，就像对话格式，对吧？因为当我想到ETC Radio时，我会想到广播，通常是一个向所有人传递信息的单向发言。但在这种情况下，格式非常开放，是吗？
 
-C: Yeah, I mean I've only had to remove somebody maybe once or twice because they were asking for money. But it's an open forum for anybody. I let anybody get the stage for Q&A. I have a lot of people that come in new to ask about, you know, what is Ethereum Classic. But the format, you know, I love to start with a few songs, give an update on the crypto market, give an update on ETC projects, but you're right it's very informal. To me, crypto should be fun. Yeah, it's serious, but it's fun at the same time. If you hear, you know, I'm always trying to joke on there, tell stories. I have a huge investment background, so I talk about a little bit of everything, but the goal is to be informal, have the floor to anybody and any project is allowed to come on there. Most projects involved at ETC do come on there to speak, give updates on their project, they might talk about what they're trying to do. They might ask for help. They do a giveaway. So, there's a lot of different things going on.
+C：是的，我只不过不得不一两次将某人从节目中移除，因为他们在要钱。但它是任何人的开放论坛。我让任何人上台提问。有很多新人会问关于以太坊经典是什么的问题。但格式，你知道，我喜欢以几首歌开始，介绍加密市场的最新动态，介绍ETC项目的最新动态，但你说得对，这非常不正式。对我来说，加密应该是有趣的。是的，它是严肃的，但同时也是有趣的。如果你听说，我总是试图在那里开玩笑，讲故事。我有着丰富的投资背景，所以我谈论各种事情，但目标是不正式，为任何人提供发言机会，任何项目都可以在那里发言。大多数参与ETC的项目都会来那里发言，提供项目的最新进展，他们可能会谈论他们的计划。他们可能会寻求帮助。他们可能会举行赠品活动。所以，有很多不同的事情正在发生。
 
-DM: You do it every Friday, but do you have a fixed time that you do it every Friday, or you announce it a few days earlier? 
+DM：你每周都会做这个节目，但你是有固定的时间吗，还是提前几天宣布？
 
-C: So, I rotate it. It's been pretty consistent between either noon eastern or five eastern. So, I've played around with it. Those are the two windows that I feel like have the best engagement and tune-ins before and after, so I actually keep with those two times to rotate it for different time zones as well. We have guys on there from the UK, Europe, Canada, all over the U.S, so I deal with like three or four time zones to try to plug people in. 
+C：所以，我会轮流时间。在中午东部时间或下午五点东部时间之间，一直都很稳定。我已经试验了一下，这两个时间窗口具有最佳的参与度和观众收听，所以我一直保持这两个时间，以便为不同的时区提供服务。我们有来自英国、欧洲、加拿大和美国各
 
-DM: I love that, and I love to listen to the different accents of people who speak. So, just for the audience to know, you can tune in to ETC Radio on Twitter spaces on Fridays. It's ETC underscore Radio (ETC_RADIO) that's the handle, and you can participate, you can listen to the show, and you can also ask questions, and talk about ETC, etc. And you can even ask questions to other people in the audience. 
+地的人，所以我要应对三四个不同的时区，以尽量让更多的人参与进来。
 
-C: So, anybody's on the floor, anybody can be on the hot seat by the way. 
+DM：我很喜欢这一点，也很喜欢听到不同口音的人讲话。所以，只是为了让观众知道，你可以在Twitter Spaces上每周五收听ETC Radio。它的Twitter账号是ETC underscore Radio（ETC_RADIO），你可以参与，收听节目，还可以提问，谈论ETC等等。甚至可以向观众中的其他人提问。
 
-DM: Yeah! Many, many times I end up speaking. That's right. The other question that I have is, how much did you apply for and how much did you get for the grants?
+C：是的，任何人都可以上台，任何人都可以成为焦点。
 
-C:  Yeah, yeah, so I did a pretty, a fairly detailed submission to the grants. I put there each quarter, what the breakdown of the funds will go to, and how it's going to be used. So, I requested the $10K, a community Grant. I don't think there's any other device or mouthpiece of the ETC community that has as much engagement as ETC Radio so far. But, the breakdown is $2,500 per quarter. Around there. It'll be several different payments. I'm going to use this for the cost of the ETC Radio, but a lot of it is going to be out. I want to produce merchandise to be for giveaways. I will attend conferences where I'll also be giving away different items. It could be a shirt or a hat. Even we give away a lot of NFTs. So, my goal from day one is pretty much a non-profit and everything that I generate, and a lot of stuff is donated by the way, so all the different projects will donate to it. But, this grant money, I wanna, it's gonna enable me to do more education. I might even host more than once a week now, based on time. Maybe get a few interns to produce and help as well. There's a lot of stuff this will go to.
+DM：是的，很多时候我最后都会发言。没错。我有一个最后的问题，是第五个问题，但是在你说话的时候我突然想到了这个问题，那就是你说你有很强的投资背景，那么你的投资背景是什么？
 
-DM: Excellent. That's amazing. And, when I see that we share a passion, a passion for ETC. So, so the last question is, I have a fifth question, but this is the fourth question: Why did you choose ETC? Why do you have such passion for ETC? And, you think that ETC Radio, you want to do it dedicated to ETC?
+C：是的，所以过去的20多年里，我一直在从事机构投资咨询领域的工作。非常大型的养老基金、401K计划、为高净值客户提供第三方咨询。我在投资领域做了所有的事情，所有的资产类别。大学时我就在交易股票，所以我一直在那个领域。大约三年半前，我开始深入研究加密货币。实际上，我投资了很多项目，研究了很多项目，当我说投资背景时，像你在CNBC上看到的那些人，我认识他们中的大多数人。我的工作的一部分是采访和向那些人提问问题。所以我经常被问及，你是如何成为一个出色的采访者的？以及你是如何保持对话的进行的？我在我的职业生涯中进行了成千上万次的投资会议，所以我习惯于提出艰难的问题，我习惯于保持对话的进行，因为这几乎就是我的日常工作。我是最终客户和实际运作资金的人之间的中间人，那些实际运作资金的人就是资产管理者。这是我所做的事情的一个简要背景。
 
-C: It's a great, great question. I could spend 20 minutes talking about this, but I'll try to do 30 seconds. I can't do anything in five minutes, by the way! So, the reality is Ethereum Classic, what drew me to it, originally I was doing a lot of stuff on Ethereum, Cardano, Bitcoin, but what kept drawing me back to Ethereum Classic was the strong community and the lower gas fees, but when you look at the the background, Ethereum Classic has everything. It's like Bitcoin and Ethereum combined and, by the way, Ethereum Classic is the original Ethereum. FYI. I want to make a t-shirt that says this on it! But, the factors that drove me and keep me here: decentralized, permissionless, limited supply of 210 million. Guess what, Ethereum has no cap on supply, people don't know that, right? You know, a lot of smart contracts, the strong community, the NFTs, I mean there's a million things I can mention. And, I think the reality is there's very few strong proof of work chains left. Especially after Ethereum went to the merge to proof of stake. Yeah, most of my time now, a majority is spent on Ethereum Classic as well as Bitcoin. Those are the two areas I spend the most time on. I'm not doing as much on all the different blockchains that are proof of stake anymore. So those are a couple, couple quick reasons. 
+另外，我想快速分享一下...在过去的两个月里，ETC Radio在Twitter上获得了35,000次印象。只是为了给你一些数据！我们平均每周有100到250名实际听众。大多数人后来会回放节目。在过去的15个月里，收听人数每个月都在增加。前三期ETC Radio，我必须说，唐纳德的采访、Bob Summerwill的采访以及第一次采访Patient Money，这三期ETC Radio的印象，我认为大约有15到20K的印象。就在不到三期节目里。
 
-DM: Good, good. I think Bitcoin and ETC are the two blockchains of the future, and Bitcoin is the largest proof of work one. Bueno, we know what is Bitcoin, but it's only accounts and balances, and Ethereum Classic is the same but you add programmability. So, it is of incredible value and ETC is the largest proof of work smart contracts blockchain in the world right now, and it's very likely, there's no reason... 
+DM：太棒了，你做得很出色，我认为你完全配得上这笔资助，它是完全合理的，我认为它将非常有成效。我相信在未来的几个月里，你应该可以再次申请，因为你也可以申请未来轮次的资助。如果你有更多的项目需要资金支持，如果可能的话，我认为你为ETC做出了巨大的贡献。所以非常感谢你。
 
-C: By the way Donald, that Ethereum should have a 90x market cap to Ethereum Classic, I think that Gap is going to close over time. 
+C：非常感谢，我想要感谢非常强大的ETC社区。我是在任何人之前就在这里了，所以我只想提一下这一点。
 
-DM: Yeah, yeah, I agree, I agree. Bueno, speaking of that, my last question that occurred to me while you were speaking is that you said that you have a strong investment background, what is that background?
+DM：以太社区、卡尔达诺、Polkadot、Avalanche和所有其他社区不同的地方在于，我们坚信原则和哲学，其他一切都是其次的，正如Istora所说的。这与只是因为社区很酷，因为“我喜欢创新”，或者“我只想在智力上竞争”，或者“我只想币价上涨”等等是非常不同的。对于我们来说，所有这些都是次要的，这就是为什么ETC社区如此充满激情。
 
-C: Yeah, so I've spent the past 20 plus years in the institutional investment consulting world. So, very large pension funds, 401k's, third party for high net worth shops. I've done everything in the investment realm. Every asset class. I was trading stocks in college so I've always been in that realm and I got heavy in crypto probably three and a half years ago. Actually, I invested in a lot of projects, I researched a lot of projects, and you know when I say investment background like, guys that you see on CNBC, I know most of those guys. Part of my job is to interview and drill those those guys with questions. So, I get a lot of questions about, you know, how are you a good interviewer? and, how do you keep the conversation going? I've done thousands and thousands of investment meetings in my career, so I'm used to asking the hard questions. I'm used to keeping the conversation going because that's pretty much what my day job is. I'm the middleman between the end client and the guys that actually run the money, who are the asset managers. So, that's kind of a quick background on what I do. 
+C：我们充满激情，我们认真对待，我们来这里是为了长期的。大多数人不是，总的来说，在加密货币领域。
 
-Also, I wanted to share really quickly...the past two months ETC Radio has had 35,000 Impressions on Twitter. Just to give you data! We average anywhere from 100 to 250 actual tune-ins. Most of those are replays later on. It's increased every month over the past 15 months. The top three ETC Radios, I gotta say, the interview with with Donald, the interview with Bob Summerwill, the first time interview with patient money. Those three ETC Radios alone, the impressions on those I think it was about 15 to 20K impressions. Just under three episodes. 
+DM：是的。好的，谢谢你，Corey！祝贺你获得这笔资助。
 
-DM: That's amazing. You're doing great work, and I think you totally deserve the grant, and it's totally justified, and I think it's going to be very productive. I'm sure that in a few month you should apply for, because you can apply for this for the future rounds as well. If you have more projects, or not projects, but things to fund for ETC Radio, if that is possible, and I think you're doing a great job for ETC. So, thank you so much for that. 
+C：谢谢你，唐纳德！
 
-C: Thank you so much, I want to say thank you to the super strong ETC community. I'm here for them before anybody else, so I just want to mention that.
-
-DM: The difference between the Ethereum community, Cardano, Polkadot, Avalanche, and all those. And, ETC and Bitcoin, I would say are very similar, is that we believe in the principles, and we believe in the philosophy, and everything else is downstream of that. Like Istora said. And. that is very different than being there because it's cool, the community is cool, and "oh I like the Innovation" and "I just want to compete intellectually" or "I just want the coin to go up" and things like that. For us all of that is secondary and this is why ETC is such a passionate community.
-
-C: We're passionate, we're serious, we're here for the long term. Most people aren't, in crypto in general. 
-
-DM: Yeah. Bueno, thank you so much Corey! Congratulations for earning the grant.
-
-C:  Thank you Donald!
-
-DM: Goodbye.
+DM：再见。
 
 ---
 
