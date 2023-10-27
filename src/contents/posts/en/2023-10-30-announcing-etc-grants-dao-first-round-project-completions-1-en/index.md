@@ -1,14 +1,14 @@
 ---
 id: "2023-10-30-announcing-etc-grants-dao-first-round-project-completions-1-en"
 title: "Announcing ETC Grants DAO First Round Project Completions #1"
-author: DonaldMcIntyre
+author: Donald McIntyre
 featuredImage: egd-projects-1.png
 tags: [Announcement]
 ---
 
 We are happy to announce the completion of the first batch of projects that won ETC Grants DAO first round grants!
 
-The projects that have reported their finished projects are following:
+The projects that have reported their finished work are the following:
 
 ---
 
