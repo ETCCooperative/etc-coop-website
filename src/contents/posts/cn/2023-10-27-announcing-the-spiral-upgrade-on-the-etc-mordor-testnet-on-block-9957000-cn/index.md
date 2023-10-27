@@ -19,7 +19,7 @@ We announce that we have released the version of Core-Geth which sets the activa
 
 PLEASE NOTE THAT ECIP-1109 DOES NOT SPECIFY A BLOCK NUMBER FOR THE UPGRADE ON THE ETHEREUM CLASSIC MAINNET YET. THIS WILL HAPPEN AT A LATER TIME.
 
-## Rational for Making the Testnet and Mainnet Forks Independent
+## Rationale for Making the Testnet and Mainnet Forks Independent
 
 Before we are ready to announce an activation block on the mainnet, we're going to want to have completed all the testing which we need on the Mordor network. 
 
