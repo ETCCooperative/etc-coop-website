@@ -1,6 +1,6 @@
 ---
-id: "2023-10-27-announcing-the-spiral-upgrade-on-the-etc-mordor-testnet-cn"
-title: "Announcing the Spiral Upgrade on the ETC Mordor Testnet"
+id: "2023-10-27-announcing-the-spiral-upgrade-on-the-etc-mordor-testnet-on-block-9957000-cn"
+title: "Announcing the Spiral Upgrade on the ETC Mordor Testnet on Block 9,957,000"
 author: DonaldMcIntyre
 featuredImage: spiral-mordor.png
 tags: [Announcement]
@@ -9,6 +9,8 @@ tags: [Announcement]
 **IMPORTANT NOTICE FOR NODE OPERATORS ON THE ETC MORDOR TESTNET:**
 
 We announce that we have released the version of Core-Geth which sets the activation block for the upcoming network upgrade, named Spiral, for the Ethereum Classic Mordor testnet and it's important that every node on that test network updates their client before that block, which is estimated for Nov 7th.
+
+**The block number specified is:** 9,957,000
 
 ## Important Links
 
