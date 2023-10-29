@@ -6,54 +6,54 @@ featuredImage: egd-projects-1.png
 tags: [Announcement]
 ---
 
-We are happy to announce the completion of the first batch of projects that won ETC Grants DAO first round grants!
+我们很高兴地宣布ETC Grants DAO第一轮资助获奖项目的第一批项目已经完成！
 
-The projects that have reported their finished work are the following:
-
----
-
-**Project name:** Giveth
-
-**Description:** Adaptation of the Giveth platform so that every project on it can raise funds with ETC.
-
-**Project announcement link:** https://twitter.com/Giveth/status/1717874303557894547 
+已经报告完成工作的项目如下：
 
 ---
 
-**Project name:** Blockscout
+**项目名称：** Giveth
 
-**Description:** Worked on more modularity and microservice extensions for the Blockscout Explorer which are built in Rust, and a new front-end built with React. This new version will allow for more community participation as well as easy-to-update components and more possibilities for developer-based extensions.
+**描述：** 对Giveth平台进行适应性调整，以便其上的每个项目都可以使用ETC筹集资金。
 
-**Project announcement link:** https://x.com/BobSummerwill/status/1706691883806965865
-
-**Project Link:** https://etc.blockscout.com/ 
+**项目公告链接：** [https://twitter.com/Giveth/status/1717874303557894547](https://twitter.com/Giveth/status/1717874303557894547)
 
 ---
 
-**Project name:** HebeSwap Oracle
+**项目名称：** Blockscout
 
-**Description:** HebeSwap Oracle is a blockchain middleware that enables the integration of off-chain data and events into the ETC blockchain.
+**描述：** 为Blockscout Explorer进行更多的模块化和微服务扩展工作，该项目采用Rust构建，还建立了一个使用React构建的新前端。这个新版本将允许更多社区参与，以及易于更新的组件和更多面向开发者的扩展可能性。
 
-**Project link:** https://oracle.hebeswap.com/ 
+**项目公告链接：** [https://x.com/BobSummerwill/status/1706691883806965865](https://x.com/BobSummerwill/status/1706691883806965865)
 
----
-
-**Project name:** NerveNetwork
-
-**Description:** Integration of ETC to NerveNetwork, an asset relay network connecting multiple blockchains, a completely gas-free blockchain.
-
-**Project announcement link:** https://x.com/nerve_network/status/1717104363859231001
+**项目链接：** [https://etc.blockscout.com/](https://etc.blockscout.com/)
 
 ---
 
-**Project name:** POW Summit
+**项目名称：** HebeSwap Oracle
 
-**Description:** The POW Summit conference was held for the first time this year, 2023, in Prague at the end of September, and brought together all the major POW chains around our common cause.
+**描述：** HebeSwap Oracle是一种区块链中间件，可以将链下数据和事件集成到ETC区块链中。
 
-**Project link:** https://powsummit.com
-
-**All presentations at the summit:** https://www.youtube.com/@POWSummit
+**项目链接：** [https://oracle.hebeswap.com/](https://oracle.hebeswap.com/)
 
 ---
 
-Stay tuned as we go announcing more completed projects financed by the ETC Grants DAO program! 
+**项目名称：** NerveNetwork
+
+**描述：** 将ETC整合到NerveNetwork，这是一个连接多个区块链的资产中继网络，是一个完全免费的区块链。
+
+**项目公告链接：** [https://x.com/nerve_network/status/1717104363859231001](https://x.com/nerve_network/status/1717104363859231001)
+
+---
+
+**项目名称：** POW Summit
+
+**描述：** POW Summit会议于2023年首次在布拉格于9月底举行，汇集了所有主要的POW区块链，共同探讨我们的共同事业。
+
+**项目链接：** [https://powsummit.com](https://powsummit.com)
+
+**峰会上的所有演示：** [https://www.youtube.com/@POWSummit](https://www.youtube.com/@POWSummit)
+
+---
+
+敬请关注，我们将陆续宣布更多由ETC Grants DAO计划资助的已完成项目！
