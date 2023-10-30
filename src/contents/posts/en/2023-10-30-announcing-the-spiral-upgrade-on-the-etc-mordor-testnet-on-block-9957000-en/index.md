@@ -1,5 +1,5 @@
 ---
-id: "2023-10-27-announcing-the-spiral-upgrade-on-the-etc-mordor-testnet-on-block-9957000-en"
+id: "2023-10-30-announcing-the-spiral-upgrade-on-the-etc-mordor-testnet-on-block-9957000-en"
 title: "Announcing the Spiral Upgrade on the ETC Mordor Testnet on Block 9,957,000"
 author: DonaldMcIntyre
 featuredImage: spiral-mordor.png
