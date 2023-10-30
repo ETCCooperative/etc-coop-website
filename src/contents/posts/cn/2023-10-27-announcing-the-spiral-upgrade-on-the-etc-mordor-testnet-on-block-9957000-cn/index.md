@@ -1,30 +1,30 @@
 ---
 id: "2023-10-27-announcing-the-spiral-upgrade-on-the-etc-mordor-testnet-on-block-9957000-cn"
-title: "Announcing the Spiral Upgrade on the ETC Mordor Testnet on Block 9,957,000"
+title: "宣布ETC Mordor测试网上的Spiral升级将在区块9,957,000上进行"
 author: DonaldMcIntyre
 featuredImage: spiral-mordor.png
 tags: [Announcement]
 ---
 
-**IMPORTANT NOTICE FOR NODE OPERATORS ON THE ETC MORDOR TESTNET:**
+**关于ETC Mordor测试网节点运营者的重要通知：**
 
-We announce that we have released the version of Core-Geth which sets the activation block for the upcoming network upgrade, named Spiral, for the Ethereum Classic Mordor testnet and it's important that every node on that test network updates their client before that block, which is estimated for Nov 7th.
+我们宣布已发布了Core-Geth的版本，该版本设置了即将到来的网络升级“Spiral”的激活区块，适用于以太经典Mordor测试网，因此非常重要的是，该测试网络上的每个节点在该区块之前更新其客户端，该区块预计于11月7日之前激活。
 
-**The block number specified is:** 9,957,000
+**指定的区块号码为：** 9,957,000
 
-## Important Links
+## 重要链接
 
-- You may find the new release here: [https://github.com/etclabscore/core-geth/releases/tag/v1.12.15](https://github.com/etclabscore/core-geth/releases/tag/v1.12.15)
-- The specification for the upcoming upgrade is on ECIP-1109, which you can find here: [https://ecips.ethereumclassic.org/ECIPs/ecip-1109](https://ecips.ethereumclassic.org/ECIPs/ecip-1109) 
+- 您可以在此处找到新的发布版本：[https://github.com/etclabscore/core-geth/releases/tag/v1.12.15](https://github.com/etclabscore/core-geth/releases/tag/v1.12.15)
+- 即将升级的规范在ECIP-1109上，您可以在此处找到：[https://ecips.ethereumclassic.org/ECIPs/ecip-1109](https://ecips.ethereumclassic.org/ECIPs/ecip-1109)
 
-PLEASE NOTE THAT ECIP-1109 DOES NOT SPECIFY A BLOCK NUMBER FOR THE UPGRADE ON THE ETHEREUM CLASSIC MAINNET YET. THIS WILL HAPPEN AT A LATER TIME.
+请注意，ECIP-1109目前尚未为以太经典主网指定升级的区块号码。这将在以后的时间内确定。
 
-## Rationale for Making the Testnet and Mainnet Forks Independent
+## 独立设置测试网和主网分叉的理由
 
-Before we are ready to announce an activation block on the mainnet, we're going to want to have completed all the testing which we need on the Mordor network. 
+在我们准备好在主网上宣布激活区块之前，我们将要在Mordor网络上完成所有必要的测试。
 
-In the past we set both testnet and mainnet blocks at the same time, trying to estimate how much testing we might need and then having to scramble when things went wrong. But, now we can do those phases sequentially: Test completely on the testnet before picking a mainnet activation block. 
+在过去，我们曾同时设置测试网和主网区块，试图估计我们可能需要多少测试，然后在事情出错时不得不匆忙处理。但是现在，我们可以依次进行这些阶段：在测试网上完全测试，然后选择主网激活区块。
 
-If the above means a month of testing, then setting a mainnet block three months away, that is more prudent, especially for a blockchain as ETC that seeks the highest levels of security and stability.
+如果以上意味着一个月的测试，那么在三个月之后设置主网区块是更加谨慎的，特别是对于寻求最高安全性和稳定性水平的ETC这样的区块链。
 
-Core-Geth users will have sufficient time to adjust and upgrade their nodes for the Spiral hard fork on the mainnet.
+Core-Geth用户将有足够的时间来调整和升级其节点，以适应主网上的Spiral硬分叉。
