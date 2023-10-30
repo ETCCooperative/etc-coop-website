@@ -1,5 +1,5 @@
 ---
-id: "2023-10-27-announcing-the-spiral-upgrade-on-the-etc-mordor-testnet-on-block-9957000-cn"
+id: "2023-10-2-announcing-the-spiral-upgrade-on-the-etc-mordor-testnet-on-block-9957000-cn"
 title: "宣布ETC Mordor测试网上的Spiral升级将在区块9,957,000上进行"
 author: DonaldMcIntyre
 featuredImage: spiral-mordor.png
