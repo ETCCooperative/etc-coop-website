@@ -2,7 +2,7 @@
 id: "2023-10-30-announcing-etc-grants-dao-first-round-project-completions-1-en"
 title: "ETC Grants DAO第一轮项目完成情况 #1"
 author: Donald McIntyre
-featuredImage: egd-projects-1.png
+featuredImage: egd-projects-2.png
 tags: [Announcement]
 ---
 
