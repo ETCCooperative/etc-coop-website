@@ -12,7 +12,7 @@ We are happy to present  [Giveth](https://etcgrants.softr.app/project-details-en
 
 **You can watch this interview here:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iRqpY34xgag?si=GAtFbApuyS7gkHCR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="" height="" src="https://www.youtube.com/embed/iRqpY34xgag?si=GAtFbApuyS7gkHCR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ----------
 
