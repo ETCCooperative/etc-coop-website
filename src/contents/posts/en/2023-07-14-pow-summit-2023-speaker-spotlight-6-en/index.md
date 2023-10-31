@@ -6,7 +6,7 @@ featuredImage: speaker-ann-6.png
 tags: [Announcement]
 ---
 
-Once again we find ourselves announcing a raft of new dynamic and compelling cryptocurrency speakers, entrepreneurs, and innovators. In today's announcement we welcome **Adella Toulon-Forester, Jonathan Wilkins, Jaime Leverton, J Gdanski, and Ben Gagnon**. 
+Once again we find ourselves announcing a raft of new dynamic and compelling cryptocurrency speakers, entrepreneurs, and innovators. In today's announcement we welcome **Adella Toulon-Foerster, Jonathan Wilkins, Jaime Leverton, J Gdanski, and Ben Gagnon**. 
 
 **Adella Toulon-Forester** is a digital nomad passionate about all things crypto. We're excited to have her join us at this year's POW Summit Prague and share her unique perspective on the industry. 
 
