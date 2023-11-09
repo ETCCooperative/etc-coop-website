@@ -8,9 +8,9 @@ tags: [Announcement]
 
 Yesterday afternoon we discovered a problem in the latest release with regards to the [Spiral upgrade](https://ecips.ethereumclassic.org/ECIPs/ecip-1109) on the ETC Mordor testnet. 
 
-We did the released, but it didn't include the activation fork block number. 
+We did the release, but it didn't include the activation fork block number. 
 
-As soon as we realized this, we took the decision to make a new release setting the number to the one in the past (the one already established in the ECIP, block 9,957,000) and then reorganized the chain by out-powering it with our miners. 
+As soon as we realized this, we took the decision to correct the mistake in Core-Geth and reorganized the incorrect chain by out-powering it with our miners. 
 
 This was resolved with the following emergency patch release: [https://github.com/etclabscore/core-geth/releases/tag/v1.12.16](https://github.com/etclabscore/core-geth/releases/tag/v1.12.16)
 
