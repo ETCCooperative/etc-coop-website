@@ -1,30 +1,30 @@
 ---
 id: "2023-11-09-ethereum-classic-mordor-testnet-spiral-upgrade-emergency-patch-alert-cn"
-title: "Ethereum Classic Mordor Testnet Spiral Upgrade Emergency Patch Alert"
+title: "以太经典 Mordor 测试网 Spiral 升级紧急修补警报"
 author: Donald McIntyre
 featuredImage: emergency-mordor-patch.png
 tags: [Announcement]
 ---
 
-Yesterday afternoon we discovered a problem in the latest release with regards to the [Spiral upgrade](https://ecips.ethereumclassic.org/ECIPs/ecip-1109) on the ETC Mordor testnet. 
+昨天下午，我们发现在ETC Mordor测试网上关于[Spiral升级](https://ecips.ethereumclassic.org/ECIPs/ecip-1109)的最新发布存在问题。
 
-We did the release, but it didn't include the activation fork block number. 
+我们发布了版本，但它没有包括激活分叉块号。
 
-As soon as we realized this, we took the decision to correct the mistake in Core-Geth and reorganized the incorrect chain by out-powering it with our miners. 
+一旦意识到这一点，我们决定在Core-Geth中纠正这个错误，并通过我们的矿工力量重组不正确的链。
 
-This was resolved with the following emergency patch release: [https://github.com/etclabscore/core-geth/releases/tag/v1.12.16](https://github.com/etclabscore/core-geth/releases/tag/v1.12.16)
+这通过以下紧急补丁发布得以解决：[https://github.com/etclabscore/core-geth/releases/tag/v1.12.16](https://github.com/etclabscore/core-geth/releases/tag/v1.12.16)
 
-**PLEASE UPGRADE YOUR ETC MORDOR TESTNET NODES WITH THE ABOVE RELEASE.**
+**请使用上述版本升级您的ETC MORDOR测试网节点。**
 
-Both [ETC-Network.Info](https://fork-monitor-mordor.etc-network.info/) and [Blockscout](https://etc-mordor.blockscout.com/) have updated their Mordor nodes.
+[ETC-Network.Info](https://fork-monitor-mordor.etc-network.info/)和[Blockscout](https://etc-mordor.blockscout.com/)都已更新其Mordor节点。
 
-In summary, we had a problem with Core-Geth v1.12.15 release which meant that the Spiral upgrade did not activate correctly on the Mordor testnet.
+总的来说，我们在Core-Geth v1.12.15发布中遇到了问题，这意味着Spiral升级在Mordor测试网上没有正确激活。
 
-When a transaction using new Spiral features was processed, Besu activated as expected, but Core-Geth did not, causing a chain split on the testnet. 
+当使用新的Spiral功能处理交易时，Besu如预期地激活了，但Core-Geth没有，导致了测试网的链分裂。
 
-**(Note - we are not recommending Besu for end-users anymore, but maintain the client for cross-client testing, exactly like this!)**
+（注 - 我们不再建议Besu供终端用户使用，但为了跨客户端测试，我们仍然保留该客户端，就像这里发生的情况一样！）
 
-We stopped the Besu miner, resolved the issue with our Core-Geth nodes and then reorganized the chain back to the originally intended state. All of this was possible because few people are using the Mordor testnet. 
+我们停止了Besu矿工，解决了我们的Core-Geth节点的问题，然后重新组织了链，使其恢复到最初的状态。所有这些都是可能的，因为很少有人在使用Mordor测试网。
 
-Although this mistake happened, we are happy that we had decided to separate the mainnet and testnet upgrades precisely to minimize these risks. Testnets exist to test these transitions without risk to the main network, but equally, we'll learn and improve from what happened here.
+尽管发生了这个错误，但我们很高兴我们决定精确地将主网和测试网升级分开，以最小化这些风险。测试网存在是为了在没有对主网络造成风险的情况下测试这些过渡，但同样，我们将从这里发生的事情中学到并不断改进。
 
