@@ -1,5 +1,5 @@
 ---
-id: "2023-11-09-ethereum-classic-mordor-testnet-spiral-upgrade-emergency-patch-alert-en"
+id: "2023-11-09-ethereum-classic-mordor-testnet-spiral-upgrade-emergency-patch-alert-cn"
 title: "Ethereum Classic Mordor Testnet Spiral Upgrade Emergency Patch Alert"
 author: Donald McIntyre
 featuredImage: emergency-mordor-patch.png
