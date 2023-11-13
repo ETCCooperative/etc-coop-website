@@ -1,27 +1,27 @@
 ---
 id: "2023-11-14-core-geth-post-mortem-analysis-of-v1-12-15-en"
-title: "Core-Geth Post-Mortem Analysis of v1.12.15"
+title: "Core-Geth v1.12.15事后分析"
 author: Diego López León
 featuredImage: banner.png
 tags: [Infrastructure]
 ---
 
-On Oct 26th, version 1.12.15 of Core-Geth was released with, allegedly, the activation number set for the upcoming network upgrade in the Mordor network, according to what’s specified in [ECIP-1109](https://ecips.ethereumclassic.org/ECIPs/ecip-1109).
+10月26日，Core-Geth的1.12.15版本发布，据称在Mordor网络的即将进行的网络升级中设置了激活号，这符合[ECIP-1109](https://ecips.ethereumclassic.org/ECIPs/ecip-1109)中规定的内容。
 
-The process for generating a new release is documented [here](https://etclabscore.github.io/core-geth/developers/create-new-release/), and this process can be performed by any member of the team.
+生成新版本的过程在[这里](https://etclabscore.github.io/core-geth/developers/create-new-release/)有详细记录，任何团队成员都可以执行此过程。
 
-Just before starting this process, the software is considered well-tested by automated tools, and various non-functional aspects were monitored to detect regressions (e.g., performance issues, undesired incompatibilities). Releases like this one, where an upgrade is intended to activate at a certain height, must ensure that the activation itself is properly tested too.
+在开始此过程之前，该软件经过自动化工具充分测试，并监控各种非功能方面以检测回归（例如性能问题、不良不兼容性）。像这样的发布，其中升级打算在特定高度激活，必须确保激活本身也经过适当测试。
 
-This is achieved through the collaboration of different members who, after agreeing on a convenient activation block number for the activation to happen, isolate themselves from the public network and start mining their own private version of it. We call this process “shadow forking,” and once the convenient block number is reached, the new consensus rules are tested on top of the running forked network.
+这通过不同成员的合作来实现，他们在同意方便的激活块号以使激活发生后，隔离自己不与公共网络连接，并开始挖掘其私有版本。我们称这个过程为“阴影分叉”，一旦达到方便的块号，新的共识规则就会在正在运行的分叉网络之上进行测试。
 
-But there is one last step before closing this type of release, and it involves setting the specified number for when the new consensus rules will become active on the live network. This is a harmless value, targeting a point in the future, but its presence is crucial to match the specified behavior.
+但在关闭此类型的发布之前，还有一个步骤，它涉及设置新共识规则何时在实时网络上生效的指定数字。这是一个无害的值，瞄准未来的某一点，但其存在对于匹配指定的行为至关重要。
 
-Unfortunately, due to certain assumptions in the aforementioned releasing steps, in this version, the last commit of the history where the activation value was set was omitted, meaning that the upgrade was never meant to become active.
+不幸的是，由于上述发布步骤中的某些假设，在这个版本中，激活值被设置的历史的最后一次提交被省略，这意味着升级从未打算激活。
 
-We became aware of this situation when we attempted to test the new features in the network, and those tests failed (i.e., they behaved in the “old” way). At the same time, we realized that one of our miner nodes, a Hyperledger Besu one, started to diverge from the core-geth clients. This would happen when there is a breach in the consensus, and that’s what happened here: Hyperledger Besu had the activation where it was expected, and Core-Geth didn’t.
+当我们尝试在网络中测试新功能时，我们意识到了这种情况，并且这些测试失败了（即，它们以“旧”方式运行）。与此同时，我们意识到我们的一个矿工节点，一个Hyperledger Besu节点，开始与core-geth客户端分歧。当共识中存在漏洞时，就会发生这种情况，而这正是在这里发生的：Hyperledger Besu在预期的位置有激活，而Core-Geth没有。
 
-The solution came out pretty fast. We made an emergency release ([1.12.16](https://github.com/etclabscore/core-geth/releases/tag/v1.12.16)), with the value properly set to the already passed block, and amended the chain by mining up until we reached the new consensus. For this to happen, two situations helped us come out unharmed. First of all, we quickly realized the existence of different living branches, keeping the total terminal difficulty at levels we could handle. Second, but related, the difficulty for each block of the testnet is low enough to allow us to outpower the existing branch with not much power.
+解决方案出现得相当迅速。我们进行了紧急发布（[1.12.16](https://github.com/etclabscore/core-geth/releases/tag/v1.12.16)），将该值正确设置为已经过去的块，并通过挖掘直到达到新共识的方式修正了链。为了让这个过程顺利进行，有两种情况帮助我们安然无恙。首先，我们迅速意识到存在不同的存活分支，使总终端难度保持在我们可以处理的水平。其次，但相关的是，测试网络每个区块的难度都足够低，可以让我们用较小的算力战胜现有分支。
 
-After doing this, and with the collaboration of other stakeholders like Blockscout for the [Mordor explorer](https://etc-mordor.blockscout.com/), we were able to stabilize the network to the desired state.
+在执行了这些操作之后，并得到了类似Blockscout为[Mordor explorer](https://etc-mordor.blockscout.com/)的其他利益相关者的合作，我们成功稳定了网络，使其达到了期望的状态。
 
-Actions to be taken to prevent this from happening again include, but are not limited to, revamping the releasing process (e.g., adding more automation) and adding more testing after the release (i.e., checking the exposed fork ID from the recently released artifact).
+防止再次发生这种情况的措施包括但不限于，重新设计发布流程（例如，增加更多自动化）并在发布后添加更多测试（即，检查最近发布的工件的暴露分叉ID）。
