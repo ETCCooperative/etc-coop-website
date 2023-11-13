@@ -1,5 +1,5 @@
 ---
-id: "2023-11-14-core-geth-post-mortem-analysis-of-v1-12-15-en"
+id: "2023-11-14-core-geth-post-mortem-analysis-of-v1-12-15-n"
 title: "Core-Geth v1.12.15事后分析"
 author: Diego López León
 featuredImage: banner.png
