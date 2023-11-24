@@ -26,142 +26,144 @@ tags: [Announcement]
 
 在采访的亮点中，我们涉及了什么是 GIV 代币以及它是如何运作的，什么是 "公共物品" 项目，捐助者和项目如何匹配，以及捐款功能只是 Giveth 更宏大愿景的起点。
 
-## This Is the Transcription of the Interview
+## 以下为本次访谈的内容
 
-Donald McIntyre (DM): Hi, I'm Donald McIntyre senior editor at the ETC Cooperative. Today we're going to talk about the ETC Grants Program, one of the winners, which is Giveth, and we're going to talk to Griff Green, the founder of Giveth. Hi Griff, how are you? 
+Donald McIntyre（DM）：嗨，我是ETC合作社的首席编辑唐纳德·麦金泰尔（Donald McIntyre senior editor at the ETC Cooperative）。今天我们将讨论ETC Grants Program的一个获奖项目，即Giveth。我们将与Giveth的创始人格里夫·格林（Griff Green）交谈。嗨，格里夫，你好吗？
 
-Griff Green (GG): Doing well! How are you, man? 
+Griff Green（GG）：很好！你好吗？
 
-DM: Very well, thank you! Thank you very much for your time and for being here with us. And, I wanted to ask you a few questions about the project to know more about it, the first one is if you could describe the team.
+DM：非常好，谢谢！非常感谢你花时间参加我们的访谈。我想问你关于这个项目的一些问题，以了解更多信息。第一个问题是，你是否能描述一下团队。
 
-GG: Sure! Yeah, so Giveth is a very culturally diverse team. We are all over the place, all over the world, from the west coast of Canada to the Philippines, and everywhere in between. We have a large dev team, probably around 10 developers, and but, you know, Giveth is kind of intermixed with another project called General Magic. They're more of a for-profit consulting team, and so there's a little bit of a mix, sometimes, like, most of our design team actually works for General Magic and they kind of come in to do design work and, actually some of our devs, when there's not a lot of Giveth work, actually go and contract out with General Magic. So, if you combine both of those teams we're around 50 people. But, you know, some of the people some of the times are working for Giveth and some of, and other times they're working for a lot of other projects. 
+GG：当然！是的，Giveth是一个文化多元化的团队。我们分布在世界各地，从加拿大西海岸到菲律宾，到处都有我们的成员。我们有一个庞大的开发团队，大约有10名开发人员。但是，你知道，Giveth有时候与另一个名为General Magic的项目混合在一起。他们更像是一个盈利咨询团队，因此有时候我们的设计团队实际上是为General Magic工作的，他们会过来做设计工作，而一些我们的开发人员在Giveth工作不太繁忙的时候，实际上会去与General Magic签约。因此，如果将这两个团队合并起来，我们大约有50人左右。但是，你知道，有些人有时候为Giveth工作，有些时候他们为许多其他项目工作。
 
-DM: So, at any given time the 50 people can be working on the nonprofit side or the profit side. 
+DM：因此，在任何给定的时间内，这50人可以在非营利方面或盈利方面工作。
 
-GG: Exactly. This is to survive bear market, because that's what we got to do. 
+GG：确切地说。这是为了在熊市中生存，因为这就是我们必须做的。
 
-DM: That's good, yeah, this one has been a long one!
+DM：没错，是的，这个熊市太长了！
 
-GG: Yeah! yeah um 
+GG：是的，太长了。
 
-DM: The second question is if you could describe the project itself Giveth, what is Giveth?
+DM：第二个问题是，你是否可以描述一下Giveth项目本身，Giveth是什么？
 
-GG: Yeah. So, Giveth is focused on really bringing in the nonprofit space and the nonprofit ethos into the crypto scene, right? The people who are on the ground right now making change. For me, crypto is about building something better than governments, and it might surprise people, the direction that we're taking, but I don't think it should be a surprise because if you really think about it, when governments fail to provide value to society, people start nonprofits. When people demand some kind of, when the government isn't providing clean water, clean water nonprofits crop up in Venezuela, for instance, so nonprofits are the seed of the revolution, the seed of the evolution for a better society that doesn't focus on government. So, Giveth is trying to be this bridge for the people in the nonprofit space today to connect with the web 3 world to build this these bridges to really make progress toward this the stream of having sort of like a free market replacement for governments using web3 tech. 
+GG：是的。因此，Giveth的重点是真正将非营利领域和非营利精神引入到加密领域，对吗？那些目前正在改变的基层人民。对我来说，加密是关于建立比政府更好的东西，这可能会让人们感到惊讶，我们要采取的方向，但我认为这不应该是一个惊讶，因为如果你真的思考一下，当政府未能为社会提供价值时，人们就会成立非营利组织。例如，当政府未能提供清洁水时，委内瑞拉就会出现清洁水非营利组织。因此，非营利组织是革命的种子，是迈向不以政府为重心的更好社会的演变之种子。因此，Giveth试图成为当今非营利领域的人们与Web 3世界连接的桥梁，以构建这样的桥梁，真正朝着使用Web3技术实现对政府的自由市场替代的进展。
 
-DM: So, I checked out the Giveth, and I think that the two main participants, correct me if I'm wrong, are the donors on one side and the projects on the other, no? 
+DM: 我查看了Giveth，我认为主要的两个参与者，如果我错了，请纠正我，是一方面的捐赠者，另一方面是项目，对吧？
 
-GG: Yeah, so giveth as an application today so there's Giveth as a movement which is what I kind of described before, and then there's the actual application that we're moving to Ether Classic. It's a donation application like GoFundMe or Indiegogo, or Kickstarter and, yes exactly, any project can come into Giveth, create a project and get it listed and if they're creating in public goods, like value for society at large, then they can become verified and get give backs. So, the cool thing is when donors donate to a project on Giveth, 100% of the donation goes to the nonprofit, but at the, we kind of do, kind of like, donation mining so when someone donates, we actually give them GIV tokens for donating as long as it's to a public goods project, a verified public goods project. And, so the donors get receive GIV tokens the project gets all of the donation and if the project uses a referral address, like a referral key they actually can get a portion of the givebacks. We have lots of cool Web3 features that Indiegogo could never do, you know, we don't take cuts from the donations, we have quadratic funding, we have referral links that share the donate, GIV token rewards, based off of to people getting referrals, and we have all sorts of other cool features that really are only available because we created an economy around our platform with the GIV token 
+GG: 是的，所以Giveth今天是一个应用，就是我之前描述的Giveth作为一个运动，然后是我们正在转移到以太经典的实际应用。这是一个捐赠应用程序，类似于GoFundMe、Indiegogo或Kickstarter，没错，确切地说，任何项目都可以进入Giveth，创建一个项目并将其列出，如果他们正在创建公共物品，即对整个社会有价值的东西，那么他们可以变得被验证并获得回报。所以，有趣的是当捐赠者向Giveth上的项目捐赠时，100%的捐赠都会去非营利组织，但在这个过程中，我们进行了一种像捐赠挖矿的操作，所以当有人捐赠时，只要是给公共物品项目捐赠，我们实际上会给他们GIV代币作为奖励。因此，捐赠者获得GIV代币，项目获得所有捐赠，如果项目使用引荐地址，比如引荐密钥，他们实际上可以获得回报的一部分。我们有很多Indiegogo无法做到的Web3功能，你知道，我们不从捐赠中抽取费用，我们有二次资金，我们有分享捐赠的引荐链接，基于获取引荐的人的GIV代币奖励，我们有许多其他只有在我们的平台周围创建了一个与GIV代币相关的经济时才能使用的很酷的功能。
 
-DM: Yeah. And, also something that Kickstarter and those wouldn't be able to do is to make them permissionless, no? 
+DM: 是的。而且，Kickstarter等平台无法做到的还包括使它们无需许可，不是吗？
 
-GG: Exactly, exactly. I mean, we have projects from Iran, we have projects from anywhere in the world that are on our platform, we do not discriminate. We do have a listing process, so when someone creates a project they get a link and they can send that link anywhere. So, because it is our front end and our website, we don't want, like, you know, violent projects for instance that are, like, saying let's bomb Israel or something right now, right? So, we have our own guidelines that we do enforce that are more akin to, like, you know, don't promote violence don't use profanity, you know, these kinds of things, but we don't care who you are where you're from or as long as you're providing value to society your project will make it to our front end and people can donate to it from all around the world. We don't take any custody of any funds, okay, it's just a direct "send".
+GG: 确切地说。我是的，我们有来自伊朗的项目，我们有来自世界各地的项目，都在我们的平台上，我们不歧视。我们确实有一个上市流程，因此当有人创建一个项目时，他们会获得一个链接，然后他们可以将该链接发送到任何地方。因此，由于这是我们的前端和我们的网站，我们不希望像暴力项目那样的，比如说，现在说“让我们轰炸以色列”之类的项目进来。所以，我们有自己的指南，我们确实执行，更接近于，你知道，不要宣扬暴力，不要使用粗俗语言，这类东西，但我们不关心你是谁，你来自哪里，只要你为社会提供价值，你的项目就会出现在我们的前端，全世界的人们都可以向它捐赠。我们不保管任何资金，好吗，这只是直接的“发送”。
 
-DM: It happens on the on the blockchain. On the smart contract.
+DM: 它发生在区块链上。在智能合约上。
 
-GG: Yeah, there's not even smart contracts, actually. So, when you create a project on Giveth, you just put in your address. It can be your personal key. And when someone donates to you they send it to you. So, it's a direct transfer. We have pure, we used to do it with smart contracts, honestly, and was just more complicated for everyone. So, we try to make it as frictionless as possible. You just bring your own address, one account abstraction and other cool user experience arise, maybe we'll move more towards smart contracts, but, you know, we've been around since 2016 and we've been doing this for a long time trying to make it easy for nonprofits and donors alike, and even just that extra "Approved" button that you have to use to make a transfer of a token to a project, like, why? You know, so we removed all of that and we just go straight peer-to-peer donations. 
+GG: 是的，实际上甚至没有智能合约。因此，当您在Giveth上创建项目时，您只需输入您的地址。可以是您的个人密钥。当有人向您捐赠时，他们将资金发送给您。所以，这是直接的转移。我们有纯粹，我们以前确实使用智能合约，但老实说，对于每个人来说都更加复杂。因此，我们试图尽可能地减少摩擦。您只需带上自己的地址，一个账户抽象和其他很酷的用户体验出现，也许我们会更加倾向于智能合约，但是，你知道，我们成立于2016年，我们一直在做这个很长时间，努力使其对非营利组织和捐助者更加简单，甚至只是为了将代币转移到项目的那个额外的“已批准”按钮，为什么呢？您知道，所以我们去掉了所有这些，我们直接进行点对点捐赠。
 
-DM: So, the part that touches the blockchain, Giveth today is on Ethereum, no?
+DM: 那么，接触到区块链的部分，Giveth今天在以太坊上，对吧？
 
-GG: We're on Ethereum and we're on Optimism and Polygon and Gnosis chain.
+GG: 我们在以太坊上，在Optimism上，在Polygon上，在Gnosis链上。
 
-DM: So, now the people go to your web app and you have the project, you have the donor, and when there, when there is a match and they send money, that's the only time that it touches the blockchain, which is the transaction to move funds from the donor to them. 
+DM: 所以，现在人们进入您的Web应用程序，您有项目，有捐赠者，当有匹配并且他们发送资金时，这是唯一接触区块链的时候，也就是将资金从捐赠者移动到他们的交易。
 
-GG: And then we reward them with GIV tokens, but that's something we do post-processing, like, we look at all the donations for the last two weeks and we match those donations with "GIV back rewards".
+GG: 然后我们用GIV代币奖励他们，但这是我们事后处理的事情，就像我们查看过去两周的所有捐赠一样，我们与“GIV代币奖励”匹配这些捐赠。
 
-DM: The GIV token, G-I-V is the symbol. The GIV token is an ERC-20 token? 
+DM: GIV代币，G-I-V是符号。GIV代币是一个ERC-20代币吗？
 
-GG: Yes. 
+GG: 是的。
 
-DM: Okay, so that also is on the blockchain.
+DM: 好的，所以这也在区块链上。
 
-GG: Yep. So, that's on Ethereum and Gnosis chain and Optimism and we're bringing it to ETC. We're very excited to bring it to Ether Classic. 
+GG: 是的，它在以太坊上，在Gnosis链上和在Optimism上，我们将其带到以太经典。我们非常期待将其引入以太经典。
 
-DM: So, now Giveth is going to be in those blockchains that you mentioned and also in ETC, and this is, this was the purpose of getting the grant.
+DM: 所以，现在Giveth将会在您提到的那些区块链上，还有ETC，这就是获得补助的目的。
 
-GG: Yes. We're, we're very excited to try to bring more of a donation culture to Ethereum Classic. 
+GG: 是的，我们非常兴
 
-DM: That's amazing. This brings me, this brings me to a question which is, and we're going to talk about these things later, no? This competition between proof of stake and proof of work and then Ethereum and ETC, which were one before and now separated, but now the only isolated question that I have is that is this the first time that you're going to implement Giveth on a proof of work blockchain. 
+奋地试图将更多的捐赠文化引入以太经典。
 
-GG: Let's see, I mean Giveth was on Ethereum when it was proof of work. So, I wouldn't say that, let me think
+DM: 这太棒了。这让我想到一个问题，稍后我们会讨论这些问题，不是吗？权益证明和工作证明之间以及以太坊和ETC之间的竞争，以前它们是一体的，但现在分开了，但我唯一想问的孤立的问题是，这是您第一次在工作证明区块链上实施Giveth。
 
-um because Optimism is a rollup, Solo, Solo I believe is like a delegated proof of stake as well so I guess it will be, it will be the only proof of work blockchain. yeah.
+GG: 让我们看看，我是说Giveth当时是在以太坊上的工作证明时存在的。所以，我不会说，让我想想。
 
-DM: That's interesting. So, you didn't have issues with the proof of work/proof of stake debate whether one is good, the other is bad, or or things like that? 
+因为Optimism是一个Rollup，Solo，我相信是一个委托权益证明，所以我想它将是唯一的工作证明区块链。是的。
 
-GG: No. I mean, I've always been more of a fan of, I mean they both have their merits, they both have their merits, and I'm not one that's like "oh my God we're spending too much electricity". I feel like markets will settle themselves out, honestly, and that we should trust markets to manage these things. I, you know, I'm more of a fan of Ethereum. I think the proof of stake strategy makes sense for Ethereum. I think the proof of work strategy makes sense for Ether Classic.
+DM: 这很有趣。所以，你们在权益证明/工作证明的辩论中没有问题，其中一个好，另一个不好，或者类似的问题？
 
-DM: That's very interesting. I think there's two things, that you, that you said that are very interesting. One is that you started with smart contracts, the whole back end, and now you, you reduced that and you just use the blockchain for its most fundamental value, no? Which is the treasury and the movements. And the other thing is that you are working both on proof of stake and proof of work blockchains and that you are agnostic in that sense. That's that's very very very interesting. The only, the only other question that I had about the project itself is if the projects proposed have to be public goods and what is the definition of a "public good" so people can know and, and go and post them.
+GG: 没有。我的意思是，我一直更倾向于，我是说它们都有其优点，它们都有其优点，我不是那种“哦，天哪，我们花太多电了”的粉丝。我觉得市场会自己调整，老实说，我们应该相信市场来管理这些事情。我更喜欢以太坊，我认为对以太坊来说，权益证明策略是有道理的。我认为工作证明策略对以太经典来说是有道理的。
 
-GG: No. Anyone can post a project on Giveth and get a link and send funds to people and even if you just have a business idea, that you're trying to make money off of and want to use Giveth to fundraise for that, sure, go ahead and you'll even be searchable and everything, but what we're really focused on, and what our goal is to support projects that are providing public goods. Public goods are the things that governments and nonprofits generally strive to provide. These are things like roads or taking care of the homeless, taking care of the environment. These things do not have great business models because they don't have customers. Public goods, the academic definition of a public good is something that is non-rivalrous and non-excludable, blah, blah, blah. No one cares. Public goods are good. You know, public goods are things that are good for society good for the public and that don't have business models, right? Because instead of excluding people, you help, you provide this value to everyone when you take care of the homeless, a homeless person, you're not just helping that homeless person, you're also helping the whole neighborhood, who when they walk by the homeless person they're like, you know, distraught a little bit. So, when you take care of the environment, there's no one to charge. These things don't have good business models, but we believe they can have good economic models. And, that's really...the end goal is not donations for Giveth. Donations is a stepping stone to enabling these groups to actually create their own economies and create their own currencies. So while Giveth right now is removing all the smart contracts to make ease of use for non-technical people we actually want to one day make it so that people can launch their own economy on Giveth. Launch their own token and have their own reward mechanisms for people who are providing value to society. 
+DM: 非常有趣。我认为有两点，你说的两点很有趣。一是你一开始使用智能合约，整个后端，现在你简化了它，只是为了使用区块链的最基本价值，对吧？也就是财务和资金的移动。另一件事是你既在权益证明又在工作证明的区块链上工作，你在这方面是中立的。这很有趣。我唯一还有关于项目本身的问题是，提出的项目是否必须是公共物品，公共物品的定义是什么，这样人们就可以了解并发布它们。
 
-DM: Okay, good. Bueno, thank you, thank you very much for the explanation. How much did you get from the ETC Grants Program? 
+GG: 不是的。任何人都可以在Giveth上发布项目，获取链接并向人们发送资金，即使你只是有一个商业理念，想要从中赚钱并希望使用Giveth为此进行筹款，那当然可以，而且你甚至可以被搜索到，但我们真正关注的，我们的目标是支持那些提供公共物品的项目。公共物品通常是政府和非营利组织努力提供的事物。这些可能是道路、照顾无家可归者、照顾环境等。这些东西没有很好的商业模型，因为它们没有顾客。公共物品，学术上对公共物品的定义是一种既不竞争也不可排除的东西，等等。没人关心。公共物品是好的。你知道，公共物品是对社会有益的东西，对公众有益的东西，而且没有商业模型，对吧？因为你不是在排除人，而是在帮助，当你照顾无家可归的人时，你不仅帮助了那个无家可归的人，还帮助了整个邻里，当他们经过那个无家可归的人时，他们会感到有点心烦意乱。所以，当你照顾环境时，没有人可以收费。这些事情没有好的商业模型，但我们相信它们可以有良好的经济模型。这真的...最终目标不是Giveth的捐赠。捐赠只是让这些团体能够真正创建自己的经济并创建自己的货币的一个垫脚石。因此，尽管Giveth现在正在删除所有的智能合约以使非技术人员更容易使用，但我们实际上希望有一天人们可以在Giveth上启动自己的经济体系。启动自己的代币，并为为社会提供价值的人制定自己的奖励机制。
 
-GG: Well, you know, I believe we got $50,000. We haven't gotten it all yet We're doing more of a milestone based approach. We want to, you know, we're running technical hurdles. The graph is something that we rely on. And, so we need to do all the things that we want to do which do include smart contracts. For instance, bring giving people who are holding GIV tokens on Ethereum Classic a way to stake those GIV tokens and actually earn rewards for doing so. We need the graph, so we're, like, still investigating on the technical side exactly how to do that and deploy our own graph node. So, I hope we're going to get the full $50k if we can provide the full work, but we don't want the money if we can't do the work, so. 
+DM: 非常好，谢谢，非常感谢您的解释。你从ETC Grants计划中获得了多少资金？
 
-DM: Yeah, yeah, yeah. To to clarify, the, you got $50,000 but the conditions of giving, of the transfers, is based on milestones and things like that. So, you're going to go getting the $50,000 according to a program that you propose and as you go delivering you get all the money.
+GG: 嗯，你知道，我相信我们得到了5万美元。我们还没有全部收到，我们采用了更基于里程碑的方法。我们希望，你知道，我们面临技术障碍。The Graph是我们依赖的一部分。因此，我们需要完成我们想做的所有事情，其中包括智能合约。例如，为那些持有以太经典上的GIV代币的人提供一种方式来质押这些GIV代币并实际上因此而获得奖励。我们需要The Graph，因此我们仍在技术上调查确切如何做到这一点并部署我们自己的The Graph节点。因此，我希望我们将得到全部的5万美元，如果我们能提供全部工作，但如果我们无法完成工作，我们就不想要这笔钱。
 
-GG: Exactly, and we're, and we're looking at a huge technical hurdle that we're not 100% sure we can solve. I think, I, I hope we can and we're working with people from the graph to do it, but it doesn't all rely on us, unfortunately. 
+DM: 是的，是的，是的。澄清一下，你得到了5万美元，但转账的条件是基于里程碑和类似的事物。因此，你将根据你提出的计划逐步获得5万美元，并且随着你的交付，你会得到所有的钱。
 
-DM: What is the graph?
+GG: 没错，我们正面临一个很大的技术难题，我们并不百分之百确定能够解决。我认为，我希望我们能够，我们正在与The Graph的人合作做这件事，但遗憾的是这不完全取决于我们。
 
-GG: It is an indexer, it's like when things happen in smart contracts, the smart contract will send out an event, right? And it will also change balances, and the graph is a middleware that's kind of a piece of infrastructure that a lot of blockchains use, Ethereum based blockchains, to manage listening for events and balance changes and quering those, and then using that information to then update the front end, because going straight from blockchain to, like, the website you know it's really slow and ugly, you know, like, and it's really hard. And, so the graph is middleware that's made specifically for listening to the blockchain for specific events or balance changes and then updating the little numbers on a website. How many tokens you have and stuff like that. 
+DM: The Graph是什么？
 
-DM: So, you would need to build a graph to be able to adapt the website also to ETC. 
+GG: 它是一个索引器，就像当智能合约发生事情时，智能合约将发送事件，对吧？它还会更改余额，而The Graph是中间件，是许多基于以太坊的区块链使用的一种基础设施，用于监听事件和余额变化并查询这些信息，然后使用该信息来更新前端，因为直接从区块链到，比如，网站，你知道，这真的很慢，而且很丑陋，你知道，而且非常困难。因此，The Graph是中间件，专门用于监听区块链上的特定事件或余额变化，然后更新网站上的小数字。你有多少代币之类的。
 
-GG: Exactly, otherwise we'd have to completely rebuild our website and, honestly, we can't do that for the, it's not enough. 
+DM: 所以，你需要构建一个The Graph，以便也能够将网站适应ETC。
 
-DM: Okay, bueno, I hope you can accomplish that. 
+GG: 没错，否则我们将不得不完全重建我们的网站，而且老实说，这还不够。
 
-GG: I hope so too and, honestly, I think if we do, it will be a big boom for, because other projects have solved this. I think Hebe Swap has got to be using some kind of solution for this. But it's not very well publicized and if we do solve it we will write a blog post or something. We'll put it out there, put some documentation out there that can help other people who are running into similar issues that we are. 
+DM: 好的，bueno（好），希望你能完成。
 
-DM: Don't block explorers solve this because they provide all the information that's happening in the blockchain?
+GG: 我也希望如此，而且老实说，我认为如果我们成功了，这将是一次巨大的成功，因为其他项目已经解决了这个问题。我认为Hebe Swap肯定是使用某种解决方案的。但它没有得到很好的宣传，如果我们解决了这个问题，我们将写一篇博客文章或其他什么的。我们会把它公之于众，提供一些文档，以帮助其他遇到类似问题的人。
 
-GG: They solve, they solve it for an individual person who wants to find that information out but if you want to build a website that, you know, when you click a button and you stake your tokens then those numbers just, like, very quickly show up, and give a user experience that someone is, like, "oh yeah this is smooth", a block Explorer won't solve that because it takes maybe 30 seconds for a transaction to even show up on a block Explorer and then we would have to query the block explorer to get these APIs out and, you know, how do we pay for these things. These queries with the block explorer that there... It would be nice, block explorers have the infrastructure to do this work, but there is very specialized middleware.
+DM: 难道区块链浏览器不能解决这个问题吗？因为它们提供了区块链上发生的所有信息。
 
-DM: They apply it to a different thing and you need to create your own.
+GG: 它们为想要查找信息的个人解决了这个问题，但如果你想构建一个网站，你知道，当你点击按钮并质押代币时，这些数字会迅速显示出来，并为用户提供一种体验，就像有人说“哦，是的，这很顺利”，区块浏览器解决不了这个问题，因为在区块浏览器上甚至需要30秒才能显示交易，然后我们必须查询区块浏览器以获取这些API，你知道，我们如何支付这些东西。使用区块浏览器进行这些查询，有...这将很好，区块浏览器有基础设施来完成这项工作，但有一个非常专业的中间件。
 
-GG: You know, unfortunately users have such expectations! Damn those users in their expectations! You know, like, they want everything to happen so quickly, and smoothly, so we have to, we have to try to live up to it. 
+DM: 他们将其应用于不同的事物，你需要创建自己的。
 
-DM: You mentioned this briefly, but the next question is, why did you choose ETC?
+GG: 你知道，不幸的是，用户有如此高的期望值！该死的用户和他们的期望！你知道，他们希望一切都发生得那么快，那么顺利，所以我们必须，我们必须努力达到这个目标。
 
-GG: Well, I'll be honest, I feel like I'm almost a founder of ETC. You know, I have a, I have some history here. My first project was the DOW and I was part of the white hat group who rescued The DAO. And, helped. yeah, like, I worked, I worked for Slockit during The DAO days and I helped make sure that the hard fork happened so that ETC could exist. I don't think most people would frame it that way and, honestly, I think a lot of the ETC True Believers don't like my stance on this very controversial issue, but I think the the magic of ETC and blockchains in general, is that you cannot use blockchain tech to impose your values on other people. And, that's why ETC exists, because some people believe that the substrate of Ethereum should be immutable and should not have given the money back to DAO token holders, and I tend to be on the other side of that debate, and I think that it's important that we use whatever means possible to hack the hacker and give people the money back that they lost, so. But you know, but what's cool is that it's not a 51% vote that decides these things. It's actually consensus networks, so yeah, social consensus was formed and the people who, like, you know, wanted to give the money back to the hacker, or keep, let the hacker keep the money, and, like live to the ideals of immutability, they have Ethereum Classic, and so, yeah, so I'm very, I'm happy to play both sides of that coin. I think both systems have it's proven, it's it's it's it's just true that both systems have value, right? 
+DM: 你简要提到了这一点，但下一个问题是，为什么选择ETC？
 
-DM: I am also another hybrid, like you because I was in Ethereum since, interacting, since 2014, I met Vitalik in 2013, but, so, I was part of the community and I was against the DAO Hard Fork and really arguing very, very, almost, actively and vehemently, and passionately, again with Vitalik and Vlad, even Bob Summerwill, Etc. Against, against doing the DAO Hard Fork and just, digamos, respecting immutability, but when the split happened, I didn't stay with ETC. I stayed with Ethereum for a year I think. Continuing to argue. At that time, I was, that event changed me in a way that I learned about security, true security, no? On blockchains and security in general. Much more, I became much more aware, for me the blockchain was, wow, decentralized and we can do smart contracts it was all about the innovation and the gadgets, but that event gave me awareness of security. And, and, I also, it changed my mind also about proof of stake. So, I so, I argued with Vlad and Vitalik for one year for them to not push and to [not] continue with the proof of stake, and to keep Ethereum with proof of work, but when I saw that it was futile and that I was going to lose, then I moved to ETC. And, in 2018 I started to work for ETC.
+GG: 嗯，老实说，我觉得我几乎是ETC的创始人。你知道，我在这里有一些历史。我的第一个项目是The DAO，我是拯救The DAO的白帽子小组的成员。我帮助过，是的，我在The DAO时代为Slockit工作，我帮助确保硬分叉发生，以便ETC能够存在。我认为大多数人不会以这种方式构建它，而且老实说，我认为很多ETC的忠实信徒都不喜欢我在这个非常有争议的问题上的立场，但我认为ETC和区块链总体的魔力在于你无法使用区块链技术将你的价值观强加给其他人。这就是ETC存在的原因，因为有些人认为以太坊的基础应该是不可变的，不应该把钱返还给DAO代币持有者，而我倾向于这场辩论的另一方，我认为我们应该用一切手段来入侵黑客并将失去的资金返还给人们，所以。但你知道，但很酷的是这不是一个51%的投票来决定这些事情。实际上是共识网络，是的，社会共识形成了，那些想把钱返还给黑客，或让黑客保留这笔钱，并且遵循不可变性理念的人，他们有以太坊，所以，是的，我很高兴能够玩弄这个硬币的两面。我认为两个系统都已经证明了，事实上，两个系统都有价值，对吧？
 
-GG: Nice, nice so really it's the proof of work that keeps you like focused on ETC. I would say security, the purpose of, I worked with Nick Szabo in two projects, he's in a way, he's my mentor and all these things about blockchain and Cypherpunk philosophy and all that, and clearly, clearly, they have only one goal which is to minimize the role of trusted third parties and to increase security. So, so that was that was my focus and I believe that proof of work is the only consensus mechanism that really solves the decentralization thing up to, at least, up to 50% fault tolerance. So, that, that was, that's more or less my my philosophy. But, this is, this is very, very interesting. So, I already, we already spoke, then, about your experience with The DAO and why ETC. We were, we were, digamos, you explained ETC and that you are okay with proof of work and proof of stake, that you think that they have different roles and good roles for Ethereum good roles for ETC. My last question is the, G-I-V token, no? So, people, the more activity there is, people are going to go receiving the GIV token, and this includes the donors and the projects. If they are public good projects and they have to be, they, verified by the team, by your team, what's the GIV token good for? What, what does it do, like, what?
+DM: 我也是另一个混合体，像你一样，因为我从2014年开始就在以太坊中，我在2013年遇到了Vitalik，但是，所以，我是社区的一部分，我反对DAO硬分叉，并且真的非常，非常，几乎，积极且热情地与Vitalik和Vlad争论，甚至是Bob Summerwill，Etc。反对，反对进行DAO硬分叉，只是，digamos，尊重不可变性，但当分裂发生时，我没有留在ETC。我在以太坊呆了一年，我想。继续争论。那时，我，那个事件以某种方式改变了我，让我了解了安全性，真正的安全性，对吧？在区块链和一般安全性方面。对于我来说，区块链是，哇，去中心化，我们可以做智能合约，一切都是关于创新和小工具，但那个事件使我对安全性有了更多的认识。而且，它还改变了我的观念，也让我对权益证明改变了我的看法。所以，我与Vlad和Vitalik争论了一年，让他们不要继续使用权益证明，并使以太坊保持工作证明，但当我意识到这是徒劳无功，并且我将会失败时，我就转向了ETC。在2018年，我开始为ETC工作。
 
-GG: If you are, so on the donation platform, you know, there's always this challenge, like, who gets shown first, and so we use GIV tokens for governance. Not only for, we, we use it for the most important and interesting thing, is probably that if you stake your GIV tokens then you can boost projects and move them up on the list. So, it's kind of like a, there's this term called "token curated registry". Basically the projects on Giveth can be sorted and are default sorted by how many GIV tokens have staked behind each project. Is a way to frame. Also, for our own development, we have this thing called "token log" where GIV token holders can decide which issues are prioritized for our development. So,  you know, right now it's like multisig compatibility is the most, is I believe, on top, and so, but because right now you can't really use it with a multisig. They want us to get it "Safe" to work with it. So, that's what we're working on. And so, GIV token holders really run Giveth and on top, and also you can stake your GIV tokens to, for governance and want, and we reward people who are actively staking. So, there is a, an issuance kind of, like, issuance that is going to people who stake and the longer you lock your tokens the more issuance you get. So, it's kind of like a good interest rate and, on top of that, the real goal of Giveth again is not donations this is a stepping stone and what we want to do is we want to allow GIV tokens to be the substrate for the investment opportunities of nonprofits. I believe that we won't succeed at building something better than governments until you can invest in a nonprofit. Sounds kind of crazy, but that's the goal and we're going to use GIV tokens to make that easy. And, it's all integrated into making a nonprofit kind of a hybrid. So, they can request donations and receive investment. And when, so they, when they receive investment, we love bonding curves, bonding curves actually are kind of popular with Friend-Tech, right now, and these Friend-Tech clones, but what we're really excited about using it for, is more for, instead of like Friend-Tech where it's, like, kind of a scammy thing, it's, so, that a nonprofit can actually get investment and create a token that has built-in liquidity, already. It's all always, always liquid token. And, when someone gets a donation, instead of getting, when these projects get donations, instead of the give-backs going to the donor, the give-backs would go into the bonding curve and issue a project token to the donors. So, that their donors, their investors, and their workers, the people who are creating value for the organization, can all have a share in the potential, like, future of this project. And, if the project grows and the price of the token goes up then they all actually financially benefit from building this public good and the GIV token is going to be the the key token of that substrate. So, yeah, so that's the that's the future utility that we're working of towards building. We call it GURVES and there's a great blog post that goes through this, it's called a "[Evolving Nonprofits Into Regen Economies](https://blog.giveth.io/evolving-nonprofits-into-regen-economies-f8282f97f8d3)", yeah, regen economies.
+GG: 好的，好的，所以确实是工作证明使您专注于ETC。我会说安全性，我在两个项目中与Nick Szabo合作，他在某种程度上是我的导师，以及所有关于区块链和Cypherpunk哲学的东西等等，显然，显然，它们只有一个目标，即最小化信任第三方的角色并提高安全性。所以，那就是，那就是我的关注点，我相信工作证明是唯一真正解决分散化问题的共识机制，至少在50%的容错率上是这样。所以，这，这更或多或少是我的哲学。但是，这非常，非常有趣。所以，我们已经谈论过了，然后，关于您与The DAO的经历以及为什么选择ETC。我们，我们，digamos，您解释了ETC以及您对工作证明和股权证明都没有问题的观点，您认为它们有不同的角色，并且对以太坊有好的角色，对ETC有好的角色。我最后的问题是G-I-V代币，对吧？所以，随着活动的增加，人们将获得GIV代币，这包括捐赠者和项目。如果它们是公益项目，并且必须由您的团队验证，那么GIV代币有什么用？它有什么作用，就像，什么？
 
-DM: Regional economies.
+GG: 如果你在捐赠平台上，你知道，总会有这样的挑战，就是谁会首先显示出来，所以我们使用GIV代币进行治理。不仅如此，我们，我们主要而有趣的一件事可能是，如果您质押了GIV代币，那么您可以提升项目并将其移至列表的顶部。所以，这有点像，“代币策展注册”，基本上Giveth上的项目可以被排序，并且默认情况下按每个项目背后抵押的GIV代币的数量排序。是一种构架的方式。此外，对于我们自己的发展，我们有一种称为“代币日志”的东西，GIV代币持有者可以决定我们的开发中优先考虑哪些问题。所以，你知道，现在就像多签兼容性最重要，我相信，是最重要的，所以，但因为现在你实际上不能与多签一起使用。他们希望我们使其与“安全”兼容。这就是我们正在做的。因此，GIV代币持有者真正运行Giveth，而且您还可以质押您的GIV代币进行治理，我们鼓励积极质押的人。因此，有一种发行，比如，发行会发给那些质押的人，而且您锁定代币的时间越长，发行就越多。所以，这有点像一个不错的利率，而且，最终，Giveth的真正目标不是捐赠，这只是一个垫脚石，我们想要的是允许GIV代币成为非营利性机构投资机会的基础。我相信在您可以投资于非营利性机构之前，我们不会成功地构建出比政府更好的东西。听起来有点疯狂，但这就是目标，而我们将使用GIV代币来简化这一切。而且，这一切都融入到使非营利性机构成为混合体的过程中。因此，他们可以请求捐赠并接受投资。当，所以，当他们获得投资时，我们喜欢债券曲线，债券曲线现在在Friend-Tech中相当流行，但我们真正兴奋的是，而不是像Friend-Tech那样，那是一种骗人的东西，是的，非营利组织实际上可以获得投资并创建一个具有内置流动性的代币，它始终是，始终是流动的代币。而且，当某人捐赠时，当这些项目获得捐赠时，与其给捐赠者，还不如将回馈放入债券曲线，并向捐赠者发行项目代币。因此，他们的捐赠者，他们的投资者和他们的工作人员，那些为组织创造价值的人，都可以分享这个项目的潜在未来。如果项目增长并且代币价格上涨，那么他们实际上会从构建这个公益事业中获益，而GIV代币将是该基础的关键代币。所以，是的，这就是我们正在努力建设的未来效用。我们称之为GURVES，有一篇很棒的博客文章详细介绍了这一点，它称为“[将非营利性机构发展为再生经济](https://blog.giveth.io/evolving-nonprofits-into-regen-economies-f8282f97f8d3)”，是的，再生经济。
 
-GG: "Regen" like regenerative.
+DM: 区域经济。
 
-DM:  Oh, okay, "regenerative". Okay, so the GIV token is a core component of the whole system. 
+GG: "Regen" 就像再生一样。
 
-GG: Yeah, yeah I mean the GIV token is all over our application and it has a lot of power over Giveth, and so when you donate to a public goods project through Giveth you are not only, like, just a donor that, like, oh you're sending somebody money but you're now also a governor of our application, our movement.
+DM: 哦，好的，“再生”。好的，所以GIV代币是整个系统的核心组件。
 
-DM: And, if people want to go and check out Giveth right now where do, where do they have to go? 
+GG: 是的，是的，我的意思是GIV代币遍布我们的应用程序，它在Giveth上有很大的权力，因此当您通过Giveth向公共物品项目捐款时，您不仅仅是一个捐助者，就像，哦，您正在给某人寄钱，而且您现在还是我们应用程序的治理者，我们的运动。
 
-GG: [Giveth.io](https://giveth.io/), and actually we're running a quadratic funding round which I can't wait till we can do this on Ether Classic, but we're running a quadratic funding round right now with a $25,000 matching pool, so if this, if this video goes out in the next two weeks that will still be active so you can, you can donate to projects right now and get crazy matching donate $2 and all of a sudden the project will get $20, $30, $40.
+DM: 如果人们想要立即查看Giveth，他们应该去哪里？
 
-DM: Okay, good. So, it's [Giveth.io](https://giveth.io/). 
+GG: [Giveth.io](https://giveth.io/)，而且实际上我们正在进行一个二次资金募集回合，我迫不及待地想要在以太经典上进行这个操作，但我们正在进行一个二次资金募集回合，有一个价值25000美元的匹配资金池，所以如果这个视频在接下来的两周内发布，这个回合仍然会继续，因此您可以立即捐赠给项目，并获得疯狂的匹配，捐赠2美元，项目将突然获得20、30或40美元。
 
-GG: Yep. 
+DM: 好的。所以，是[Giveth.io](https://giveth.io/)。
 
-DM: Very good, that's where people can go right now to go and see it. Yes, this is going to, today is Monday, October 9th and this is going to be published tomorrow, Tuesday, October 10th. oh
+GG: 是的。
 
-GG: Perfect! wow! 
+DM: 非常好，人们现在可以去看看。是的，今天是10月9日星期一，这将于明天，10月10日星期二发布。
 
-DM: All right, so people will have time to do it. Bueno, thank you so much Griff for your time, thank you for explaining everything about Giveth and congratulations for earning the $50,000 that you're going to get as you, as you deliver the milestones. And, this is the first round of the ETC grants program, and I guess that, if it goes well, you can apply in future rounds, etc.
+GG: 完美！
 
-GG: Yeah, well and, and if it goes well anyone who is a big fan of ETC can put their project and raise donations in ETC which is the most exciting part.
+DM: 好吧，人们会有时间去做的。Bueno，非常感谢Griff抽出宝贵时间，感谢您解释有关Giveth的一切，祝贺您赚取的50000美元，您将在交付里程碑时获得这笔款项。而且，这是ETC资助计划的第一轮，我猜，如果进展顺利，您可以在将来的回合中申请等等。
 
-DM: Excellent, thank you very much Griff.
+GG: 是的，而且如果进展顺利，任何对ETC非常感兴趣的人都可以将他们的项目放在这里，并在ETC中筹集捐款，这是最令人兴奋的部分。
 
-GG: Thank you, Donald.
+DM: 太棒了，非常感谢Griff。
 
-DM: Goodbye!
+GG: 谢谢，唐纳德。
 
-我们邀请您查看 Giveth 网页应用 [这里](https://giveth.io/)！
+DM: 再见！
+
+我们邀请您查看 Giveth 网页应用[这里](https://giveth.io/)！
 
 要查看获奖名单的完整列表，请点击这里：[https://etcgrants.softr.app/projects-list-zh](https://etcgrants.softr.app/projects-list-zh)。
