@@ -1,26 +1,25 @@
 ---
 id: "2023-11-30-q3-report-cn"
-title: "ETC Cooperative 2023 Q3 Report"
+title: "ETC合作社2023年第三季度报告"
 author: Donald McIntyre
 featuredImage: q3-2023-report-banner-en.png
 tags: [governance]
 ---
 
-We are pleased to share [ETC Cooperative's Board Package for Q3](https://etccooperative.org/etc-cooperative-q3-2023-cn.pdf).
+我们很高兴与您分享[第三季度ETC Cooperative董事会文件](https://etccooperative.org/etc-cooperative-q3-2023-cn.pdf)。
 
-Highlights:
+亮点：
 
- - **ETC Grants DAO:** The first round of the program was announced in this quarter and offered up to $1M USD worth of ETC to successful applicants. In the end, we gave out $594,800 USD to worthy projects. The list of winners and their profiles are described in this report.
- - **POW Summit:** The first annual Proof-of-Work Summit was held in Prague, in Sept 2023 and was a smashing success.  The POW Summit is a large international event built in conjunction with our partners from the Litecoin Foundation. Our teams met twice weekly throughout the year to work through the logistics, marketing, sponsorships, and philosophy for the Summit.
- - **Development and Infrastructure:** At Core-Geth we have merged ethereum/go-ethereum at latest-tagged versions twice: v1.12.0 and v1.12.2, which were not trivial excercises. Hyperledger Besu is still in good shape regarding ETC compatibility and is used mostly for testing purposes. In this quarter we also report on our work on network infrastructure and parternships, maintenance of the Blockscout block explorer, and DappNode package updates. 
- - **Comms and Marketing:** This period witnessed various initiatives aimed at increasing awareness, promoting adoption, and enhancing the overall brand image of Ethereum Classic. In the third quarter, the comms team was very busy with the 2023 featured projects. This included the maintenance and update of the ETC Grants DAO project, the ETC Coop website, the POW Summit website, we executed a campaign for the POW Summit, and executed the campaign for ETC Grants DAO.
- - **Financials:** Overall, Q3 2023 actual costs were right at budget, with the exception of the grants funding, which is due to timing differences and the summit income and expenses, that were not originally budgeted. Q3YTD actual costs and budget were also in line. As of September, 2023, the ETC Coop had 60,800 ETC tokens in its custody account, the market value at September 30, 2023 was $995,296. Liquid assets at the end of Q3 2023 were $3,579,578. 
+- **ETC Grants DAO：** 该计划的第一轮在本季度宣布，向成功申请者提供了价值高达100万美元的ETC。最终，我们向值得支持的项目提供了594,800美元的资金。本报告详细描述了获奖者及其概况。
+- **POW峰会：** 第一届年度工作量证明峰会于2023年9月在布拉格举行，取得了巨大成功。 POW峰会是一个与莱特币基金会合作构建的大型国际活动。我们的团队每周两次会议，全年一直致力于峰会的后勤、营销、赞助和哲学工作。
+- **开发与基础设施：** 在Core-Geth，我们两次合并了ethereum/go-ethereum的最新标签版本：v1.12.0和v1.12.2，这并不是简单的练习。 Hyperledger Besu在ETC兼容性方面仍然良好，主要用于测试目的。本季度，我们还报告了我们在网络基础设施和合作伙伴关系、Blockscout区块浏览器的维护以及DappNode包更新方面的工作。
+- **传播与营销：** 本时期见证了各种旨在提高意识、促进采用并增强以太经典总体品牌形象的倡议。在第三季度，市场营销团队忙于2023年的特色项目。这包括维护和更新ETC Grants DAO项目、ETC Coop网站、POW峰会网站，我们还执行了POW峰会的宣传活动，并执行了ETC Grants DAO的宣传活动。
+- **财务状况：** 总体而言，2023年第三季度的实际成本正好符合预算，除了由于时机差异导致的资助资金以及最初未预算的峰会收支。截至2023年9月，ETC Coop在其托管账户中持有60,800个ETC代币，其市值在2023年9月30日为995,296美元。 2023年第三季度末的流动资产为3,579,578美元。
 
-Here are the previous three reports released in 2023:
+以下是2023年前三份已发布的报告：
 
-- [ETC Coop 2023 Goals](./2023-05-19-the-etc-cooperative-goals-budget-and-AGM-reports-2023-cn)
-- [ETC Cooperative's Board Package for Q1](https://etccooperative.org/etc-cooperative-q1-2023-cn.pdf)
-- [ETC Cooperative's Board Package for Q2](https://etccooperative.org/etc-cooperative-q2-2023-cn.pdf)
+- [ETC Coop 2023目标](./2023-05-19-the-etc-cooperative-goals-budget-and-AGM-reports-2023-cn)
+- [ETC Cooperative的第一季度董事会文件](https://etccooperative.org/etc-cooperative-q1-2023-cn.pdf)
+- [ETC Cooperative的第二季度董事会文件](https://etccooperative.org/etc-cooperative-q2-2023-cn.pdf)
 
-
-Also, see the [Filings page](/filings) which lists all of incorporation documents, resolutions, IRS filings and other transparency reports.
+此外，请查看[提交页面](/filings)，其中列出了所有公司文件、决议、IRS提交和其他透明度报告。
