@@ -22,4 +22,4 @@ tags: [governance]
 - [ETC Cooperative的第一季度董事会文件](https://etccooperative.org/etc-cooperative-q1-2023-cn.pdf)
 - [ETC Cooperative的第二季度董事会文件](https://etccooperative.org/etc-cooperative-q2-2023-cn.pdf)
 
-此外，请查看[提交页面](/filings)，其中列出了所有公司文件、决议、IRS提交和其他透明度报告。
+此外，请查看[归档页面](/filings)，其中列出了所有公司文件、决议、IRS提交和其他透明度报告。
