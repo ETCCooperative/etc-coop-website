@@ -20,6 +20,6 @@ Here are the previous three reports released in 2023:
 
 - [ETC Coop 2022 Retrospective](./2023-05-18-the-etc-cooperative-2022-retrospective-report-en)
 - [ETC Coop 2023 Goals](./2023-05-19-the-etc-cooperative-goals-budget-and-AGM-reports-2023-en)
-- [ETC Cooperative's Board Package for Q3](https://etccooperative.org/etc-cooperative-q3-2023-en.pdf)
+- [ETC Cooperative's Board Package for Q2](https://etccooperative.org/etc-cooperative-q2-2023-en.pdf)
 
 Also, see the [Filings page](/filings) which lists all of incorporation documents, resolutions, IRS filings and other transparency reports.
