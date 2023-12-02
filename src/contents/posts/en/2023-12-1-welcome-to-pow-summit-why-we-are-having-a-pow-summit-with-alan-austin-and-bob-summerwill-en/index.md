@@ -1,5 +1,5 @@
 ---
-id: "2023-12-1-welcome-to-pow-summit-why-we-are-having-a-pow-summit-with-alan-austin-and-bob-summerwill"
+id: "2023-12-1-welcome-to-pow-summit-why-we-are-having-a-pow-summit-with-alan-austin-and-bob-summerwill-en"
 title: "Welcome to POW Summit & Why We Are Having a POW Summit With Alan Austin and Bob Summerwill"
 author: Donald McIntyre
 featuredImage: alan-bob.png
