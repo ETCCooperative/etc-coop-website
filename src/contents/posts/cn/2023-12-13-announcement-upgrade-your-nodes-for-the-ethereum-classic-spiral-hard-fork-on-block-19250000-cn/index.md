@@ -2,7 +2,7 @@
 id: "2023-12-13-announcement-upgrade-your-nodes-for-the-ethereum-classic-spiral-hard-fork-on-block-19250000-cn"
 title: "公告：升级您的节点以适应以太坊经典螺旋硬分叉，分叉块高为19,250,000。"
 author: Donald McIntyre
-featuredImage: banner-1.png
+featuredImage: banner-2.png
 tags: [Announcement]
 ---
 
