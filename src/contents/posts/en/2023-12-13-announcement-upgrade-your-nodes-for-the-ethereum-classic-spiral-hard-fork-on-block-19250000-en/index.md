@@ -2,7 +2,7 @@
 id: "2023-12-13-announcement-upgrade-your-nodes-for-the-ethereum-classic-spiral-hard-fork-on-block-19250000-en"
 title: "ANNOUNCEMENT: Upgrade Your Nodes for the Ethereum Classic Spiral Hard Fork on Block 19,250,000"
 author: Donald McIntyre
-featuredImage: banner-1.png
+featuredImage: banner-2.png
 tags: [Announcement]
 ---
 
