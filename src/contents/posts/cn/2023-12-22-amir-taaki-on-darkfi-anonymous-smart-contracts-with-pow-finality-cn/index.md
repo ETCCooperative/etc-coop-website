@@ -2,7 +2,7 @@
 id: "2023-12-22-amir-taaki-on-darkfi-anonymous-smart-contracts-with-pow-finality-cn"
 title: "阿米尔·塔基谈论DarkFi：具有PoW终局性的匿名智能合约"
 author: Donald McIntyre
-featuredImage: banner.png
+featuredImage: taaki-banner.png
 tags: [announcement]
 ---
 
