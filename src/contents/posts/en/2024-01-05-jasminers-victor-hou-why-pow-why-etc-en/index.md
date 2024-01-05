@@ -2,7 +2,7 @@
 id: "2024-01-05-jasminers-victor-hou-why-pow-why-etc-en"
 title: "JASMINER’s Victor Hou: Why PoW? Why ETC?"
 author: Donald McIntyre
-featuredImage: banner.png
+featuredImage: hou-banner.png
 tags: [Announcement]
 ---
 
