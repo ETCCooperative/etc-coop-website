@@ -2,7 +2,7 @@
 id: "2024-01-05-jasminers-victor-hou-why-pow-why-etc-cn"
 title: "JASMINER茉莉矿机 Victor Hou: 为何POW？为何ETC"
 author: Donald McIntyre
-featuredImage: banner.png
+featuredImage: hou-banner.png
 tags: [Announcement]
 ---
 
