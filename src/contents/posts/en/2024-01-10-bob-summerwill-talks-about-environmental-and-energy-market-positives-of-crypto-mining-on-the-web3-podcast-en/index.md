@@ -29,3 +29,5 @@ These are some relevant links of things mentioned durting the interview:
 - Renewable Bitcoin Mining in Africa: https://gridlesscompute.com/ 
 - Co-founder CH4Capital | Cleantech Investor:  https://twitter.com/DSBatten 
 - Methane Removal: https://www.ch4capital.com/
+- Badcoinz: https://batcoinz.com/
+- Gorillas, militias, and Bitcoin: Why Congo’s most famous national park is betting big on crypto: https://www.technologyreview.com/2023/01/13/1066820/cryptocurrency-bitcoin-mining-congo-virunga-national-park/
