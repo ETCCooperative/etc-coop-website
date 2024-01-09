@@ -6,7 +6,7 @@ featuredImage: bob-podcast.png
 tags: [Announcement]
 ---
 
-In this podacst with [The WEB3 Prof](https://www.youtube.com/@TheWeb3Prof), Bob Summerwill, Exceutive Director at the ETC Cooperative, dives into the evolution of crypto mining's environmental impact. He explores the intersection of renewable energy, methane abatement, and the broader energy landscape and describes pivotal changes, strategies for sustainability, and the potential for a carbon-negative scenario within the industry.
+In this podcast with [The WEB3 Prof](https://www.youtube.com/@TheWeb3Prof), Bob Summerwill, Exceutive Director at the ETC Cooperative, dives into the evolution of crypto mining's environmental impact. He explores the intersection of renewable energy, methane abatement, and the broader energy landscape and describes pivotal changes, strategies for sustainability, and the potential for a carbon-negative scenario within the industry.
 
 Please watch the interview below:
 
