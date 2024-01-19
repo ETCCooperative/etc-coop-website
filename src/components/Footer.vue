@@ -87,11 +87,7 @@
 							<h4>{{ $t("footer.develop_for_etc") }}</h4>
 							<ul>
 								<li><a href="https://ecips.ethereumclassic.org/">{{ $t("footer_navigation.ecips") }}</a></li>
-								<li>
-									<a href="https://github.com/hyperledger/besu">
-										{{ $t("footer_navigation.hyperledger_besu") }}
-									</a>
-								</li>
+								
 								<li>
 									<a href="https://github.com/etclabscore/core-geth">
 										{{ $t("footer_navigation.core_geth") }}
