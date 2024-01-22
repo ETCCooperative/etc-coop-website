@@ -135,7 +135,7 @@ export default {
 					name: "Andrew Dick",
 					title: "Marketing Manager",
 					mail: "andrew@etccooperative.org",
-					twitter: "Bubble_Gum_Tate",
+					
 				},
 				{
 					img: "angelah-liu.png",
