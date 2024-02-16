@@ -1,6 +1,6 @@
 ---
 id: "2024-02-16-mario-havel-ethereum-left-pow-what-now-en"
-title: "Mario Havel - Ethereum left PoW, what now?"
+title: "Mario Havel - Ethereum Left PoW, What Now?"
 author: Donald McIntyre
 featuredImage: havel-banner.png
 tags: [Announcement]
