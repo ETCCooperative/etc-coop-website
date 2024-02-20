@@ -901,6 +901,7 @@
 h2.accordion-header {
 	font-size: 28px;
 	font-weight: bold;
+	color: #ccc;
 }
 
 .developingRequirement {
