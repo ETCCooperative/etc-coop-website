@@ -21,15 +21,20 @@ Our goals for 2024 are similar to 2023.  We are in a steady state and do not hav
 
 ## Grants Program
 
-Aa
+The ETC Grants DAO program was launched in January 2023, during the first round of the program around $700K USD worth of ETC was allocated to seventeen development teams. The program will continue with a second round of open application grants in the course of 2024. Bitmain continues to be very supportive of Ethereum Classic, and it is likely that the open grants program will be augmented with direct grants and partnerships with Bitmain to maximize the value delivered with these funds.
 
 ## POW Summit 2024
 
-Aa
+The inaugural POW Summit was held in Prague in late September 2023.  This was co-hosted with Litecoin Foundation, and was organized to be back-to-back with Hackers Congress Paralelní Polis (HCPP).  This was the ETC Cooperative’s first conference since October 2019. In 2024, the second POW Summit will be held in Frankfort between September 28 and 29. 
 
 ## Development: Enhancing Client Stability and Functionality
 
-Aa
+The ETC Cooperative’s proposed pathway for ETC for 2024 development is:
+
+- Enhancing client stability and functionality through comprehensive maintenance and enhancement of the Core-Geth client, and advanced support and refinement in cross-client testing (e.g. Core Geth, Erigon, Core Geth Light, Hyperledger Besu).
+- Network Observation and Analysis Advancements (network health) tools such as node infrastructure for observation and analysis; upgrading chain and network monitoring and incident reaction systems; upgrading network analysis tooling; and unified infrastructure management (many servers are managed manually, so we will unify adminstration with a single deployment interface called Ansible).
+- Technological Development and Exploration where we will explore EVM Object Format (EOF), continue advocacy for inclusion to Ethereum and ETC (the Prague hardfork will potentially include EOF but it is competing with Verkle trees); exploring EIP-1559 enablement for Ethereum compatibility; for Verkle Trees we will research ETC implications in the absence of a beacon chain (the Ethereum Patricia Merkle Tree will be replaved with the new Verkle Tree model that are lighter); we will study privacy-oriented Core-Geth deployment, perhaps add privacy technology to node software such as VPN; and enhancing regression testing and automating release processes (whether new releases affects older releases, etc.).
+
 
 ## Communications and Marketing
 
