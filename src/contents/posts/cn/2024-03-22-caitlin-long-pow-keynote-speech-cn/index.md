@@ -2,7 +2,7 @@
 id: "2024-03-22-caitlin-long-pow-keynote-speech-cn"
 title: "Caitlin Long - POW Keynote Speech"
 author: Donald McIntyre
-featuredImage: kaitlin-long-banner.png
+featuredImage: caitlin-long-banner.png
 tags: [Announcement]
 ---
 
