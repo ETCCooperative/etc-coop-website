@@ -1,5 +1,5 @@
 ---
-id: "2024-03-11-the-etc-cooperative-2023-retrospective-report-en"
+id: "2024-03-29-the-etc-cooperative-2023-retrospective-report-en"
 title: "The ETC Cooperative 2023 Retrospective Report"
 author: Donald McIntyre
 featuredImage: 2023-retro.png
