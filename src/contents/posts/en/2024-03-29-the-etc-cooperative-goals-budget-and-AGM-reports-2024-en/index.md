@@ -1,5 +1,5 @@
 ---
-id: "2024-03-11-the-etc-cooperative-goals-budget-and-AGM-reports-2024-en"
+id: "2024-03-29-the-etc-cooperative-goals-budget-and-AGM-reports-2024-en"
 title: "The ETC Cooperative Goals, Budget, and AGM Reports 2024"
 author: Donald McIntyre
 featuredImage: goals-budget-2024.png
