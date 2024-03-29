@@ -364,6 +364,31 @@
                     "fileLink": "https://etccooperative.org/etc-cooperative-q3-2023-en.pdf"
                 }
             ]
+        },
+        {
+            "title": "2024",
+            "files": [
+                {
+                    "date": "29th March",
+                    "description": "ETC Coop 2023 Retrospective",
+                    "fileLink": "https://etccooperative.org/etc-cooperative-retrospective-2023.pdf"
+                },
+                {
+                    "date": "29th March",
+                    "description": "ETC Cooperative Goals 2024 Report",
+                    "fileLink": "https://etccooperative.org/2024-etc-cooperative-goals.pdf"
+                },
+                {
+                    "date": "29th March",
+                    "description": "ETC Cooperative Budget 2024",
+                    "fileLink": "https://etccooperative.org/etc-cooperative-budget-2024.xlsx"
+                },
+                {
+                    "date": "29th March",
+                    "description": "ETC Cooperative AGM Resolutions",
+                    "fileLink": "https://etccooperative.org/etc-coop-resolutions-2024.pdf"
+                }
+            ]
         }
     ]
 }
