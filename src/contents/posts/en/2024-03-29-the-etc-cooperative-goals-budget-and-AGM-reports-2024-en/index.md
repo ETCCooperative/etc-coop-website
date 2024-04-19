@@ -26,7 +26,7 @@ The ETC Grants DAO program was launched in January 2023, during the first round 
 
 ## POW Summit 2024
 
-The inaugural POW Summit was held in Prague in late September 2023.  This was co-hosted with Litecoin Foundation, and was organized to be back-to-back with Hackers Congress Paralelní Polis (HCPP).  This was the ETC Cooperative’s first conference since October 2019. In 2024, the second POW Summit will be held in Frankfort between September 28 and 29. 
+The inaugural POW Summit was held in Prague in late September 2023.  This was co-hosted with Litecoin Foundation, and was organized to be back-to-back with Hackers Congress Paralelní Polis (HCPP).  This was the ETC Cooperative’s first conference since October 2019. In 2024, the second POW Summit will be held, details of which will be announced soon. 
 
 ## Development: Enhancing Client Stability and Functionality
 
