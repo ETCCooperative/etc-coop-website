@@ -1,5 +1,5 @@
 ---
-id: "2024-03-11-the-etc-cooperative-goals-budget-and-AGM-reports-2024-cn"
+id: "2024-03-29-the-etc-cooperative-goals-budget-and-AGM-reports-2024-cn"
 title: "The ETC Cooperative Goals, Budget, and AGM Reports 2024"
 author: Donald McIntyre
 featuredImage: goals-budget-2024.png
@@ -9,8 +9,8 @@ tags: [Announcement]
 We are happy to release the ETC Cooperative's Goals and Budget for 2024, and the Annual General Meeting (AGM) resolutions.
 
 * [ETC Cooperative Goals 2024 Report](/2024-etc-cooperative-goals-cn.pdf)
-* [ETC Cooperative Budget 2024](/etc-cooperative-budget-2024-cn.xlsx)
-* [ETC Cooperative's AGM Resolutions](/xxx)
+* [ETC Cooperative Budget 2024](/etc-cooperative-budget-2024.xlsx)
+* [ETC Cooperative's AGM Resolutions](/etc-coop-resolutions-2024.pdf)
 
 2023 was a year of stability for the ETC Cooperative, with a strong financial position and a fully-staffed team.  This was in stark contrast to previous years, where we had minimal staff beyond the Executive Director and had weak communications and marketing.
 
