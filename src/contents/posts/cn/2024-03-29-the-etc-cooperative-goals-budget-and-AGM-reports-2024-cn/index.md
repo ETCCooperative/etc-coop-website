@@ -1,48 +1,47 @@
 ---
 id: "2024-03-29-the-etc-cooperative-goals-budget-and-AGM-reports-2024-cn"
-title: "The ETC Cooperative Goals, Budget, and AGM Reports 2024"
+title: "ETC合作社2024年的目标、预算和年度股东大会报告"
 author: Donald McIntyre
 featuredImage: goals-budget-2024.png
 tags: [Announcement]
 ---
 
-We are happy to release the ETC Cooperative's Goals and Budget for 2024, and the Annual General Meeting (AGM) resolutions.
+我们很高兴发布ETC Cooperative 2024年的目标和预算，以及年度股东大会（AGM）的决议。
 
-* [ETC Cooperative Goals 2024 Report](/2024-etc-cooperative-goals-cn.pdf)
-* [ETC Cooperative Budget 2024](/etc-cooperative-budget-2024.xlsx)
-* [ETC Cooperative's AGM Resolutions](/etc-coop-resolutions-2024.pdf)
+* [ETC Cooperative 2024年目标报告](/2024-etc-cooperative-goals-cn.pdf)
+* [ETC Cooperative 2024年预算](/etc-cooperative-budget-2024.xlsx)
+* [ETC Cooperative 2024年年度股东大会决议](/etc-coop-resolutions-2024.pdf)
 
-2023 was a year of stability for the ETC Cooperative, with a strong financial position and a fully-staffed team.  This was in stark contrast to previous years, where we had minimal staff beyond the Executive Director and had weak communications and marketing.
+2023年对ETC Cooperative来说是一个稳定的一年，我们的财务状况强劲，团队也已经完全齐备。这与之前的几年形成了鲜明对比，当时我们除了执行总监之外几乎没有其他员工，并且在传播和营销方面表现较为薄弱。
 
-Donald produced a huge number of articles, both to the community website and for the Cooperative’s own site which was completely revamped.  All our communications are simultaneously released in English and Chinese.
+Donald发布了大量文章，既包括社区网站上的内容，也包括重新设计过的合作社官网上的内容。我们所有的沟通内容都同时发布为英文和中文版本。
 
-We launched the ETC Grants DAO program, organized the inaugural POW Summit, and coordinated the Spiral hardfork (which activated in February 2024).  Our developers continue to maintain and upgrade the core-geth client as our key development project, together with various other lower priority projects.
+我们推出了ETC Grants DAO计划，组织了首届POW Summit，并协调了Spiral硬分叉（该分叉于2024年2月生效）。我们的开发人员继续维护和升级核心客户端Core-Geth作为我们的重要开发项目，同时还进行了各种其他优先级较低的项目。
 
-Our goals for 2024 are similar to 2023. We are in a steady state and do not have any urgent issues to address or crises to avert. There will be another round of grants and another POW Summit event, and we will be working with Bitmain on other initiatives to grow the ETC ecosystem.
+我们2024年的目标与2023年相似。我们处于稳定状态，没有任何紧急问题需要解决或危机需要避免。将会有另一轮的补助和另一届POW Summit活动，我们还将与Bitmain合作推动其他倡议，以增强ETC生态系统的发展。
 
-## Grants Program
+## 补助计划
 
-The ETC Grants DAO program was launched in January 2023, during the first round of the program around $700K USD worth of ETC was allocated to seventeen development teams. The program will continue with a second round of open application grants in the course of 2024. Bitmain continues to be very supportive of Ethereum Classic, and it is likely that the open grants program will be augmented with direct grants and partnerships with Bitmain to maximize the value delivered with these funds.
+ETC Grants DAO计划于2023年1月启动，在第一轮计划中，约有价值70万美元的ETC被分配给了17个开发团队。该计划将在2024年进行第二轮开放申请补助的过程中继续进行。Bitmain继续对Ethereum Classic表示大力支持，因此可能会通过直接补助和与Bitmain的合作来增强开放补助计划，以最大化这些资金所带来的价值。
 
-## POW Summit 2024
+## 2024年的POW Summit
 
-The inaugural POW Summit was held in Prague in late September 2023.  This was co-hosted with Litecoin Foundation, and was organized to be back-to-back with Hackers Congress Paralelní Polis (HCPP).  This was the ETC Cooperative’s first conference since October 2019. In 2024, the second POW Summit will be held, details of which will be announced soon. 
+首届POW Summit于2023年9月底在布拉格举行。该活动由Litecoin基金会联合主办，旨在与Hackers Congress Paralelní Polis (HCPP)并行举办。这是ETC Cooperative自2019年10月以来的首次会议。2024年，将举办第二届POW Summit活动，具体细节将很快公布。
 
-## Development: Enhancing Client Stability and Functionality
+## 开发：增强客户端稳定性和功能性
 
-The ETC Cooperative’s proposed pathway for ETC for 2024 development is:
+ETC Cooperative在2024年的发展路径包括：
 
-- Enhancing client stability and functionality through comprehensive maintenance and enhancement of the Core-Geth client, and advanced support and refinement in cross-client testing (e.g. Core Geth, Erigon, Core Geth Light, Hyperledger Besu).
-- Network observation and analysis advancements (network health) tools such as node infrastructure for observation and analysis; upgrading chain and network monitoring and incident reaction systems; upgrading network analysis tooling; and unified infrastructure management (many servers are managed manually, so we will unify adminstration with a single deployment interface called Ansible).
-- Technological development and exploration where we will explore EVM Object Format (EOF), continue advocacy for inclusion to Ethereum and ETC (the Prague hardfork in Ethereum will potentially include EOF but it is competing with Verkle trees); exploring EIP-1559 enablement for Ethereum compatibility; for Verkle Trees we will research ETC implications in the absence of a beacon chain (the Ethereum Patricia Merkle Tree will be replaced with the new lighter Verkle Tree model); we will study privacy-oriented Core-Geth deployment, perhaps add privacy technology to node software such as VPN; and enhancing regression testing and automating release processes (whether new releases affect older releases, etc.).
+- 通过对Core-Geth客户端的全面维护和增强，以及在跨客户端测试（例如Core Geth、Erigon、Core Geth Light、Hyperledger Besu）方面提供先进的支持和细化，来增强客户端的稳定性和功能性。
+- 提高网络观察和分析（网络健康）工具，例如用于观察和分析的节点基础设施；升级链和网络监控以及事件反应系统；升级网络分析工具；以及统一的基础设施管理（许多服务器都是手动管理的，因此我们将使用名为Ansible的单一部署界面来统一管理）。
+- 技术开发和探索，我们将探索EVM对象格式（EOF），继续倡导纳入Ethereum和ETC（Prague硬分叉中可能包含EOF，但它与Verkle树竞争）；探索启用EIP-1559以实现与Ethereum的兼容性；对于Verkle树，我们将研究在没有信标链的情况下ETC的影响（Ethereum Patricia Merkle Tree将被新的更轻量级的Verkle树模型取代）；我们将研究面向隐私的Core-Geth部署，也许将隐私技术添加到节点软件中，例如VPN；以及增强回归测试和自动化发布流程（新发布是否影响旧发布等）。
 
-## Communications and Marketing
+## 传播和营销
 
-The purpose of the ETC Cooperative communications team is to support and promote Ethereum Classic and to keep the ecosystem and the world informed about the ETC Cooperative's projects, finances, and governance. For 2024 we plan to keep increasing ETC's usership and hashrate. For this, we will continue with our marketing, editorial, and social media efforts. We will focus on increasing brand awareness and user acquisition; community engagement; educational Initiatives; partnerships and collaborations; deepening exchange collaborations for network security; and media coverage. 
+ETC Cooperative传播团队的目标是支持和推广Ethereum Classic，并向生态系统和世界通报ETC Cooperative的项目、财务状况和治理情况。2024年，我们计划继续增加ETC的用户量和算力。为此，我们将继续进行营销、编辑和社交媒体方面的努力。我们将专注于增强品牌知名度和用户获取；社区互动；教育倡议；合作伙伴关系和合作；加强与交易所的合作以提高网络安全性；以及媒体报道。
 
-## Corporate Changes
+## 公司变更
 
-In 2023, the ETC Cooperative was recommended by their tax advisors to review the classification of all staff members (whether as contractors or employees). This review was undertaken by outside legal counsel, looking at the ramifications for both the ETC Cooperative as a US non-profit entity and for the staff members themselves. 
-It was determined that all United States residents should be classified as employees rather than contractors.  This process was initiated in 2023 and continues in 2024. It was also determined that there was tax assessment risk from a Canadian standpoint, so Bob Summerwill and Alison Alexis changed status via an employer of record.
+2023年，ETC Cooperative的税务顾问建议审查所有员工的分类（无论是承包商还是员工）。这一审查由外部法律顾问进行，旨在考虑ETC Cooperative作为美国非营利实体和员工本身的影响。最终确定，所有美国居民都应被归类为员工而非承包商。这一过程始于2023年并将继续到2024年。还确定了来自加拿大方面的税务评估风险，因此Bob Summerwill和Alison Alexis通过雇佣关系记录的方式进行了状态转换。
 
-With regard to the non-profit status, during the 2023 calendar year we began the process of converting the ETC Cooperative from a public charity into a private operating foundation or a private foundation, due to the lack of diversity of funding sources, which is required to maintain 501(c)3 status. This is called the public support test. The test states that at least 1/3 (33.3%) of donations must be given by donors who give less than 2% of the nonprofit’s overall receipts. We will be working with our tax advisors to flesh out the requirements for the transition and what effect that will have on the Coop. However, it does not appear that these requirements will result in many operational changes if the status of a private operating foundation can be achieved.
+关于非营利性质，2023年我们开始了将ETC Cooperative从公益慈善机构转变为私人运营基金会或私人基金会的过程，因为缺乏资金来源的多样性，这是维持501(c)3资格所必需的。这被称为公共支持测试。测试规定，至少有1/3（33.3%）的捐款必须来自捐款者，这些捐款者占非营利组织总收入的不到2%。我们将与税务顾问合作，详细制定过渡的要求以及对合作社的影响。但是，如果可以实现私人运营基金会的身份，似乎这些要求不会导致很多运营变化。
