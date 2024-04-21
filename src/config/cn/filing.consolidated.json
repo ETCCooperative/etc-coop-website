@@ -364,6 +364,31 @@
                     "fileLink": "https://etccooperative.org/etc-cooperative-q3-2023-cn.pdf"
                 }
             ]
+        },
+        {
+            "title": "2024",
+            "files": [
+                {
+                    "date": "3月29日",
+                    "description": "ETC Coop 2023 回顾展",
+                    "fileLink": "https://etccooperative.org/etc-cooperative-retrospective-2023-cn.pdf"
+                },
+                {
+                    "date": "3月29日",
+                    "description": "ETC 2024 年合作目标报告",
+                    "fileLink": "https://etccooperative.org/2024-etc-cooperative-goals-cn.pdf"
+                },
+                {
+                    "date": "3月29日",
+                    "description": "2024 年 ETC 合作预算",
+                    "fileLink": "https://etccooperative.org/etc-cooperative-budget-2024.xlsx"
+                },
+                {
+                    "date": "3月29日",
+                    "description": "ETC 合作年度股东大会决议",
+                    "fileLink": "https://etccooperative.org/etc-coop-resolutions-2024.pdf"
+                }
+            ]
         }
     ]
 }
