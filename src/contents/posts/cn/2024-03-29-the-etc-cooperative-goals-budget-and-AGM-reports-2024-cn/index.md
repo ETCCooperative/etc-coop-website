@@ -9,7 +9,7 @@ tags: [Announcement]
 我们很高兴发布ETC Cooperative 2024年的目标和预算，以及年度股东大会（AGM）的决议。
 
 * [ETC Cooperative 2024年目标报告](/2024-etc-cooperative-goals-cn.pdf)
-* [ETC Cooperative 2024年预算](/etc-cooperative-budget-2024.xlsx)
+* [ETC Cooperative 2024年预算](/etc-cooperative-budget-2024-cn.xlsx)
 * [ETC Cooperative 2024年年度股东大会决议](/etc-coop-resolutions-2024.pdf)
 
 2023年对ETC Cooperative来说是一个稳定的一年，我们的财务状况强劲，团队也已经完全齐备。这与之前的几年形成了鲜明对比，当时我们除了执行总监之外几乎没有其他员工，并且在传播和营销方面表现较为薄弱。
