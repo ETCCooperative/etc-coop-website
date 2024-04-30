@@ -2,7 +2,7 @@
 id: "2024-04-30-join-etc-grants-dao-at-bitcoin-asia-from-may-7th-to-10th-en"
 title: "Join ETC Grants DAO at Bitcoin Asia from May 7th to 10th!"
 author: Bitmain Team
-featuredImage: 1.jpg
+featuredImage: 1.png
 tags: [Announcement]
 ---
 
@@ -15,11 +15,11 @@ From May 7 to 10, 2024, the Bitcoin Asia Summit will reopen with grandeur. Meet 
 
 On May 7-8, the Bitcoin Developer Conference (Bitcoin DevCon) will be held at the Hong Kong Science Park. As a close conference partner, ETC Grants DAO will share our ecological development plan for the new year with everyone!
 
-![](./1.jpg)
+![](./1.png)
 
 On May 9-10, the main summit of BITCOIN ASIA will be held at the Kai Tak Cruise Terminal in Hong Kong. We welcome friends attending the conference to meet at our booth with the ETC Grants DAO team. Let's #MakePoWGreatAgain and create a better digital world for humanity!
 
-![](./2.jpg)
+![](./2.png)
 
 ### ETC: "The Original Ethereum"
 
@@ -29,12 +29,12 @@ ETC=BTC+ETH! ETC inherits Bitcoin's PoW consensus mechanism and aligns with Bitc
 
 ETC=POW+EVM! With true decentralization brought by the PoW consensus and compatibility with ETH's EVM, ETC is set to become the real global computer! Meanwhile, through cross-chain bridges and various decentralized applications, ETC can also support and enhance the programmability of "digital gold" Bitcoin, allowing it to serve the modern financial ecosystem better.
 
-![](./3.jpg)
+![](./3.png)
 
 ### Special Benefits
 
-![](./4.jpg)
-![](./5.jpg)
+![](./4.png)
+![](./5.png)
 
 ETC Grants DAO has also prepared exquisite souvenirs for community members at this summit. Visit our booth to check in, and you can get these gifts for free! Wear clothing that represents #EthereumClassic and shout out loud ETC=BTC+ETH!
 
