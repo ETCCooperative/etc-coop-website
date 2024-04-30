@@ -42,7 +42,7 @@ ETC Grants DAO has also prepared exquisite souvenirs for community members at th
 
 Click the link https://lu.ma/lr05lxs7 or scan the QR code below to sign up in one click! We will also randomly select registered friends to offer free tickets to #BITCOIN ASIA, join ETC Grants DAO, and head towards the future!!!
 
-![](./6.jpg)
+![](./6.png)
 
 *The ETC Grants DAO is a non-profit autonomous organization comprised of Ethereum Classic believers, supporters, and builders. BITMAIN, ANTPOOL, ETC Cooperative Etc. EGD aims to promote the growth of ecology and the long-term development of Ethereum Classic. EGD is currently committed to the ecological construction of ETC's underlying technology.*
 
