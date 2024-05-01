@@ -6,6 +6,9 @@ featuredImage: 1.png
 tags: [Announcement]
 ---
 
+<p style="text-align: center;">[这是来自我们比特大陆和蚂蚁矿机的朋友和合作伙伴的客座帖子]
+</p>
+
 2024年5月7~10日，比特币亚洲峰会（Bitcoin Asia）即将“龙”重开幕，和ETC Grants DAO核心团队在香港相聚吧！太平山下维港畔，聚焦比特币生态，共话Proof of Work！
 
 【活动亮点】
