@@ -1,13 +1,10 @@
 ---
 id: "2024-05-29-visit-ETC-Grants-DAO-Booth-at-Consensus-cn"
-title: "Come and visit the ETC Grants DAO Booth at the Consensus conference in Austin!"
+title: "欢迎来ETC Grants DAO在奥斯汀Consensus大会上的展位看看吧！"
 author: Andrew Dick
 featuredImage: bitmain-austin.png
 tags: [Announcement]
 ---
-
-欢迎来ETC Grants DAO在奥斯汀Consensus大会上的展位看看吧！
-
 ETC Grants DAO团队将会在Consensus大会的915号展位！我们邀请所有ETC爱好者前来交流。不管你对ETC的技术细节还是应用前景感兴趣，我们的团队都会在现场回答你的问题并分享最新的项目进展。
 
 如果这还不够吸引你，我们心爱的限量版ETC熊猫T恤也将在Consensus上亮相！这款熊猫T恤在Bitcoin Asia大会上引起了不少关注。如果你上次错过了，一定要早点来展位看看。数量有限，先到先得。
