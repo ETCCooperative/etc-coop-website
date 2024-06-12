@@ -36,6 +36,6 @@ Website：https://erusd.io/
 
 Medium:：https://medium.com/@Veritas_ETC
 
-The ETC Grants DAO has pledged 1,000 ETC in funding for the deployment of the ECSD and ERUSD stablecoins. The funding for both projects will be disbursed in stages based on completion milestones.
+The ETC Grants DAO has pledged 1,000 ETC in funding for each of the deployments of the ECSD and ERUSD stablecoins. The funding for both projects will be disbursed in stages based on completion milestones.
 
 We invite you to explore [Ethereum Classic](https://ethereumclassic.org) and to follow [ETC Grants DAO](https://x.com/ETCGrantsDao) to stay up to date and to build your projects!
