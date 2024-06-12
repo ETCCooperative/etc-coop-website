@@ -36,6 +36,6 @@ Twitter：https://twitter.com/Veritas_ETC
 
 Medium：https://medium.com/@Veritas_ETC
 
-ETC Grants DAO 已承诺提供 1000 ETC 资金用于部署 ECSD 和 ERUSD 稳定币。这些项目的资金将根据完成的里程碑分阶段发放。
+ETC Grants DAO 已承诺为 ECSD 和 ERUSD 稳定币的每次部署提供 1,000 ETC 的资金。这两个项目的资金将根据完成里程碑分阶段支付。
 
 我们邀请您探索[以太坊经典](https://ethereumclassic.org)并关注[ETC Grants DAO](https://x.com/ETCGrantsDao)以保持最新动态并构建您的项目！
