@@ -1,41 +1,41 @@
 ---
 id: "2024-06-12-presenting-the-ecsd-and-erusd-stablecoins-supported-by-the-etc-grants-dao-program-cn"
-title: "Presenting the ECSD and ERUSD Stablecoins Supported by the ETC Grants DAO Program"
+title: "介绍 ECSD 和 ERUSD 稳定币，这些稳定币由 ETC Grants DAO 计划支持"
 author: Donald McIntyre
 featuredImage: ecsd-erusd.png
 tags: [Announcement]
 ---
 
-We are happy to present the ECSD and ERUSD stablecoins supported by the ETC Grants DAO!
+我们很高兴向大家介绍由 ETC Grants DAO 计划支持的 ECSD 和 ERUSD 稳定币！
 
-Stablecoins are considered basic infrastructure for blockchain ecosystems and the inclusion of these on Ethereum Classic (ETC) is a step forward in providing its ecosystem with a powerfull tool for transacting and payments. 
+稳定币被视为区块链生态系统的基本基础设施，而将这些稳定币引入以太坊经典 (ETC) 是为其生态系统提供强大交易和支付工具的重要一步。
 
-Stablecoins are units of value or tokens on ETC that closely follow the value of a fiat currency, in the case of ECSD and ERUSD the US dollar, and may be traneferred by users to pay for things, trade, or invest.
+稳定币是 ETC 上的价值单位或代币，它们的价值与法定货币（在 ECSD 和 ERUSD 的情况下是美元）密切相关，用户可以使用这些稳定币进行支付、交易或投资。
 
-ECSD is a decentralized stablecoin developed by the Djed Alliance, based on the stablecoin protocol Djed. They are an independent team who developed the protocol which has four existing deployments on a variety of tech stacks, including COTI's Djed on Cardano (Plutus), SigmaUSD on Ergo (ErgoScript), Djed Dollar on Milkomeda (EVM), and Zephyr Protocol (a Monero fork with this stablecoin protocol built-in), and now it's fifth deployment on ETC.
+ECSD 是由 Djed Alliance 开发的去中心化稳定币，基于 Djed 稳定币协议。Djed Alliance 是一个独立团队，他们开发了该协议，该协议已经在多种技术堆栈上有四个现有部署，包括 COTI 在 Cardano（Plutus）上的 Djed、Ergo（ErgoScript）上的 SigmaUSD、Milkomeda（EVM）上的 Djed Dollar 和 Zephyr 协议（一个内置稳定币协议的 Monero 分叉），现在它将在 ETC 上进行第五次部署。
 
-We invite you to learn more about ECSD and its development process by visiting the following links:
+我们邀请您通过以下链接了解更多关于 ECSD 及其开发过程的信息：
 
-X: https://x.com/DjedAlliance
+X：https://x.com/DjedAlliance
 
-Home Page: https://djed.one/
+主页：https://djed.one/
 
-GitHub: https://github.com/DjedAlliance
+GitHub：https://github.com/DjedAlliance
 
-Djed Paper: https://eprint.iacr.org/2021/1069
+Djed 论文：https://eprint.iacr.org/2021/1069
 
-ERUSD is a CDP (collateralized debt position) dollar stablecoin developed by Veritas Ecosystems, inspired by DAI's success on Ethereum. It uses an over-collateralization mechanism, allowing users to collateralize ETC assets in smart contracts to generate ERUSD pegged to one dollar.
+ERUSD 是由 Veritas Ecosystems 开发的 CDP（抵押债仓）美元稳定币，灵感来自 DAI 在以太坊上的成功。它使用超额抵押机制，允许用户在智能合约中抵押 ETC 资产以生成与美元挂钩的 ERUSD。
 
-For more information about ERUSD and its progress, please refer to the following links:
+有关 ERUSD 及其进展的更多信息，请参考以下链接：
 
-Telegram: https://t.me/VeritasEcosytem
+Telegram：https://t.me/VeritasEcosytem
 
 Twitter：https://twitter.com/Veritas_ETC
 
-Website：https://erusd.io/
+网站：https://erusd.io/
 
-Medium:：https://medium.com/@Veritas_ETC
+Medium：https://medium.com/@Veritas_ETC
 
-The ETC Grants DAO has pledged 1,000 ETC in funding for the deployment of the ECSD and ERUSD stablecoins. The funding for both projects will be disbursed in stages based on completion milestones.
+ETC Grants DAO 已承诺提供 1000 ETC 资金用于部署 ECSD 和 ERUSD 稳定币。这些项目的资金将根据完成的里程碑分阶段发放。
 
-We invite you to explore [Ethereum Classic](https://ethereumclassic.org) and to follow [ETC Grants DAO](https://x.com/ETCGrantsDao) to stay up to date and to build your projects!
+我们邀请您探索[以太坊经典](https://ethereumclassic.org)并关注[ETC Grants DAO](https://x.com/ETCGrantsDao)以保持最新动态并构建您的项目！
