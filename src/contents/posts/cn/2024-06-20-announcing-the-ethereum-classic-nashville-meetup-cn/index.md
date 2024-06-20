@@ -2,11 +2,11 @@
 id: "2024-06-20-announcing-the-ethereum-classic-nashville-meetup-cn"
 title: "Announcing the Ethereum Classic Nashville Meetup!"
 author: Donald McIntyre
-featuredImage: nashville-banner.png
+featuredImage: nashville-banner-1.png
 tags: [Announcement]
 ---
 
-We are happy to announce that we have partnered with [ETC_Radio](https://x.com/ETC_Radio_) to hold an [ETC meetup in Nashville](https://www.eventbrite.ca/e/ethereum-classic-community-event-nashville-tickets-907672311317) on July 25 2024, just in time for the Litecoin and Bitcoin conferences.
+We are happy to announce that we have partnered with [ETC_Radio](https://x.com/ETC_Radio_) and [POW Summit](https://powsummit.com/) to hold an [ETC meetup in Nashville](https://www.eventbrite.ca/e/ethereum-classic-community-event-nashville-tickets-907672311317) on July 25 2024, just in time for the Litecoin and Bitcoin conferences.
 
 As many in the ETC community will be attending Bitcoin 2024 and the Litecoin Summit in Nashville, we decided to organize a community meetup in-between those events for networking and to talk about ETC. 
 
