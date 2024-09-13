@@ -2,7 +2,7 @@
 id: "2024-09-13-announcing-the-pow-summit-2024-shedule-cn"
 title: "Announcing the POW Summit 2024 Schedule"
 author: Donald McIntyre
-featuredImage: pows-schedule.png
+featuredImage: pows-schedule.jpg
 tags: [Announcement]
 ---
 
