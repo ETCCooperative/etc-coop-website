@@ -44,7 +44,7 @@ There will be five panels with experts discussing the major themes of the indsut
 
 **Proof of scale L2 panel:** This panel, led by Janszg of Bitcoin layers, brings together the top L2 builders in the space to separate the hype from the reality of scaling bitcoin.
 
-**Proof of Utility Panel:** A discussion of current use cases built on the POW algorithm.
+**Proof of utility Panel:** A discussion of current use cases built on the POW algorithm.
 
 **Proof of human rights and privacy panel:** A discussion on the state of privacy in technology and society.
 
