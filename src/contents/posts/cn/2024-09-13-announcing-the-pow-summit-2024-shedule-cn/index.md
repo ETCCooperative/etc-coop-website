@@ -1,55 +1,55 @@
 ---
 id: "2024-09-13-announcing-the-pow-summit-2024-shedule-cn"
-title: "Announcing the POW Summit 2024 Schedule"
+title: "2024工作量证明峰会（POW Summit）日程安排"
 author: Donald McIntyre
 featuredImage: pows-schedule.jpg
 tags: [Announcement]
 ---
 
-We are happy to announce the POW Summit 2024 schedule!
+我们很高兴地宣布 POW 峰会 2024 的日程安排！
 
-You may see the summit's agenda and speakers here: https://cfp.powsummit.com/2024/schedule/
+您可以在此查看峰会的议程和演讲嘉宾：https://cfp.powsummit.com/2024/schedule/
 
-### This Year's POW Summit Will Be Focusing on Four Themes:
+### 本届 POW 峰会将聚焦四大主题：
 
-All the talks will be organized in four major categories that are prominent topics in the indsutry and thus the focus of this year's summit.
+所有演讲将围绕四个主要类别进行，这些类别是行业中的重要话题，也是今年峰会的重点。
 
-**Proof of Scale:** Industry veterans and newcomers will discus competing solutions for technical and economic tradeoffs in the hottest sector of development and capital investment.
+**规模证明（Proof of Scale）：** 业内资深人士和新人将讨论在这一热门发展和资本投资领域中，关于技术和经济权衡的各种竞争性解决方案。
 
-**Proof of Utility:** Attendants will learn about the emerging protocols and diverse use cases competing for scarce block space on the base layer and L2s.
+**实用证明（Proof of Utility）：** 与会者将了解在基础层和二层网络（L2）上，为有限的区块空间而竞争的新兴协议和多样化的用例。
 
-**Proof of Sustainability:** Innovative miner strategies will be presented for environmentally sustainable solutions driving the technology forward in the face of hostile governments and regulators.
+**可持续性证明（Proof of Sustainability）：** 创新的矿工策略将展示在面对敌对政府和监管者时，如何通过环保的方式推动技术前进。
 
-**Proof of Human Rights:** We will see how recent prosecutorial and legislative actions in the US and Europe have made the credo "Cypherpunks write code" to secure privacy, fungibility, and autonomy more important than ever.
+**人权证明（Proof of Human Rights）：** 我们将看到最近美国和欧洲的起诉和立法行动，如何使得“Cypherpunks 编写代码”这一信条在确保隐私、可替代性和自主性方面变得比以往更加重要。
 
-### See Our Top Speakers:
+### 亮点演讲嘉宾：
 
-Among the bravest and the brightest, the following speakers will be featured at the summit.
+以下是本次峰会中的几位杰出而勇敢的演讲嘉宾。
 
-**Phill Zimmermann:** The creator of Pretty Good Privacy (PGP) and Cypherpunk pioneer will be talking about civic hygiene, national security, and E2E encryption.
+**菲尔·齐默尔曼（Phill Zimmermann）：** PGP（Pretty Good Privacy）的创造者及密码朋克先锋，将探讨公民卫生、国家安全和端到端加密。
 
-**Charly Lee:** The founder of the Litecoin cryptocurrency will be on a fireside chat with Vlad Costea, founder and editor of the Bitcoin Takeover magazine and podcast, talking about Litecoin, payments, and privacy.
+**查理·李（Charly Lee）：** 莱特币（Litecoin）的创始人将在炉边对话中与《Bitcoin Takeover》杂志和播客的创始人兼主编弗拉德·科斯特亚（Vlad Costea）讨论莱特币、支付和隐私。
 
-**Jameson Lopp:** The professional Cypherpunk and prominent Bitcoin personality will explain the prevalence of private transaction mining exploring into bitcoin transactions that show up in blocks without first being broadcast throughout the p2p network.
+**詹姆森·洛普（Jameson Lopp）：** 专业密码朋克和著名比特币人士，将解释在区块链网络中，未经先广播至点对点网络的私密交易如何在比特币区块中出现的现象。
 
-**Daniel Batten:** As a Climatetech investor, author, and advisor to family offices and publicly listed companies, Daniel will talk about why hippies will drive the next bullrun (and nerds will make Bitcoin the world's greenest asset).
+**丹尼尔·巴顿（Daniel Batten）：** 气候科技投资者、作家，以及家族办公室和上市公司的顾问，丹尼尔将讨论为什么嬉皮士将推动下一次牛市，而书呆子将使比特币成为世界上最环保的资产。
 
-And, many more!
+还有更多精彩嘉宾！
 
-### Interesting Panels:
+### 精彩的讨论小组：
 
-There will be five panels with experts discussing the major themes of the indsutry.
+将有五个小组讨论，专家们将深入探讨行业的主要主题。
 
-**Proof of sustainability panel:** This panel will explore the intricate relationship between Bitcoin mining and sustainability, addressing the evolving landscape of energy consumption and environmental impact.
+**可持续性证明小组：** 该小组将探讨比特币挖矿与可持续性之间的复杂关系，关注能源消耗和环境影响的演变。
 
-**Proof of scale L2 panel:** This panel, led by Janszg of Bitcoin layers, brings together the top L2 builders in the space to separate the hype from the reality of scaling bitcoin.
+**规模证明 L2 小组：** 由比特币层的 Janszg 主持，汇集了领域内顶级 L2 构建者，讨论比特币扩展的现实与炒作。
 
-**Proof of utility panel:** A discussion of current use cases built on the POW algorithm.
+**实用证明小组：** 讨论基于 POW 算法的当前应用案例。
 
-**Proof of human rights and privacy panel:** A discussion on the state of privacy in technology and society.
+**人权与隐私证明小组：** 讨论技术和社会中的隐私现状。
 
-**Litecoin Foundation panel:** The major players in the Litecoin space and Foundation will provide an update of the features and benefits of LTC and what is in store for the cryptocurrency in the near future.
+**莱特币基金会小组：** 莱特币领域和基金会的主要参与者将提供莱特币的最新功能和优势，并展望该加密货币的未来。
 
-We invite you to come to the POW Summit where Bob Summerwill, Executive Director of the ETC Cooperative, Michael parenti, core contributor at Paralelni Polis and Web3privacy Now!, and Alan Austin, Managing Director at Litecoin Foundation, will welcome you and host this year's event to provide the most compelling and in-depth information that will put you up to date with the latest proof of work technology and ecosystem.
+我们邀请您参加 POW 峰会，届时 ETC Cooperative 的执行董事 Bob Summerwill，Paralelni Polis 和 Web3privacy Now! 的核心贡献者 Michael Parenti，以及莱特币基金会的常务董事 Alan Austin 将欢迎您，并主持今年的活动，带来最引人入胜和深入的信息，帮助您了解最新的工作量证明技术和生态系统。
 
-To learn more about the POW Summit please visit: https://powsummit.com/
+欲了解更多有关 POW 峰会的信息，请访问：https://powsummit.com/
