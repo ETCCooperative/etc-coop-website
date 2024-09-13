@@ -24,7 +24,7 @@ All the talks will be organized in four major categories that are prominent topi
 
 ### See Our Top Speakers:
 
-The bravest and the brightest.
+Among the bravest and the brightest, the following speakers will be featured at the summit.
 
 **Phill Zimmermann:** The creator of Pretty Good Privacy (PGP) and Cypherpunk pioneer will be talking about civic hygiene, national security, and E2E encryption.
 
@@ -42,14 +42,14 @@ There will be five panels with experts discussing the major themes of the indsut
 
 **Proof of sustainability panel:** This panel will explore the intricate relationship between Bitcoin mining and sustainability, addressing the evolving landscape of energy consumption and environmental impact.
 
-**Proof of scale L2 panel:** This panel, led by Janszg of Bitcoin layers, brings together the top L2 builders in the space to seperate the hype from the reality of scaling bitcoin.
+**Proof of scale L2 panel:** This panel, led by Janszg of Bitcoin layers, brings together the top L2 builders in the space to separate the hype from the reality of scaling bitcoin.
 
-**Proof of Utility Panel:** A discussion of current usecases built on the POW algorithm.
+**Proof of Utility Panel:** A discussion of current use cases built on the POW algorithm.
 
 **Proof of human rights and privacy panel:** A discussion on the state of privacy in technology and society.
 
-**Litecoin Foundation panel:** The major players in the Litecoin soace will provide an update of the features and benefits of LTC and what is in store for the near future.
+**Litecoin Foundation panel:** The major players in the Litecoin space and Foundation will provide an update of the features and benefits of LTC and what is in store for the cryptocurrency in the near future.
 
-We invite you to come to the POW Summit where Bob Summerwill, Executive Director of the ETC Cooperative, Michael parenti, core contributor at Paralelni Polis and Web3privacy Now!, and Alan Austin, Managing Director at Litecoin Foundation, will welcome you and host this year's event to provide the most compelling and in-depth information that will put you up to date with the proof of work technology and ecosystem.
+We invite you to come to the POW Summit where Bob Summerwill, Executive Director of the ETC Cooperative, Michael parenti, core contributor at Paralelni Polis and Web3privacy Now!, and Alan Austin, Managing Director at Litecoin Foundation, will welcome you and host this year's event to provide the most compelling and in-depth information that will put you up to date with the latest proof of work technology and ecosystem.
 
 To learn more about the POW Summit please visit: https://powsummit.com/
