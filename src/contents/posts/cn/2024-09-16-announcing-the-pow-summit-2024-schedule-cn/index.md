@@ -1,5 +1,5 @@
 ---
-id: "2024-09-13-announcing-the-pow-summit-2024-shedule-cn"
+id: "2024-09-16-announcing-the-pow-summit-2024-schedule-cn"
 title: "2024工作量证明峰会（POW Summit）日程安排"
 author: Donald McIntyre
 featuredImage: pows-schedule.jpg
@@ -28,7 +28,7 @@ tags: [Announcement]
 
 **菲尔·齐默尔曼（Phill Zimmermann）：** PGP（Pretty Good Privacy）的创造者及密码朋克先锋，将探讨公民卫生、国家安全和端到端加密。
 
-**查理·李（Charly Lee）：** 莱特币（Litecoin）的创始人将在炉边对话中与《Bitcoin Takeover》杂志和播客的创始人兼主编弗拉德·科斯特亚（Vlad Costea）讨论莱特币、支付和隐私。
+**查理·李（Charley Lee）：** 莱特币（Litecoin）的创始人将在炉边对话中与《Bitcoin Takeover》杂志和播客的创始人兼主编弗拉德·科斯特亚（Vlad Costea）讨论莱特币、支付和隐私。
 
 **詹姆森·洛普（Jameson Lopp）：** 专业密码朋克和著名比特币人士，将解释在区块链网络中，未经先广播至点对点网络的私密交易如何在比特币区块中出现的现象。
 
@@ -50,6 +50,6 @@ tags: [Announcement]
 
 **莱特币基金会小组：** 莱特币领域和基金会的主要参与者将提供莱特币的最新功能和优势，并展望该加密货币的未来。
 
-我们邀请您参加 POW 峰会，届时 ETC Cooperative 的执行董事 Bob Summerwill，Paralelni Polis 和 Web3privacy Now! 的核心贡献者 Michael Parenti，以及莱特币基金会的常务董事 Alan Austin 将欢迎您，并主持今年的活动，带来最引人入胜和深入的信息，帮助您了解最新的工作量证明技术和生态系统。
+我们邀请您参加 POW 峰会，届时 ETC Cooperative 的执行董事 Bob Summerwill，Paralelni Polis 和 Web3privacy Now 的核心贡献者 Michael Parenti，以及莱特币基金会的常务董事 Alan Austin 将欢迎您，并主持今年的活动，带来最引人入胜和深入的信息，帮助您了解最新的工作量证明技术和生态系统。
 
 欲了解更多有关 POW 峰会的信息，请访问：https://powsummit.com/
