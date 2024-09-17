@@ -1,5 +1,5 @@
 ---
-id: "2024-09-16-announcing-the-pow-summit-2024-schedule-cn"
+id: "2024-09-17-announcing-the-pow-summit-2024-schedule-cn"
 title: "2024工作量证明峰会（POW Summit）日程安排"
 author: Donald McIntyre
 featuredImage: pows-schedule.jpg
@@ -8,7 +8,7 @@ tags: [Announcement]
 
 我们很高兴地宣布 POW 峰会 2024 的日程安排！
 
-您可以在此查看峰会的议程和演讲嘉宾：https://cfp.powsummit.com/2024/schedule/
+您可以在此查看峰会的议程和演讲嘉宾：https://powsummit.com/2024/schedule/
 
 ### 本届 POW 峰会将聚焦四大主题：
 
