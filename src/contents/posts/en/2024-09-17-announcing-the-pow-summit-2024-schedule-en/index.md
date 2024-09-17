@@ -28,7 +28,7 @@ Among the bravest and the brightest, the following speakers will be featured at 
 
 **Phill Zimmermann:** The creator of Pretty Good Privacy (PGP) and Cypherpunk pioneer will be talking about civic hygiene, national security, and E2E encryption.
 
-**Charley Lee:** The founder of the Litecoin cryptocurrency will be on a fireside chat with Vlad Costea, founder and editor of the Bitcoin Takeover magazine and podcast, talking about Litecoin, payments, and privacy.
+**Charlie Lee:** The founder of the Litecoin cryptocurrency will be on a fireside chat with Vlad Costea, founder and editor of the Bitcoin Takeover magazine and podcast, talking about Litecoin, payments, and privacy.
 
 **Jameson Lopp:** The professional Cypherpunk and prominent Bitcoin personality will explain the prevalence of private transaction mining exploring into bitcoin transactions that show up in blocks without first being broadcast throughout the p2p network.
 
@@ -50,6 +50,6 @@ There will be five panels with experts discussing the major themes of the indsut
 
 **Litecoin Foundation panel:** The Litecoin Foundation team will provide an update of the features and benefits of LTC and what is in store for the cryptocurrency in the near future.
 
-We invite you to come to the POW Summit where Bob Summerwill, Executive Director of the ETC Cooperative, Michael Parenti, core contributor at Paralelni Polis and Web3privacy Now, and Alan Austin, Managing Director at the Litecoin Foundation, will welcome you and host this year's event to provide the most compelling and in-depth information that will put you up to date with the latest proof of work technology and ecosystem.
+We invite you to come to the POW Summit where Bob Summerwill, Executive Director of the ETC Cooperative, Michael Parenti, core contributor at Paralelni Polis and Web3Privacy Now, and Alan Austin, Managing Director at the Litecoin Foundation, will welcome you and host this year's event to provide the most compelling and in-depth information that will put you up to date with the latest proof of work technology and ecosystem.
 
 To learn more about the POW Summit please visit: https://powsummit.com/
