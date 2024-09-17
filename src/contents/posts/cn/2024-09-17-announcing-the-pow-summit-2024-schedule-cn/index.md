@@ -2,7 +2,7 @@
 id: "2024-09-17-announcing-the-pow-summit-2024-schedule-cn"
 title: "2024工作量证明峰会（POW Summit）日程安排"
 author: Donald McIntyre
-featuredImage: pows-schedule.jpg
+featuredImage: pows-schedule.png
 tags: [Announcement]
 ---
 
