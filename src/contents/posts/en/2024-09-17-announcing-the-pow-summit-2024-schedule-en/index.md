@@ -8,7 +8,7 @@ tags: [Announcement]
 
 We are happy to announce the POW Summit 2024 schedule!
 
-You may see the summit's agenda and speakers here: https://powsummit.com/2024/schedule
+You may see the summit's agenda and speakers here: https://cfp.powsummit.com/2024/schedule/
 
 ### This Year's POW Summit Will Be Focusing on Four Themes:
 
