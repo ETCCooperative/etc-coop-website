@@ -261,17 +261,7 @@ export default {
 						linkedin: "https://www.linkedin.com/in/andrewgdick/",
 					},
 				},
-				{
-					img: "angelah-liu.png",
-					name: "Angelah Liu",
-					title: "Communications Manager",
-					description: "",
-					mail: "angelah@etccooperative.org",
-					social: {
-						twitter: "https://twitter.com/angelahliu_",
-						linkedin: "https://www.linkedin.com/in/angelahyliu/",
-					},
-				},
+				
 			],
 			boards: [
 				{
