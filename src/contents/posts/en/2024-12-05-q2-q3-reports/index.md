@@ -2,7 +2,7 @@
 id: "2024-12-05-q2-q3-reports-en"
 title: "Q2 and Q3 reports"
 author: Bob Summerwill
-featuredImage: pows-schedule.png
+featuredImage: pows-schedule.jpeg
 tags: [Announcement]
 ---
 
