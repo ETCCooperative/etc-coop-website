@@ -6,16 +6,10 @@ featuredImage: bob_pow_summit.jpg
 tags: [Announcement]
 ---
 
-We are happy to announce the POW Summit 2024 schedule!
+Today I am announcing my departure as the Executive Director of the ETC Cooperative, a role which I have held since January 2019.
 
-You may see the summit's agenda and speakers here: https://cfp.powsummit.com/2024/schedule/
+Grayscale’s funding of the ETC Cooperative came to a close in 2022 and we were lucky to receive a relative windfall in the 2021 bull-market, with nearly $5M of funding in that year.  The ETC Cooperative bought around $1M of ETC that same year, but we have not been in a sustainable funding situation since that time, with just the hope that a new bull market would extend the runway further.
 
-### This Year's POW Summit Will Be Focusing on Four Themes:
+The crypto markets were brutal between March and August of this year, and the ETC Cooperative's reserves (USD + ETC) were reduced from $4.2M down to $2.25M, a drop of nearly $2M dollars in the course of five months.  Cuts to staffing were made in Q2 and in Q3, and in October I came to the decision that I should be the next to leave and gave my notice.  The much reduced spending, together with recent price rises have given the ETC Cooperative a much extended runway while decisions are made about what happens next.
 
-All the talks will be organized in four major categories that are prominent topics in the indsutry and thus the focus of this year's summit.
-
-**Proof of Scale:** Industry veterans and newcomers will discuss competing solutions for technical and economic tradeoffs in the hottest sector of development and capital investment.
-
-**Proof of Utility:** Attendants will learn about the emerging protocols and diverse use cases competing for scarce block space on the base layer and L2s.
-
-**Proof of Sustainability:** Innovative miner strategies will be presented for environmentally sustainable solutions driving the technology forward in the face of hostile governments and regulators.
+Spending was reduced from $147K USD per month, down to $99K USD per month, and then further to $72K USD per month heading into 2025, which at current ETC prices gives us a runway through until September 2027.
