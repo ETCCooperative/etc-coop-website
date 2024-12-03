@@ -396,12 +396,12 @@
                 {
                     "date": "12月5日",
                     "description": "ETC合作2024年第二季度报告",
-                    "fileLink": "https://etccooperative.org/etc-cooperative-q2-2024-en.pdf"
+                    "fileLink": "/etc-cooperative-q2-2024-en.pdf"
                 },
                 {
                     "date": "12月5日",
                     "description": "ETC合作2024年第三季度报告",
-                    "fileLink": "https://etccooperative.org/etc-cooperative-q3-2024-en.pdf"
+                    "fileLink": "/etc-cooperative-q3-2024-en.pdf"
                 }
             ]
         }
