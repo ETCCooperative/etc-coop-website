@@ -396,12 +396,12 @@
                 {
                     "date": "5th December",
                     "description": "ETC Cooperative 2024 Q2 Report",
-                    "fileLink": "https://etccooperative.org/etc-cooperative-q2-2024-en.pdf"
+                    "fileLink": "/etc-cooperative-q2-2024-en.pdf"
                 },
                 {
                     "date": "5th December",
                     "description": "ETC Cooperative 2024 Q3 Report",
-                    "fileLink": "https://etccooperative.org/etc-cooperative-q3-2024-en.pdf"
+                    "fileLink": "/etc-cooperative-q3-2024-en.pdf"
                 }
             ]
         }
