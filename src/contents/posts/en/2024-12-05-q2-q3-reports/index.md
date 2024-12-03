@@ -35,7 +35,7 @@ My own departure at the end of this year will leave the ETC Cooperative with the
 
 Here are the **[Q2 Report](/etc-cooperative-q2-2024-en.pdf)** and the **[Q3 Report](/etc-cooperative-q3-2024-en.pdf)**, detailing our activities over the last few months:
 
-For the core developers, these months have not been very eventful, with normal maintenance activities ongoing.  Upstream Geth has removed all POW-related codepaths, which makes things challenging.  The core developers will be assessing possible alternative strategies for client software moving forward, with fresh eyes on Besu, Erigon and Nethermind.
+One major challenge for the core developers during this period has been that the upstream Geth client has removed all POW-related codepaths, which makes future merges challenging.  After the Prophasis (v1.12.20) release, there has been several months of work underway to do the first merge after this removal.  Multiple attempts were required to get things into what looks like a health state and that newer version is still pending release.  The core developers will be assessing possible alternative strategies for client software moving forward, with fresh eyes on Besu, Erigon and Nethermind.
 
 The second iteration of [POW Summit](https://powsummit.com) was a major focus this year and the event was well received by speakers and attendees, but was a financial failure and is unlikely to be repeated in 2025.  We have some excellent evergreen content from both years available on our [YouTube channel](https://www.youtube.com/@POWSummit/featured).
 
