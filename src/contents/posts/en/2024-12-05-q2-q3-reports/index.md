@@ -52,3 +52,11 @@ Bitmain-driven activities under the brand are ongoing:
 
 * https://x.com/ETCGrantsDAO
 
+I joined the ETC Cooperative in January 2019 and it has been quite the ride.  Six years is the longest that I have been any single role for my whole career.  I was at Electronic Arts for 15+ years, but in numerous different roles.  It is time for new leadership at the ETC Cooperative.  I regret that I have been unable to help build the kind of rich multi-party ETC ecosystem that we would all have liked to see, but I derive some satisfaction from the fact that the Cooperative has been a steady presence throughout, despite everything.  I was particularly happy that we were able to financially support the core developers as ETC Labs collapsed and provide that continuity.
+
+I wish everyone the best.
+
+
+Bob
+
+
