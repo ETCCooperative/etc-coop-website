@@ -33,9 +33,7 @@ My own departure at the end of this year will leave the ETC Cooperative with the
 * Chris Ziogas - Core Developer
 * Diego López León - Core Developer
 
-Here are the Q2 and Q3 reports, detailing our activities over the last few months:
-
-**[Q2 Report](/etc-cooperative-q2-2024-en.pdf)** and **[Q3 Report](/etc-cooperative-q3-2024-en.pdf)**.
+Here are the **[Q2 Report](/etc-cooperative-q2-2024-en.pdf)** and the **[Q3 Report](/etc-cooperative-q3-2024-en.pdf)**, detailing our activities over the last few months:
 
 For the core developers, these months have not been very eventful, with normal maintenance activities ongoing.  Upstream Geth has removed all POW-related codepaths, which makes things challenging.  The core developers will be assessing possible alternative strategies for client software moving forward, with fresh eyes on Besu, Erigon and Nethermind.
 
