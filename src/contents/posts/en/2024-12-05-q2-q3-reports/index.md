@@ -6,7 +6,7 @@ featuredImage: bob_pow_summit.jpg
 tags: [Announcement]
 ---
 
-Today I am announcing my departure as the Executive Director of the ETC Cooperative, a role which I have held since January 2019.
+**Today I am announcing my departure as the Executive Director of the ETC Cooperative, a role which I have held since January 2019.**
 
 Grayscale’s funding of the ETC Cooperative came to a close in 2022 and we were lucky to receive a relative windfall in the 2021 bull-market, with nearly $5M of funding in that year.  The ETC Cooperative bought around $1M of ETC that same year, but we have not been in a sustainable funding situation since that time, with just the hope that a new bull market would extend the runway further.
 
@@ -31,7 +31,7 @@ My own departure at the end of this year will leave the ETC Cooperative with the
 * Alison Alexis (part-time) - Financial Controller and Business Services
 * Andrew Dick (part-time) - Marketing Manager
 * Chris Ziogas - Core Developer
-* López León - Core Developer
+* Diego López León - Core Developer
 
 Here are the Q2 and Q3 reports, detailing our activities over the last few months:
 
@@ -39,9 +39,9 @@ Here are the Q2 and Q3 reports, detailing our activities over the last few month
 
 For the core developers, these months have not been very eventful, with normal maintenance activities ongoing.  Upstream Geth has removed all POW-related codepaths, which makes things challenging.  The core developers will be assessing possible alternative strategies for client software moving forward, with fresh eyes on Besu, Erigon and Nethermind.
 
-The second iteration of POW Summit was a major focus this year and the event was well received by speakers and attendees, but was a financial failure and is unlikely to be repeated in 2025.
+The second iteration of [POW Summit](https://powsummit.com) was a major focus this year and the event was well received by speakers and attendees, but was a financial failure and is unlikely to be repeated in 2025.  We have some excellent evergreen content from both years available on our [YouTube channel](https://www.youtube.com/@POWSummit/featured).
 
-At the time of writing, the ETC Cooperative is no longer participating in the ETC Grants DAO program, which we see as a fairly abject failure for the ecosystem.  Antpool and Bitmain pledged $10M USD worth of investment more than two years ago, and only $500K or so of those funds have ever made it to project teams.  Many of the round one grants turned out to be rug pulls.  There has been constant turnover of staff at Bitmain and the program has never been effective.  It is also, notably, not a DAO in any meaningful sense.
+At the time of writing, the ETC Cooperative is no longer participating in the [ETC Grants DAO](https://www.etcgrantsdao.io) program, which we see as a fairly abject failure for the ecosystem.  Antpool and Bitmain pledged $10M USD worth of investment more than two years ago, and only $500K or so of those funds have ever made it to project teams.  Many of the round one grants turned out to be rug pulls.  There has been constant turnover of staff at Bitmain and the program has never been effective.  It is also, notably, not a DAO in any meaningful sense.
 
 The unspent funds remain in Bitmain's sole control, as they have since 2022:
 
@@ -54,7 +54,11 @@ Bitmain-driven activities under the brand are ongoing:
 
 I joined the ETC Cooperative in January 2019 and it has been quite the ride.  Six years is the longest that I have been any single role for my whole career.  I was at Electronic Arts for 15+ years, but in numerous different roles.  It is time for new leadership at the ETC Cooperative.  I regret that I have been unable to help build the kind of rich multi-party ETC ecosystem that we would all have liked to see, but I derive some satisfaction from the fact that the Cooperative has been a steady presence throughout, despite everything.  I was particularly happy that we were able to financially support the core developers as ETC Labs collapsed and provide that continuity.
 
-I wish everyone the best.
+I would like to thank the board members, past and present, for their support and faith in me, and with them all the best in the coming era for the Cooperative.  My special thanks go to Barry Silbert for founding the ETC Cooperative in the first place, for funding it via Grayscale for so many years and for hiring me.  Special thanks also to Craig Salm as the Chair since 2022 and for all the time and help he has given me in our regular calls.
+
+I would also like to thank all of my colleagues, past and present, for sharing the journey with me.  Anthony Lusardi, Yaz Khoury, Stevan Lohja, Kevin Lord, Diego López León, Donald McIntyre, Isaac Ardis, Chris Ziogas, Andrew Dick, Angelah Liu, Emma Todd and Michael Parenti.
+
+I wish everyone the best!
 
 
 Bob
