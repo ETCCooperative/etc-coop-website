@@ -41,7 +41,7 @@ The second iteration of [POW Summit](https://powsummit.com) was a major focus th
 
 At the time of writing, the ETC Cooperative is no longer participating in the [ETC Grants DAO](https://www.etcgrantsdao.io) program, which I see as a fairly abject failure for the ecosystem.  Antpool and Bitmain pledged $10M USD worth of investment more than two years ago, and only $500K or so of those funds have ever made it to project teams.  The ETC Cooperative had $250K to contribute and over $200K of that went in the first round of grants, many of which turned out to be rug pulls.  Many of these projects were Chinese teams and so we were reliant on Bitmain staff for the evaluation.  There has been constant turnover of staff at Bitmain and the program has never been effective.  It is also, notably, not a DAO in any meaningful sense.
 
-The unspent funds remain under Bitmain's sole control, as they have since 2022:
+The unspent funds remain under Bitmain's sole control, as they have been since 2022:
 
 * [ETH:0xA208013A... 5M USDT ~= $5M USD](https://app.safe.global/balances?safe=eth:0xA208013A926718B43A6609e29691783833dcE8D6)
 * [ETC:0x3db3D728... 161,141.14 ETC ~= $5.6M USD](https://multisig.etccooperative.org/balances?safe=ETC:0x3db3D728B8783656b83c3cB8eDc1481eC3c62f82)
