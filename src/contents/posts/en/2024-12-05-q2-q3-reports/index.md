@@ -12,9 +12,9 @@ Grayscale’s funding of the ETC Cooperative came to a close in 2022 and we were
 
 The crypto markets were brutal between March and August of this year, and the ETC Cooperative's reserves (USD + ETC) were reduced from $4.2M down to $2.25M, a drop of nearly $2M dollars in the course of five months.  Cuts to staffing were made in Q2 and in Q3, and in October I came to the decision that I should be the next to leave and I gave my notice to the board of directors.
 
-Spending was reduced from $147K USD per month down to $99K USD per month, and then further to $72K USD per month heading into 2025.  The combination of much reduced spending in combination with rising ETC prices in Q4 has now given us a probable runway until September 2027 at current market rates.
+Spending was reduced from $147K USD per month down to $99K USD per month, and then further to $72K USD per month heading into 2025.  The much reduced spending in combination with rising ETC prices in Q4 has now given us a probable runway until September 2027 at current market rates.
 
-POW Summit was held at the end of September 2024, flush with the end of Q3, and that was a natural place for the following reductions:
+POW Summit was held at the end of September 2024, flush with the end of Q3, and that was a natural place for the following staffing reductions:
 
 * Michael Parenti, who worked with Bob on POW Summit content
 * Emma Todd and other MMH staff who worked on POW Summit
