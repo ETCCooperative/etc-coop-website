@@ -26,9 +26,29 @@ With further cuts planned for mid-November:
 * Reduction of core development team from 3 developers to 2 developers, with Isaac Ardis ultimately volunteering to leave
 * Donald McIntyre (Senior Editor), though eventually extended until the end of the year
 
-My own departure at the end of this year will leave the ETC Cooperative with the following staffing:
+My own departure at the end of this year will leave the ETC Cooperative with the following staffing while decisions are pending on what is next for the ETC Cooperative:
 
 * Alison Alexis (part-time) - Financial Controller and Business Services
 * Andrew Dick (part-time) - Marketing Manager
 * Chris Ziogas - Core Developer
 * López León - Core Developer
+
+Here are the Q2 and Q3 reports, detailing our activities over the last few months:
+
+**Q2 Report** and **Q3 Report**.
+
+For the core developers, these months have not been very eventful, with normal maintenance activities ongoing.  Upstream Geth has removed all POW-related codepaths, which makes things challenging.  The core developers will be assessing possible alternative strategies for client software moving forward, with fresh eyes on Besu, Erigon and Nethermind.
+
+The second iteration of POW Summit was a major focus this year and the event was well received by speakers and attendees, but was a financial failure and is unlikely to be repeated in 2025.
+
+At the time of writing, the ETC Cooperative is no longer participating in the ETC Grants DAO program, which we see as a fairly abject failure for the ecosystem.  Antpool and Bitmain pledged $10M USD worth of investment more than two years ago, and only $500K or so of those funds have ever made it to project teams.  Many of the round one grants turned out to be rug pulls.  There has been constant turnover of staff at Bitmain and the program has never been effective.  It is also, notably, not a DAO in any meaningful sense.
+
+The unspent funds remain in Bitmain's sole control, as they have since 2022:
+
+* https://app.safe.global/balances?safe=eth:0xA208013A926718B43A6609e29691783833dcE8D6
+* https://multisig.etccooperative.org/balances?safe=ETC:0x3db3D728B8783656b83c3cB8eDc1481eC3c62f82
+
+Bitmain-driven activities under the brand are ongoing:
+
+* https://x.com/ETCGrantsDAO
+
