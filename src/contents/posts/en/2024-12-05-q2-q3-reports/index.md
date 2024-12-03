@@ -43,8 +43,8 @@ At the time of writing, the ETC Cooperative is no longer participating in the [E
 
 The unspent funds remain in Bitmain's sole control, as they have since 2022:
 
-* https://app.safe.global/balances?safe=eth:0xA208013A926718B43A6609e29691783833dcE8D6
-* https://multisig.etccooperative.org/balances?safe=ETC:0x3db3D728B8783656b83c3cB8eDc1481eC3c62f82
+* [ETH:0xA208013A... 5M USDT ~= $5M USD](https://app.safe.global/balances?safe=eth:0xA208013A926718B43A6609e29691783833dcE8D6)
+* [ETC:0x3db3D728... 161,141.14 ETC ~= $5.6M USD](https://multisig.etccooperative.org/balances?safe=ETC:0x3db3D728B8783656b83c3cB8eDc1481eC3c62f82)
 
 Bitmain-driven activities under the brand are ongoing:
 
