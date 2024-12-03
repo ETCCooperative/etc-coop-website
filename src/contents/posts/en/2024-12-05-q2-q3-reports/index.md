@@ -59,8 +59,4 @@ I would like to thank the board members, past and present, for their support and
 I would also like to thank all of my colleagues, past and present, for sharing the journey with me.  Anthony Lusardi, Yaz Khoury, Stevan Lohja, Kevin Lord, Diego López León, Donald McIntyre, Isaac Ardis, Chris Ziogas, Andrew Dick, Angelah Liu, Emma Todd and Michael Parenti.
 
 
-Best wishes for 2025,
-Bob Summerwill
-Executive Director, ETC Cooperative
-
-
+Best wishes for 2025.
