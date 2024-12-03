@@ -46,9 +46,10 @@ The unspent funds remain under Bitmain's sole control, as they have since 2022:
 * [ETH:0xA208013A... 5M USDT ~= $5M USD](https://app.safe.global/balances?safe=eth:0xA208013A926718B43A6609e29691783833dcE8D6)
 * [ETC:0x3db3D728... 161,141.14 ETC ~= $5.6M USD](https://multisig.etccooperative.org/balances?safe=ETC:0x3db3D728B8783656b83c3cB8eDc1481eC3c62f82)
 
-Bitmain-driven activities under the brand are ongoing:
+Bitmain-driven activities under the brand are ongoing on X and Telegram:
 
 * https://x.com/ETCGrantsDAO
+* https://t.me/etcgrantsdaoofficial
 
 I joined the ETC Cooperative in January 2019 and it has been quite the ride.  Six years is the longest that I have been any single role for my whole career.  I was at Electronic Arts for 15+ years, but in numerous different roles.  It is time for new leadership at the ETC Cooperative.  I regret that I have been unable to help build the kind of rich multi-party ETC ecosystem that we would all have liked to see, but I derive some satisfaction from the fact that the Cooperative has been a steady presence throughout, despite everything.  I was particularly happy that we were able to financially support the core developers as ETC Labs collapsed and provide that continuity.
 
