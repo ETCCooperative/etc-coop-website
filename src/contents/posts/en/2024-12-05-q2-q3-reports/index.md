@@ -41,7 +41,7 @@ The second iteration of [POW Summit](https://powsummit.com) was a major focus th
 
 At the time of writing, the ETC Cooperative is no longer participating in the [ETC Grants DAO](https://www.etcgrantsdao.io) program.  Antpool and Bitmain pledged $10M USD worth of investment into the ETC ecosystem more than two years ago, but only $500K or so of those funds ever made it to project teams.  The ETC Cooperative had $250K to contribute and over $200K of that funding went into the [first round of grants](https://etcgrants.softr.app/projects-list-funded-en).  The open grants program was largely ineffective, with some projects turning out to be outright rug pulls.   The Cooperative provided further funding for the Djed and ERUSD teams into 2024, before withdrawing from the program.
 
-The unspent funds from the initial $10M pledge remain under Bitmain's sole control, as they have been since 2022.  There are, in fact, over $11M USD equivalent of funds at the time of writing, with market moves in the last few months.  We hope those funds make it to ETC project teams.
+The unspent funds from the initial $10M pledge remain under Bitmain's sole control, as they have been since 2022.  There are, in fact, over $11M USD equivalent of funds at the time of writing, following crypto market rises in the last few months.  We hope those funds make it to ETC project teams.
 
 * [ETH:0xA208013A... 5M USDT ~= $5M USD](https://app.safe.global/balances?safe=eth:0xA208013A926718B43A6609e29691783833dcE8D6)
 * [ETC:0x3db3D728... 161,141.14 ETC ~= $6.3M USD](https://multisig.etccooperative.org/balances?safe=ETC:0x3db3D728B8783656b83c3cB8eDc1481eC3c62f82)
