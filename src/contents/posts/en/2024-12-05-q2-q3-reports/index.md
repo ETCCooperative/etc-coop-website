@@ -55,7 +55,11 @@ I joined the ETC Cooperative in January 2019 and it has been quite the ride.  Si
 
 I would like to thank the board members, past and present, for their support and faith in me, and wish them all the best in the coming era for the Cooperative.  My special thanks go to Barry Silbert for founding the ETC Cooperative in the first place, for funding it via Grayscale for so many years and for hiring me.  Special thanks also to Craig Salm as the Chair since 2022 and for all the time and help he has given me in our regular calls over the years.  Grayscale's support of Ethereum Classic has been pivotal.  Their ETC fund is still their third largest single asset fund by AUM - after Bitcoin and Ethereum.
 
+![image](/anthony_yaz_halfsize.jpg)
+
 I would also like to thank all of my colleagues, past and present, for sharing the journey with me.  Anthony Lusardi, Yaz Khoury, Alison Alexis, Stevan Lohja, Kevin Lord, Diego López León, Donald McIntyre, Isaac Ardis, Chris Ziogas, Andrew Dick, Angelah Liu, Emma Todd and Michael Parenti.
+
+![image](/pow_summit_2023_coop_people-half.jpg)
 
 
 Best wishes for 2025.
