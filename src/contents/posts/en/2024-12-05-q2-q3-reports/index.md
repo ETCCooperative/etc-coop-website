@@ -51,7 +51,9 @@ Bitmain-driven activities under the ETC Grants DAO brand are ongoing on X and Te
 * https://x.com/ETCGrantsDAO
 * https://t.me/etcgrantsdaoofficial
 
-I joined the ETC Cooperative in January 2019 and it has been quite the ride.  Six years is the longest that I have been any single role for my whole career.  I was at Electronic Arts for 15+ years, but in numerous different roles.  It is time for new leadership at the ETC Cooperative.  I regret that I have been unable to help build the kind of rich multi-party ETC ecosystem that we would all have liked to see, but I derive some satisfaction from the fact that the Cooperative has been a steady presence throughout, despite everything.  I was particularly happy that we were able to financially support the core developers as ETC Labs collapsed and provide that continuity.
+I joined the ETC Cooperative in January 2019 and it has been quite the ride.  Six years is the longest that I have been any single role for my whole career.  I was at Electronic Arts for 15+ years, but in numerous different roles.
+
+It is time for new leadership at the ETC Cooperative.  I regret that I have been unable to help build the kind of rich multi-party ETC ecosystem that we would all have liked to see, but I derive some satisfaction from the fact that the Cooperative has been a steady presence throughout, despite everything.  I was particularly happy that we were able to financially support the core developers as ETC Labs collapsed and provide that continuity.
 
 I would like to thank the board members, past and present, for their support and faith in me, and wish them all the best in the coming era for the Cooperative.  My special thanks go to Barry Silbert for founding the ETC Cooperative in the first place, for funding it via Grayscale for so many years and for hiring me.  Special thanks also to Craig Salm as the Chair since 2022 and for all the time and help he has given me in our regular calls over the years.  Grayscale's support of Ethereum Classic has been pivotal.  Their ETC fund is still their third largest single asset fund by AUM - after Bitcoin and Ethereum.
 
