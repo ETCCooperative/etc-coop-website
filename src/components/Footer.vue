@@ -39,9 +39,6 @@
 						<a href="https://twitter.com/ETCCooperative">
 							<img src="@/assets/images/twitter.svg" alt="" />
 						</a>
-						<a href="https://discord.gg/5wDyd6u6pU">
-							<img src="@/assets/images/discord.svg" alt="" />
-						</a>
 						<a href="https://www.linkedin.com/company/etc-cooperative/">
 							<img src="@/assets/images/linkedin.svg" alt="" />
 						</a>
@@ -63,9 +60,6 @@
 							<ul>
 								<li>
 									<a href="https://ethereumclassic.org/">{{ $t("footer_navigation.etc_website") }}</a>
-								</li>
-								<li>
-									<a href="https://discord.com/invite/hQs894U">{{ $t("footer_navigation.etc_discord") }}</a>
 								</li>
 								<li>
 									<a href="https://ethereumclassic.org/news">{{ $t("footer_navigation.etc_news") }}</a>
