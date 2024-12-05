@@ -72,10 +72,6 @@
 								<img src="@/assets/images/contact-twitter.svg" alt="" />
 								@ETCCooperative
 							</a>
-							<a target="_blank" href="https://discord.gg/5wDyd6u6pU">
-								<img src="@/assets/images/contact-discord1.svg" alt="" />
-								ETC Cooperative Discord
-							</a>
 							<a
 								target="_blank"
 								href="https://www.linkedin.com/company/etc-cooperative/"
