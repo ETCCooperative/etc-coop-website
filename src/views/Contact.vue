@@ -33,10 +33,6 @@
 										<img src="@/assets/images/mail-icon-green.svg" alt="" />
 										{{ contact.mail }}
 									</a>
-									<a :href="`https://www.twitter.com/${contact.twitter}`">
-										<img src="@/assets/images/member-twitter.svg" alt="" />
-										@{{ contact.twitter }}
-									</a>
 								</div>
 							</div>
 						</div>
@@ -119,15 +115,13 @@ export default {
 					img: "alison-alexis.png",
 					name: "Alison Alexis",
 					title: "Financial Controller and Business Services",
-					mail: "alison@etccooperative.org",
-					twitter: "AlisonbobEth",
+					mail: "alison@etccooperative.org"
 				},
 				{
 					img: "andrew-dick.png",
 					name: "Andrew Dick",
 					title: "Marketing Manager",
-					mail: "andrew@etccooperative.org",
-					
+					mail: "andrew@etccooperative.org"					
 				},
 				
 			],
