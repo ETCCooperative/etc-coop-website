@@ -187,18 +187,6 @@ export default {
 			activePeople: null,
 			peoples: [
 				{
-					img: "bob-summerwill.png",
-					name: "Bob Summerwill",
-					title: "Executive Director",
-					description:
-						"Bob Summerwill is Executive Director for the ETC Cooperative. He has been a community member of the Ethereum project since 2015 and of the Hyperledger project since 2016.",
-					mail: "bob@etccooperative.org",
-					social: {
-						twitter: "https://twitter.com/BobSummerwill",
-						linkedin: "https://www.linkedin.com/in/bobsummerwill/",
-					},
-				},
-				{
 					img: "alison-alexis.png",
 					name: "Alison Alexis",
 					title: "Financial Controller and Business Services",
@@ -206,16 +194,6 @@ export default {
 					mail: "alison@etccooperative.org",
 					social: {
 						linkedin: "https://www.linkedin.com/in/alison-alexis-ca/",
-					},
-				},
-				{
-					img: "isaac-ardis.png",
-					name: "Isaac Ardis",
-					title: "Core Developer, Ethereum Classic",
-					description: "",
-					mail: "isaac@etccooperative.org",
-					social: {
-						twitter: "https://twitter.com/isaacardis",
 					},
 				},
 				{
@@ -238,17 +216,6 @@ export default {
 					social: {
 						twitter: "https://twitter.com/diega",
 						linkedin: "https://www.linkedin.com/in/dlopezleon/",
-					},
-				},
-				{
-					img: "donald-mcintyre.png",
-					name: "Donald McIntyre",
-					title: "Senior Editor",
-					description: "",
-					mail: "donald@etccooperative.org",
-					social: {
-						twitter: "https://twitter.com/ETCCoopEd",
-						linkedin: "https://www.linkedin.com/in/donmcint/",
 					},
 				},
 				{
