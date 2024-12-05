@@ -63,5 +63,8 @@ I would also like to thank all of my colleagues, past and present, for sharing t
 
 ![image](/pow_summit_2023_coop_people-half.jpg)
 
-
 Best wishes for 2025.
+
+## ETC Coop Board Statement
+
+We thank Bob for his years of service, support and contributions to the Ethereum Classic ecosystem. As we look to the future, the board is evaluating next steps for the Ethereum Classic Cooperative, including succession plans.
