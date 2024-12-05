@@ -116,19 +116,11 @@ export default {
 		return {
 			contacts: [
 				{
-					img: "bob-summerwill.png",
-					name: "Bob Summerwill",
-					title: "Executive Director",
-					mail: "bob@etccooperative.org",
-					twitter: "bobsummerwill",
-				},
-			
-				{
-					img: "donald-mcintyre.png",
-					name: "Donald McIntyre",
-					title: "Senior Editor",
-					mail: "donald@etccooperative.org",
-					twitter: "RocketETC",
+					img: "alison-alexis.png",
+					name: "Alison Alexis",
+					title: "Financial Controller and Business Services",
+					mail: "alison@etccooperative.org",
+					twitter: "AlisonbobEth",
 				},
 				{
 					img: "andrew-dick.png",
