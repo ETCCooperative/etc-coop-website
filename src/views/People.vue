@@ -197,6 +197,16 @@ export default {
 					},
 				},
 				{
+					img: "andrew-dick.png",
+					name: "Andrew Dick",
+					title: "Marketing Manager",
+					description: "",
+					mail: "andrew@etccooperative.org",
+					social: {
+						linkedin: "https://www.linkedin.com/in/andrewgdick/",
+					},
+				},
+				{
 					img: "chris-ziogas.png",
 					name: "Chris Ziogas",
 					title: "Core Developer, Ethereum Classic",
@@ -216,16 +226,6 @@ export default {
 					social: {
 						twitter: "https://twitter.com/diega",
 						linkedin: "https://www.linkedin.com/in/dlopezleon/",
-					},
-				},
-				{
-					img: "andrew-dick.png",
-					name: "Andrew Dick",
-					title: "Marketing Manager",
-					description: "",
-					mail: "andrew@etccooperative.org",
-					social: {
-						linkedin: "https://www.linkedin.com/in/andrewgdick/",
 					},
 				},
 				
