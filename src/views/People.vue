@@ -213,7 +213,6 @@ export default {
 					description: "",
 					mail: "chris@etccooperative.org",
 					social: {
-						twitter: "https://twitter.com/ziogaschr",
 						linkedin: "https://www.linkedin.com/in/ziogaschr/",
 					},
 				},
@@ -224,7 +223,6 @@ export default {
 					description: "",
 					mail: "diego@etccooperative.org",
 					social: {
-						twitter: "https://twitter.com/diega",
 						linkedin: "https://www.linkedin.com/in/dlopezleon/",
 					},
 				},
