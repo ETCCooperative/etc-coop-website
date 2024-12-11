@@ -187,6 +187,18 @@ export default {
 			activePeople: null,
 			peoples: [
 				{
+					img: "bob-summerwill.png",
+					name: "Bob Summerwill",
+					title: "Executive Director",
+					description:
+						"Bob Summerwill is Executive Director for the ETC Cooperative. He has been a community member of the Ethereum project since 2015 and of the Hyperledger project since 2016.",
+					mail: "bob@etccooperative.org",
+					social: {
+						twitter: "https://twitter.com/BobSummerwill",
+						linkedin: "https://www.linkedin.com/in/bobsummerwill/",
+					},
+				},
+				{
 					img: "alison-alexis.png",
 					name: "Alison Alexis",
 					title: "Financial Controller and Business Services",
