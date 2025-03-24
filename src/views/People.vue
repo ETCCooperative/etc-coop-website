@@ -207,16 +207,7 @@ export default {
 						linkedin: "https://www.linkedin.com/in/andrewgdick/",
 					},
 				},
-				{
-					img: "chris-ziogas.png",
-					name: "Chris Ziogas",
-					title: "Core Developer, Ethereum Classic",
-					description: "",
-					mail: "chris@etccooperative.org",
-					social: {
-						linkedin: "https://www.linkedin.com/in/ziogaschr/",
-					},
-				},
+				
 				{
 					img: "diego-leon.png",
 					name: "Diego López León",
