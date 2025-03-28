@@ -1,3 +1,4 @@
+
 {
     "filings": [
         {
@@ -404,6 +405,18 @@
                     "fileLink": "/etc-cooperative-q3-2024-en.pdf"
                 }
             ]
+        },
+        {
+            "title": "2025",
+            "files": [
+                {
+                    "date": "14th March",
+                    "description": "ETC Coop 2024 Retrospective",
+                    "fileLink": "https://etccooperative.org/etc-cooperative-retrospective-2024.pdf"
+                }
+               
+            ]
         }
+        
     ]
 }
