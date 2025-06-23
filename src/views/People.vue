@@ -198,13 +198,13 @@ export default {
 					},
 				},
 				{
-					img: "andrew-dick.png",
-					name: "Andrew Dick",
-					title: "Marketing Manager",
+					img: "donald-mcintyre.png",
+					name: "Donald McIntyre",
+					title: "Ecosystem Relations Manager",
 					description: "",
-					mail: "andrew@etccooperative.org",
+					mail: "donald@etccooperative.org",
 					social: {
-						linkedin: "https://www.linkedin.com/in/andrewgdick/",
+						linkedin: "https://www.linkedin.com/in/rocketetc/",
 					},
 				},
 				
