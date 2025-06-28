@@ -113,12 +113,6 @@ export default {
 					title: "Financial Controller and Business Services",
 					mail: "alison@etccooperative.org"
 				},
-				{
-					img: "andrew-dick.png",
-					name: "Andrew Dick",
-					title: "Marketing Manager",
-					mail: "andrew@etccooperative.org"					
-				},
 				
 			],
 		};
