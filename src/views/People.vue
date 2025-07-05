@@ -197,16 +197,6 @@ export default {
 						linkedin: "https://www.linkedin.com/in/alison-alexis-ca/",
 					},
 				},
-				{
-					img: "donald-mcintyre.png",
-					name: "Donald McIntyre",
-					title: "Ecosystem Relations Manager",
-					description: "",
-					mail: "donald@etccooperative.org",
-					social: {
-						linkedin: "https://www.linkedin.com/in/rocketetc/",
-					},
-				},
 				
 				{
 					img: "diego-leon.png",
