@@ -3,6 +3,9 @@
 		<title>{{ title }}</title>
 		<meta name="description" :content="description" />
 
+		<!-- Robots (noindex) -->
+		<meta v-if="noindex" name="robots" content="noindex, nofollow" />
+
 		<!-- Social -->
 		<meta property="og:title" :content="title" />
 		<meta property="og:description" :content="description" />
@@ -185,6 +188,7 @@ export default {
 			author: null,
 			date: null,
 			tags: [],
+			noindex: false,
 			baseUrl: null,
 			fullPath: null,
 			mayAlsoLikeArticles: [],
@@ -219,6 +223,7 @@ export default {
 					this.img = meta.featuredImage || null;
 					this.author = meta.author || null;
 					this.tags = meta.tags || [];
+					this.noindex = meta.noindex || false;
 					this.baseUrl = window.location.origin;
 					this.fullPath = new URL(this.$route.href, this.baseUrl).href;
 					this.date = this.tryParseDateFromAlias(this.$route.params.alias);
@@ -234,6 +239,7 @@ export default {
 						this.img = meta.featuredImage || null;
 						this.author = meta.author || null;
 						this.tags = meta.tags || [];
+						this.noindex = meta.noindex || false;
 						this.baseUrl = window.location.origin;
 						this.fullPath = new URL(this.$route.href, this.baseUrl).href;
 						this.date = this.tryParseDateFromAlias(this.$route.params.alias);
