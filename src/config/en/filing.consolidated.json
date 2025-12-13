@@ -416,10 +416,19 @@
                 },
                 {
                     "date": "24th June",
-                    "description": "ETC Cooperative 2024 Q3 Report",
+                    "description": "ETC Cooperative 2025 Q1 Report",
                     "fileLink": "https://etccooperative.org/etc-cooperative-q1-2025-en.pdf"
+                },
+                {
+                    "date": "1st September",
+                    "description": "ETC Cooperative 2025 Q2 Report",
+                    "fileLink": "https://etccooperative.org/etc-cooperative-q2-2025-en.pdf"
+                },
+                {
+                    "date": "13th December",
+                    "description": "ETC Cooperative 2025 Q3 Report",
+                    "fileLink": "https://etccooperative.org/etc-cooperative-q3-2025-en.pdf"
                 }
-               
             ]
         }
         
