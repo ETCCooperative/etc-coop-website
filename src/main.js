@@ -12,7 +12,7 @@ import "bootstrap";
 import VueCookieAcceptDecline from "vue-cookie-accept-decline";
 import "./assets/css/cookie-popup.css";
 
-import { createHead } from "@vueuse/head";
+import { createHead } from "@unhead/vue";
 
 const mixins = {
 	methods: {
