@@ -102,12 +102,6 @@
 			"status": "operational",
 			"statusLabel": "Operational",
 			"description": "Multi-client test fleet across approximately 23 machines in 8 regions. Grafana, Prometheus, and InfluxDB monitoring stack with 16 dashboards, including dedicated full sync benchmark dashboards for head-to-head client comparison."
-		},
-		{
-			"name": "Hive Testing",
-			"status": "pass",
-			"statusLabel": "99.94% pass",
-			"description": "ETC integration test framework based on the Ethereum Hive testing suite. Legacy consensus test suite achieving a 99.94% pass rate, with multi-client test tracking for ongoing validation."
 		}
 	]
 }
