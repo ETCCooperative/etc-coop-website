@@ -25,7 +25,7 @@
 							class="col-md-6 px-2"
 						>
 							<div class="contactCard">
-								<img :src="require(`@/assets/images/${contact.img}`)" alt="" />
+								<img :src="getAssetUrl(contact.img)" alt="" />
 								<div class="contactCardDetails">
 									<h6>{{ contact.name }}</h6>
 									<span>{{ contact.title }}</span>
@@ -103,6 +103,11 @@ export default {
 	components: {
 		Layout,
 		Navbar,
+	},
+	methods: {
+		getAssetUrl(name) {
+			return new URL(`../assets/images/${name}`, import.meta.url).href;
+		},
 	},
 	data() {
 		return {
