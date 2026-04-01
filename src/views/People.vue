@@ -26,7 +26,7 @@
 						>
 							<div @click="selectPeople(people)" class="teamMemberCard">
 								<img
-									:src="require(`@/assets/images/${people.img}`)"
+									:src="getAssetUrl(people.img)"
 									alt="team member"
 									id="teamMemberImg"
 								/>
@@ -67,7 +67,7 @@
 									<div class="memberImg">
 										<img
 											v-if="activePeople"
-											:src="require(`@/assets/images/${activePeople.img}`)"
+											:src="getAssetUrl(activePeople.img)"
 											alt=""
 											id="memberImg"
 										/>
@@ -159,7 +159,7 @@
 					<div class="row">
 						<div v-for="(board, bKey) in boards" :key="bKey" class="col-md-6">
 							<div class="bodCard">
-								<img :src="require(`@/assets/images/${board.img}`)" alt="" />
+								<img :src="getAssetUrl(board.img)" alt="" />
 
 								<h5>{{ board.name }}</h5>
 								<p>{{ board.title }}</p>
@@ -237,6 +237,9 @@ export default {
 		};
 	},
 	methods: {
+		getAssetUrl(name) {
+			return new URL(`../assets/images/${name}`, import.meta.url).href;
+		},
 		selectPeople(people) {
 			let bodyScroll = document.querySelector("body");
 			let teamMemberModal = document.querySelector("#teamMemberModal");

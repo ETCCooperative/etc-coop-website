@@ -70,7 +70,7 @@
 									<a target="_blank" :href="roadmap.link">
 										<div class="sliderCard">
 											<img
-												:src="require(`@/assets/images/${roadmap.img}`)"
+												:src="getAssetUrl(roadmap.img)"
 												alt=""
 											/>
 											<div class="sliderCardContent">
@@ -113,7 +113,7 @@
 									<a target="_blank" :href="retrospective.link">
 										<div class="sliderCard">
 											<img
-												:src="require(`@/assets/images/${retrospective.img}`)"
+												:src="getAssetUrl(retrospective.img)"
 												alt=""
 											/>
 											<div class="sliderCardContent">
@@ -250,6 +250,9 @@ export default {
 		};
 	},
 	methods: {
+		getAssetUrl(name) {
+			return new URL(`../assets/images/${name}`, import.meta.url).href;
+		},
 		updateAccordionText(key) {
 			const element = document.querySelector(
 				`[data-bs-target="#collapse-${key}"] .showAndHide`
