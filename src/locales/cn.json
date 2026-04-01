@@ -85,6 +85,13 @@
 		"community_body": "ETC社区还为对在该平台上开发感兴趣的开发者提供各种资源和支持。这些资源包括文档、教程、论坛以及开发者社区，可以在整个开发过程中提供指导和支持。",
 		"p2": "总体而言，为ETC开发需要对区块链技术、编程语言和智能合约开发有很好的理解。然而，借助适当的工具和资源，开发者可以在ETC区块链上创建强大且创新的DApps和智能合约。"
 	},
+	"development": {
+		"header": "开发",
+		"intro": "客户端多样性对区块链弹性至关重要。单一客户端代码库代表着单点故障——一个关键漏洞可能导致整个网络停止运行。ETC Cooperative 正在投资多个执行客户端，每个都基于积极维护的上游代码库构建，使以太坊经典能够以最小的维护开销继承多年的上游改进。",
+		"clients_title": "执行客户端",
+		"research_title": "研究与实验",
+		"infrastructure_title": "基础设施与工具"
+	},
 	"governance": {
 		"header": "治理",
 		"budgets": "预算",
@@ -121,6 +128,7 @@
 		"news": "新闻",
 		"etc_cooperative": "以太坊经典合作社",
 		"what_is_etc_cooperative": "什么是以太坊经典合作社",
+		"development": "开发",
 		"governance": "治理",
 		"filings": "文件",
 		"people": "人事",

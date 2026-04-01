@@ -86,6 +86,15 @@
 								<router-link
 									class="dropdown-item"
 									aria-current="page"
+									to="/development"
+								>
+									{{ $t("navigation.development") }}
+								</router-link>
+							</li>
+							<li>
+								<router-link
+									class="dropdown-item"
+									aria-current="page"
 									to="/governance"
 								>
 									{{ $t("navigation.governance") }}

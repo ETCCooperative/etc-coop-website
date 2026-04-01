@@ -1,0 +1,113 @@
+{
+	"clients": [
+		{
+			"name": "Nethermind ETC Plugin",
+			"status": "testing",
+			"statusLabel": "Testing",
+			"description": "Nethermind 的 ETC 插件，具备完整的共识和挖矿支持。目前是最稳定的新客户端——主网节点自 2026 年 1 月起完全同步并实时跟踪链，Mordor 测试网也已完全同步。目前运行在自定义的 Nethermind 1.36.0 版本上（包含同步修复）；1.37.0 版本将实现与上游 + 插件架构的完全兼容。上游协作已促成同步修复直接合并到 Nethermind 核心。",
+			"repo": "https://github.com/ETCCooperative/nethermind-etc-plugin",
+			"links": [
+				{
+					"label": "上游同步修复",
+					"url": "https://github.com/NethermindEth/nethermind/pull/10307"
+				}
+			]
+		},
+		{
+			"name": "Besu ETC Plugin",
+			"status": "in-development",
+			"statusLabel": "开发中",
+			"description": "扩展 Hyperledger Besu 的插件 API 以支持外部共识层。同时正在修复影响以太坊和以太坊经典网络的同步问题。插件扩展点正在贡献给上游，以实现 ETC 支持作为独立插件而无需修改 Besu 核心。",
+			"repo": "https://github.com/ETCCooperative/besu-etc-plugin",
+			"links": [
+				{
+					"label": "同步修复 (ETH & ETC)",
+					"url": "https://github.com/besu-eth/besu/pull/10047"
+				},
+				{
+					"label": "插件扩展",
+					"url": "https://github.com/diega/besu/commit/fe2cbfe812"
+				}
+			]
+		},
+		{
+			"name": "Go-Ethereum-Classic",
+			"nameNote": "暂定名称",
+			"status": "experimental",
+			"statusLabel": "实验性",
+			"description": "一个易于变基的 ETC 客户端，仅在未修改的上游 go-ethereum 之上构建了 9 个提交。设计使得上游改进可以通过简单的变基操作吸收。目前正在持续测试中，调查 PoW 网络特有的坏块传播问题。",
+			"repo": "https://github.com/etccooperative/go-ethereum-classic",
+			"links": [
+				{
+					"label": "坏块问题（开放，上游）",
+					"url": "https://github.com/ethereum/go-ethereum/issues/32386"
+				},
+				{
+					"label": "状态损坏修复",
+					"url": "https://github.com/ethereum/go-ethereum/pull/33931"
+				},
+				{
+					"label": "PathDB 锁修复",
+					"url": "https://github.com/ethereum/go-ethereum/pull/33622"
+				}
+			]
+		},
+		{
+			"name": "Core-Geth",
+			"status": "maintained",
+			"statusLabel": "维护中",
+			"description": "已发布两个安全版本（v1.12.21 和 v1.12.22），解决了 CVE 缓解和 DNS 发现更新问题。基于 go-ethereum v1.12，该版本落后当前上游约 1,900 个提交和 220,000 多行代码变更——使得传统的变基不切实际，这也推动了上述替代客户端策略。",
+			"repo": "https://github.com/etclabscore/core-geth",
+			"links": []
+		}
+	],
+	"research": [
+		{
+			"name": "etc-cl",
+			"status": "experimental",
+			"statusLabel": "实验性",
+			"description": "探索以太坊共识层/执行层架构的相似性，以及如何将其应用于以太坊经典。一个用 Rust 编写的工作量证明共识层，通过标准 Engine API 与执行客户端通信。",
+			"repo": "https://github.com/etccooperative/etc-cl"
+		},
+		{
+			"name": "PeerShark",
+			"status": "experimental",
+			"statusLabel": "实验性",
+			"description": "以太坊 P2P 协议的网络层调试工具。一个透明的流量分析器，用于诊断 devp2p 网络中的节点连接、消息传播和协议级别问题。",
+			"repo": "https://github.com/etccooperative/peershark"
+		}
+	],
+	"infrastructure": [
+		{
+			"name": "Node Explorer",
+			"status": "live",
+			"statusLabel": "运行中",
+			"description": "实时、可搜索的 ETC 节点仪表板——展示协议、健康评分以及首次和最近发现时间。每 4 小时从实时网络爬取结果更新。",
+			"url": "https://etclabscore.github.io/discv4-dns-lists/"
+		},
+		{
+			"name": "DNS Discovery",
+			"status": "operational",
+			"statusLabel": "运行中",
+			"description": "由 ETC Cooperative 维护的基于 DNS 的节点发现基础设施（etcdisco.net）。为 ETC 客户端加入网络时提供引导机制。通过 GitHub Actions 每 4 小时自动运行爬取管道。"
+		},
+		{
+			"name": "Catacomb Multisig",
+			"status": "deployed",
+			"statusLabel": "已部署",
+			"description": "在 ETC 主网和 Mordor 测试网上的自托管多签解决方案。完整部署包括交易服务、钱包 UI 和 Safe Apps。目前正在迁移到 1.8.5 版本。"
+		},
+		{
+			"name": "Monitoring & Benchmarks",
+			"status": "operational",
+			"statusLabel": "运行中",
+			"description": "跨 8 个区域约 23 台机器的多客户端测试集群。Grafana、Prometheus 和 InfluxDB 监控栈，配备 16 个仪表板，包括用于客户端对比的专用全同步基准测试仪表板。"
+		},
+		{
+			"name": "Hive Testing",
+			"status": "pass",
+			"statusLabel": "99.94% 通过",
+			"description": "基于以太坊 Hive 测试套件的 ETC 集成测试框架。传统共识测试套件达到 99.94% 的通过率，并具备多客户端测试跟踪功能以进行持续验证。"
+		}
+	]
+}

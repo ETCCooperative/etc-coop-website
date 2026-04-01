@@ -1,0 +1,113 @@
+{
+	"clients": [
+		{
+			"name": "Nethermind ETC Plugin",
+			"status": "testing",
+			"statusLabel": "Testing",
+			"description": "ETC plugin for Nethermind with full consensus and mining support. Currently the most stable new client — mainnet node fully synced and following the chain in real time since January 2026, with Mordor testnet also fully synced. Currently running on a custom Nethermind 1.36.0 build with sync fixes; version 1.37.0 will bring full compatibility with the upstream + plugin architecture. Upstream collaboration has resulted in sync fixes merged directly into Nethermind core.",
+			"repo": "https://github.com/ETCCooperative/nethermind-etc-plugin",
+			"links": [
+				{
+					"label": "Upstream sync fix",
+					"url": "https://github.com/NethermindEth/nethermind/pull/10307"
+				}
+			]
+		},
+		{
+			"name": "Besu ETC Plugin",
+			"status": "in-development",
+			"statusLabel": "In Development",
+			"description": "Extending Hyperledger Besu's plugin API to support external consensus layers. Parallel work is underway fixing synchronization issues that affect both Ethereum and Ethereum Classic networks. Plugin extension points are being contributed upstream to enable ETC support as a standalone plugin without modifying Besu core.",
+			"repo": "https://github.com/ETCCooperative/besu-etc-plugin",
+			"links": [
+				{
+					"label": "Sync fix (ETH & ETC)",
+					"url": "https://github.com/besu-eth/besu/pull/10047"
+				},
+				{
+					"label": "Plugin extensions",
+					"url": "https://github.com/diega/besu/commit/fe2cbfe812"
+				}
+			]
+		},
+		{
+			"name": "Go-Ethereum-Classic",
+			"nameNote": "working name",
+			"status": "experimental",
+			"statusLabel": "Experimental",
+			"description": "A rebase-friendly ETC client built as just 9 commits on top of unmodified upstream go-ethereum. Designed so that upstream improvements can be absorbed with a straightforward rebase. Currently in continuous testing, investigating bad block propagation issues specific to PoW networks.",
+			"repo": "https://github.com/etccooperative/go-ethereum-classic",
+			"links": [
+				{
+					"label": "BAD BLOCK (open, upstream)",
+					"url": "https://github.com/ethereum/go-ethereum/issues/32386"
+				},
+				{
+					"label": "State corruption fix",
+					"url": "https://github.com/ethereum/go-ethereum/pull/33931"
+				},
+				{
+					"label": "PathDB lock fix",
+					"url": "https://github.com/ethereum/go-ethereum/pull/33622"
+				}
+			]
+		},
+		{
+			"name": "Core-Geth",
+			"status": "maintained",
+			"statusLabel": "Maintained",
+			"description": "Two security releases shipped (v1.12.21 and v1.12.22) addressing CVE mitigations and DNS discovery updates. Based on go-ethereum v1.12, which is approximately 1,900 commits and 220,000+ lines of code behind current upstream — making a traditional rebase impractical and motivating the alternative client strategies above.",
+			"repo": "https://github.com/etclabscore/core-geth",
+			"links": []
+		}
+	],
+	"research": [
+		{
+			"name": "etc-cl",
+			"status": "experimental",
+			"statusLabel": "Experimental",
+			"description": "Exploring the proximity between Ethereum's consensus layer / execution layer architecture and how it could be leveraged for Ethereum Classic. A Proof-of-Work consensus layer written in Rust, communicating with a standard execution client via the Engine API.",
+			"repo": "https://github.com/etccooperative/etc-cl"
+		},
+		{
+			"name": "PeerShark",
+			"status": "experimental",
+			"statusLabel": "Experimental",
+			"description": "Network layer debugging tool for Ethereum P2P protocols. A transparent traffic analyzer for diagnosing peer connectivity, message propagation, and protocol-level issues across devp2p networks.",
+			"repo": "https://github.com/etccooperative/peershark"
+		}
+	],
+	"infrastructure": [
+		{
+			"name": "Node Explorer",
+			"status": "live",
+			"statusLabel": "Live",
+			"description": "Real-time, searchable dashboard of all discoverable ETC nodes — their protocols, health scores, and when they were first and last seen. Updated every 4 hours from live network crawl results.",
+			"url": "https://etclabscore.github.io/discv4-dns-lists/"
+		},
+		{
+			"name": "DNS Discovery",
+			"status": "operational",
+			"statusLabel": "Operational",
+			"description": "DNS-based node discovery infrastructure (etcdisco.net) maintained by ETC Cooperative. Provides the bootstrap mechanism for ETC clients to find peers when joining the network. Automated crawl pipeline running every 4 hours via GitHub Actions."
+		},
+		{
+			"name": "Catacomb Multisig",
+			"status": "deployed",
+			"statusLabel": "Deployed",
+			"description": "Self-hosted multisig solution on ETC mainnet and Mordor testnet. Full stack deployment including transaction services, wallet UI, and Safe Apps. Currently working on migration to version 1.8.5."
+		},
+		{
+			"name": "Monitoring & Benchmarks",
+			"status": "operational",
+			"statusLabel": "Operational",
+			"description": "Multi-client test fleet across approximately 23 machines in 8 regions. Grafana, Prometheus, and InfluxDB monitoring stack with 16 dashboards, including dedicated full sync benchmark dashboards for head-to-head client comparison."
+		},
+		{
+			"name": "Hive Testing",
+			"status": "pass",
+			"statusLabel": "99.94% pass",
+			"description": "ETC integration test framework based on the Ethereum Hive testing suite. Legacy consensus test suite achieving a 99.94% pass rate, with multi-client test tracking for ongoing validation."
+		}
+	]
+}
