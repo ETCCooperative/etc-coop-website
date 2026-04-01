@@ -1,4 +1,15 @@
 <template>
+	<Head>
+		<title>Development — Ethereum Classic Cooperative</title>
+		<meta name="description" content="Execution clients, research experiments, and infrastructure tools being built by ETC Cooperative for Ethereum Classic." />
+		<meta property="og:title" content="Development — ETC Cooperative" />
+		<meta property="og:description" content="Execution clients, research experiments, and infrastructure tools being built by ETC Cooperative for Ethereum Classic." />
+		<meta property="og:image" content="https://etccooperative.org/etc-coop-social.png" />
+		<meta name="twitter:title" content="Development — ETC Cooperative" />
+		<meta name="twitter:description" content="Execution clients, research experiments, and infrastructure tools being built by ETC Cooperative for Ethereum Classic." />
+		<meta name="twitter:image" content="https://etccooperative.org/etc-coop-social.png" />
+		<meta name="twitter:card" content="summary_large_image" />
+	</Head>
 	<Layout>
 		<template #header>
 			<section class="developmentNavSection">
@@ -168,11 +179,13 @@
 </template>
 
 <script>
+import { Head } from "@unhead/vue/components";
 import Layout from "@/layout/Layout.vue";
 import Navbar from "@/components/Navbar.vue";
 
 export default {
 	components: {
+		Head,
 		Layout,
 		Navbar,
 	},
