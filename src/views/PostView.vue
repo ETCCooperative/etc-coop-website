@@ -169,7 +169,8 @@
 	</Layout>
 </template>
 <script>
-import { Head, useHead } from "@vueuse/head";
+import { useHead } from "@unhead/vue";
+import { Head } from "@unhead/vue/components";
 import Layout from "@/layout/Layout.vue";
 import Navbar from "@/components/Navbar.vue";
 
@@ -211,9 +212,9 @@ export default {
 	},
 	methods: {
 		getContent(locale) {
-			let sourceFile = `${this.$route.params.alias}/index.md`;
+			const alias = this.$route.params.alias;
 
-			import(`@/contents/posts/${locale}/${sourceFile}`)
+			import(`@/contents/posts/${locale}/${alias}/index.md`)
 				.then((module) => {
 					const { html, meta } = this.md(module.default);
 					this.body = html;
@@ -230,7 +231,7 @@ export default {
 				})
 				.catch(() => {
 					// load default locale (en)
-					import(`@/contents/posts/en/${sourceFile}`).then((module) => {
+					import(`@/contents/posts/en/${alias}/index.md`).then((module) => {
 						const { html, meta } = this.md(module.default);
 						this.body = html;
 						this.title = meta.title || null;
