@@ -5,7 +5,9 @@
 	"scripts": {
 		"dev": "node ./generatePostJson.js && vite",
 		"build": "node ./generatePostJson.js && node ./generateRssFeed.js && vite build",
-		"preview": "vite preview"
+		"preview": "vite preview",
+		"test:visual:baseline": "SITE_URL=https://etccooperative.org npx playwright test --update-snapshots",
+		"test:visual": "npx playwright test"
 	},
 	"dependencies": {
 		"@algolia/autocomplete-js": "^1.12.1",
@@ -25,6 +27,7 @@
 		"yaml": "^2.2.1"
 	},
 	"devDependencies": {
+		"@playwright/test": "^1",
 		"@vitejs/plugin-vue": "^5",
 		"vite": "^6"
 	}
