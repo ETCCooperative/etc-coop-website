@@ -85,6 +85,13 @@
 		"community_body": "The ETC community also offers various resources and support for developers who are interested in developing on the platform. These resources include documentation, tutorials, forums, and developer communities that can provide guidance and support throughout the development process.",
 		"p2": "Overall, developing for ETC requires a good understanding of blockchain technology, programming languages, and smart contract development. However, with the right tools and resources, developers can create powerful and innovative DApps and smart contracts on the ETC blockchain."
 	},
+	"development": {
+		"header": "Development",
+		"intro": "Client diversity is essential for blockchain resilience. A single client codebase represents a single point of failure — one critical bug can halt the entire network. ETC Cooperative is investing in multiple execution clients, each built on actively maintained upstream codebases, so that Ethereum Classic inherits years of upstream improvements with minimal maintenance overhead.",
+		"clients_title": "Execution Clients",
+		"research_title": "Research & Experiments",
+		"infrastructure_title": "Infrastructure & Tools"
+	},
 	"governance": {
 		"header": "Governance",
 		"budgets": "Budgets",
@@ -121,6 +128,7 @@
 		"news": "News",
 		"etc_cooperative": "ETC Cooperative",
 		"what_is_etc_cooperative": "What is ETC Cooperative",
+		"development": "Development",
 		"governance": "Governance",
 		"filings": "Filings",
 		"people": "People",
