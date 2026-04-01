@@ -182,7 +182,7 @@
 	</nav>
 </template>
 <script>
-import Search from './Search';
+import Search from './Search.vue';
 export default {
 	components: {
 		Search,
