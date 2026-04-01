@@ -102,12 +102,6 @@
 			"status": "operational",
 			"statusLabel": "运行中",
 			"description": "跨 8 个区域约 23 台机器的多客户端测试集群。Grafana、Prometheus 和 InfluxDB 监控栈，配备 16 个仪表板，包括用于客户端对比的专用全同步基准测试仪表板。"
-		},
-		{
-			"name": "Hive Testing",
-			"status": "pass",
-			"statusLabel": "99.94% 通过",
-			"description": "基于以太坊 Hive 测试套件的 ETC 集成测试框架。传统共识测试套件达到 99.94% 的通过率，并具备多客户端测试跟踪功能以进行持续验证。"
 		}
 	]
 }
