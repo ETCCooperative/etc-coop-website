@@ -3,22 +3,21 @@
 	"version": "0.1.0",
 	"private": true,
 	"scripts": {
-		"serve": "vue-cli-service serve",
-		"build": "node ./generatePostJson.js && node ./generateRssFeed.js && vue-cli-service build"
+		"dev": "node ./generatePostJson.js && vite",
+		"build": "node ./generatePostJson.js && node ./generateRssFeed.js && vite build",
+		"preview": "vite preview"
 	},
 	"dependencies": {
 		"@algolia/autocomplete-js": "^1.12.1",
 		"@algolia/autocomplete-theme-classic": "^1.12.1",
 		"@popperjs/core": "^2.11.6",
-		"@vueuse/head": "^1.1.23",
+		"@unhead/vue": "^1",
 		"algoliasearch": "^4.20.0",
 		"bootstrap": "^5.2.3",
 		"glob": "^9.3.2",
 		"markdown-it": "^13.0.1",
 		"markdown-it-attrs": "^4.1.6",
 		"markdown-it-metadata-block": "^1.0.2",
-		"postcss": "^8",
-		"raw-loader": "^4.0.2",
 		"vue": "^3.2.13",
 		"vue-cookie-accept-decline": "^6.1.0",
 		"vue-i18n": "^9.1.0",
@@ -26,9 +25,7 @@
 		"yaml": "^2.2.1"
 	},
 	"devDependencies": {
-		"@intlify/vue-i18n-loader": "^3.0.0",
-		"@vue/cli-plugin-babel": "~5.0.0",
-		"@vue/cli-plugin-router": "~5.0.0",
-		"@vue/cli-service": "~5.0.0"
+		"@vitejs/plugin-vue": "^5",
+		"vite": "^6"
 	}
 }
