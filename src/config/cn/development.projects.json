@@ -18,7 +18,7 @@
 			"status": "in-development",
 			"statusLabel": "开发中",
 			"description": "扩展 Hyperledger Besu 的插件 API 以支持外部共识层。同时正在修复影响以太坊和以太坊经典网络的同步问题。插件扩展点正在贡献给上游，以实现 ETC 支持作为独立插件而无需修改 Besu 核心。",
-			"repo": "https://github.com/ETCCooperative/besu-etc-plugin",
+			"repo": "https://github.com/diega/besu-etc-plugin",
 			"links": [
 				{
 					"label": "同步修复 (ETH & ETC)",
@@ -36,7 +36,7 @@
 			"status": "experimental",
 			"statusLabel": "实验性",
 			"description": "一个易于变基的 ETC 客户端，仅在未修改的上游 go-ethereum 之上构建了 9 个提交。设计使得上游改进可以通过简单的变基操作吸收。目前正在持续测试中，调查 PoW 网络特有的坏块传播问题。",
-			"repo": "https://github.com/etccooperative/go-ethereum-classic",
+			"repo": "https://github.com/diega/go-ethereum-classic",
 			"links": [
 				{
 					"label": "坏块问题（开放，上游）",
@@ -67,14 +67,14 @@
 			"status": "experimental",
 			"statusLabel": "实验性",
 			"description": "探索以太坊共识层/执行层架构的相似性，以及如何将其应用于以太坊经典。一个用 Rust 编写的工作量证明共识层，通过标准 Engine API 与执行客户端通信。",
-			"repo": "https://github.com/etccooperative/etc-cl"
+			"repo": "https://github.com/diega/etc-cl"
 		},
 		{
 			"name": "PeerShark",
 			"status": "experimental",
 			"statusLabel": "实验性",
 			"description": "以太坊 P2P 协议的网络层调试工具。一个透明的流量分析器，用于诊断 devp2p 网络中的节点连接、消息传播和协议级别问题。",
-			"repo": "https://github.com/etccooperative/peershark"
+			"repo": "https://github.com/diega/peershark"
 		}
 	],
 	"infrastructure": [
