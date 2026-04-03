@@ -18,7 +18,7 @@
 			"status": "in-development",
 			"statusLabel": "In Development",
 			"description": "Extending Hyperledger Besu's plugin API to support external consensus layers. Parallel work is underway fixing synchronization issues that affect both Ethereum and Ethereum Classic networks. Plugin extension points are being contributed upstream to enable ETC support as a standalone plugin without modifying Besu core.",
-			"repo": "https://github.com/ETCCooperative/besu-etc-plugin",
+			"repo": "https://github.com/diega/besu-etc-plugin",
 			"links": [
 				{
 					"label": "Sync fix (ETH & ETC)",
@@ -36,7 +36,7 @@
 			"status": "experimental",
 			"statusLabel": "Experimental",
 			"description": "A rebase-friendly ETC client built as just 9 commits on top of unmodified upstream go-ethereum. Designed so that upstream improvements can be absorbed with a straightforward rebase. Currently in continuous testing, investigating bad block propagation issues specific to PoW networks.",
-			"repo": "https://github.com/etccooperative/go-ethereum-classic",
+			"repo": "https://github.com/diega/go-ethereum-classic",
 			"links": [
 				{
 					"label": "BAD BLOCK (open, upstream)",
@@ -67,14 +67,14 @@
 			"status": "experimental",
 			"statusLabel": "Experimental",
 			"description": "Exploring the proximity between Ethereum's consensus layer / execution layer architecture and how it could be leveraged for Ethereum Classic. A Proof-of-Work consensus layer written in Rust, communicating with a standard execution client via the Engine API.",
-			"repo": "https://github.com/etccooperative/etc-cl"
+			"repo": "https://github.com/diega/etc-cl"
 		},
 		{
 			"name": "PeerShark",
 			"status": "experimental",
 			"statusLabel": "Experimental",
 			"description": "Network layer debugging tool for Ethereum P2P protocols. A transparent traffic analyzer for diagnosing peer connectivity, message propagation, and protocol-level issues across devp2p networks.",
-			"repo": "https://github.com/etccooperative/peershark"
+			"repo": "https://github.com/diega/peershark"
 		}
 	],
 	"infrastructure": [
