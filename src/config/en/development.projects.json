@@ -35,7 +35,7 @@
 			"nameNote": "working name",
 			"status": "experimental",
 			"statusLabel": "Experimental",
-			"description": "A rebase-friendly ETC client built as just 9 commits on top of unmodified upstream go-ethereum. Designed so that upstream improvements can be absorbed with a straightforward rebase. Currently in continuous testing, investigating bad block propagation issues specific to PoW networks.",
+			"description": "A rebase-friendly ETC client built as just 9 commits on top of unmodified upstream go-ethereum. Designed so that upstream improvements can be absorbed with a straightforward rebase. Investigation of bad block propagation on PoW networks traced the root cause to a PathDB bug where side-chain blocks with duplicate state roots silently corrupt canonical state reads. Fix submitted upstream.",
 			"repo": "https://github.com/diega/go-ethereum-classic",
 			"links": [
 				{
@@ -43,12 +43,8 @@
 					"url": "https://github.com/ethereum/go-ethereum/issues/32386"
 				},
 				{
-					"label": "State corruption fix",
-					"url": "https://github.com/ethereum/go-ethereum/pull/33931"
-				},
-				{
-					"label": "PathDB lock fix",
-					"url": "https://github.com/ethereum/go-ethereum/pull/33622"
+					"label": "Root cause fix (open, upstream)",
+					"url": "https://github.com/ethereum/go-ethereum/pull/34642"
 				}
 			]
 		},
