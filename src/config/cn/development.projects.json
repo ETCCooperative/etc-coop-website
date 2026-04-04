@@ -35,7 +35,7 @@
 			"nameNote": "暂定名称",
 			"status": "experimental",
 			"statusLabel": "实验性",
-			"description": "一个易于变基的 ETC 客户端，仅在未修改的上游 go-ethereum 之上构建了 9 个提交。设计使得上游改进可以通过简单的变基操作吸收。目前正在持续测试中，调查 PoW 网络特有的坏块传播问题。",
+			"description": "一个易于变基的 ETC 客户端，仅在未修改的上游 go-ethereum 之上构建了 9 个提交。设计使得上游改进可以通过简单的变基操作吸收。对 PoW 网络坏块传播的调查将根本原因追溯到 PathDB 中的一个 bug：具有重复状态根的侧链区块会静默地破坏规范状态读取。修复已提交到上游。",
 			"repo": "https://github.com/diega/go-ethereum-classic",
 			"links": [
 				{
@@ -43,12 +43,8 @@
 					"url": "https://github.com/ethereum/go-ethereum/issues/32386"
 				},
 				{
-					"label": "状态损坏修复",
-					"url": "https://github.com/ethereum/go-ethereum/pull/33931"
-				},
-				{
-					"label": "PathDB 锁修复",
-					"url": "https://github.com/ethereum/go-ethereum/pull/33622"
+					"label": "根本原因修复（开放，上游）",
+					"url": "https://github.com/ethereum/go-ethereum/pull/34642"
 				}
 			]
 		},
