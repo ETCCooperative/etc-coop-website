@@ -35,15 +35,11 @@
 			"nameNote": "暂定名称",
 			"status": "experimental",
 			"statusLabel": "实验性",
-			"description": "一个易于变基的 ETC 客户端，仅在未修改的上游 go-ethereum 之上构建了 9 个提交。设计使得上游改进可以通过简单的变基操作吸收。对 PoW 网络坏块传播的调查将根本原因追溯到 PathDB 中的一个 bug：具有重复状态根的侧链区块会静默地破坏规范状态读取。修复已提交到上游。",
+			"description": "一个易于变基的 ETC 客户端，仅在未修改的上游 go-ethereum 之上构建了 9 个提交。设计使得上游改进可以通过简单的变基操作吸收。对 PoW 网络坏块传播的调查将根本原因追溯到 PathDB 中的一个 bug：具有重复状态根的侧链区块会静默地破坏规范状态读取。修复已合并到上游，计划在 go-ethereum v1.17.3 中发布。",
 			"repo": "https://github.com/diega/go-ethereum-classic",
 			"links": [
 				{
-					"label": "坏块问题（开放，上游）",
-					"url": "https://github.com/ethereum/go-ethereum/issues/32386"
-				},
-				{
-					"label": "根本原因修复（开放，上游）",
+					"label": "根本原因修复（已合并，上游）",
 					"url": "https://github.com/ethereum/go-ethereum/pull/34642"
 				}
 			]
@@ -85,13 +81,15 @@
 			"name": "DNS Discovery",
 			"status": "operational",
 			"statusLabel": "运行中",
-			"description": "由 ETC Cooperative 维护的基于 DNS 的节点发现基础设施（etcdisco.net）。为 ETC 客户端加入网络时提供引导机制。通过 GitHub Actions 每 4 小时自动运行爬取管道。"
+			"description": "由 ETC Cooperative 维护的基于 DNS 的节点发现基础设施（etcdisco.net）。为 ETC 客户端加入网络时提供引导机制。通过 GitHub Actions 每 4 小时自动运行爬取管道。",
+				"url": "https://etcdisco.net/"
 		},
 		{
 			"name": "Catacomb Multisig",
 			"status": "deployed",
 			"statusLabel": "已部署",
-			"description": "在 ETC 主网和 Mordor 测试网上的自托管多签解决方案。完整部署包括交易服务、钱包 UI 和 Safe Apps。目前正在迁移到 1.8.5 版本。"
+			"description": "在 ETC 主网和 Mordor 测试网上的自托管多签解决方案。完整部署包括交易服务、钱包 UI 和 Safe Apps。目前正在迁移到 1.8.5 版本。",
+				"url": "https://multisig.etccooperative.org/"
 		},
 		{
 			"name": "Monitoring & Benchmarks",
