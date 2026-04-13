@@ -73,17 +73,17 @@
 	},
 	"developing-for-etc": {
 		"header": "开发以太经典",
-		"p1": "由于以太经典（ETC）是一个遵循以太坊虚拟机（EVM）标准的区块链，因此为其开发类似于为其他区块链平台开发。该平台提供了一系列工具和技术，使开发者能够创建可以在ETC区块链上运行的去中心化应用（DApps）和智能合约。",
-		"languages_badge": "语言",
-		"languages_title": "Solidity - 用于ETC开发",
-		"languages_body": "用于ETC开发的主要编程语言之一是Solidity，它也用于以太坊开发。Solidity是一种高级编程语言，专门设计用于编写可以在ETC区块链上执行的智能合约。",
-		"explorer_badge": "浏览器",
-		"explorer_title": "ETC区块链浏览器",
-		"explorer_body": "开发者还可以使用ETC区块链浏览器来测试并在网络上部署他们的DApps和智能合约。ETC区块链浏览器提供了一个用户友好的界面，用于与区块链进行交互、监控交易并访问其他有用信息。",
-		"community_badge": "社区",
-		"community_title": "ETC社区",
-		"community_body": "ETC社区还为对在该平台上开发感兴趣的开发者提供各种资源和支持。这些资源包括文档、教程、论坛以及开发者社区，可以在整个开发过程中提供指导和支持。",
-		"p2": "总体而言，为ETC开发需要对区块链技术、编程语言和智能合约开发有很好的理解。然而，借助适当的工具和资源，开发者可以在ETC区块链上创建强大且创新的DApps和智能合约。"
+		"p1": "以太经典运行着完全兼容 EVM 的执行层，因此在 ETC 上构建与在以太坊上构建非常相似。ETC 的 EVM 功能集与以太坊上海（Shanghai）升级保持一致——面向上海升级（或更早版本）的合约与工具无需修改即可部署到 ETC。",
+		"languages_badge": "语言与工具",
+		"languages_title": "Solidity 与 EVM 工具链",
+		"languages_body": "ETC 智能合约的主要语言是 <b>Solidity</b>，与其他 EVM 链使用的语言相同。编译时，请将目标 <code>evmVersion</code> 设置为 <code>shanghai</code>（或更早版本），因为 ETC 目前尚不包含更新的操作码，例如 <code>TSTORE</code>/<code>TLOAD</code>（瞬态存储）、<code>MCOPY</code> 或 <code>CLZ</code>。<br /><br />主流的以太坊工具可以直接使用：<a href='https://hardhat.org' target='_blank' rel='noopener'>Hardhat</a> 和 <a href='https://getfoundry.sh' target='_blank' rel='noopener'>Foundry</a> 用于开发与测试，<a href='https://docs.ethers.org' target='_blank' rel='noopener'>ethers.js</a> 或 <a href='https://viem.sh' target='_blank' rel='noopener'>viem</a> 用于客户端集成。对于偏好 Python 风格语法的团队，也支持 <a href='https://vyperlang.org' target='_blank' rel='noopener'>Vyper</a>。",
+		"explorer_badge": "区块浏览器",
+		"explorer_title": "区块浏览器",
+		"explorer_body": "通过 Blockscout 在 <a href='https://etc.blockscout.com' target='_blank' rel='noopener'>etc.blockscout.com</a> 查看 ETC 主网上的交易、合约和账户。该浏览器支持已验证的合约源码、ABI 查询以及直接在浏览器中对合约进行读写交互。",
+		"community_badge": "标准与资源",
+		"community_title": "ECIPs 与客户端",
+		"community_body": "ETC 的协议变更通过 <b>ECIPs</b>（以太经典改进提案）在 <a href='https://ecips.ethereumclassic.org' target='_blank' rel='noopener'>ecips.ethereumclassic.org</a> 提出并跟踪。关于 Cooperative 维护的执行客户端、研究项目和基础设施，请参阅我们的<a href='/development'>开发</a>页面。",
+		"p2": "如果你已经在以太坊上开发，那么部署到 ETC 基本上只需要将工具指向一个 ETC RPC 端点——例如 <a href='https://etc.rivet.link' target='_blank' rel='noopener'>Rivet</a>——并以上海 EVM 版本为目标。相同的合约、模式和库都可以继续使用。"
 	},
 	"development": {
 		"header": "开发",
