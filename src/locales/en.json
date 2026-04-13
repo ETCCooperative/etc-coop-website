@@ -73,17 +73,17 @@
 	},
 	"developing-for-etc": {
 		"header": "Developing for ETC",
-		"p1": "As Ethereum Classic (ETC) is an EVM standard blockchain, developing for it is similar to developing for other blockchain platforms. The platform provides a set of tools and technologies that enable developers to create decentralized applications (DApps) and smart contracts that can run on the ETC blockchain.",
-		"languages_badge": "Languages",
-		"languages_title": "Solidity for developing on ETC",
-		"languages_body": "One of the main programming languages used for developing on ETC is <b>Solidity</b>, which is also used for Ethereum development. Solidity is a high-level programming language that is designed specifically for writing smart contracts that can be executed on the ETC blockchain. <br /> <br /> In addition to Solidity, there are other programming languages and frameworks that can be used for ETC development, such as <b>Vyper</b>, <b>Truffle</b>, and <b>Embark</b>. These tools provide developers with a range of options for building DApps and smart contracts on the ETC platform.",
+		"p1": "Ethereum Classic runs a fully EVM-compatible execution layer, so building on ETC is very close to building on Ethereum. The EVM on ETC tracks the Ethereum feature set up to the Shanghai upgrade — contracts and tooling that target Shanghai (or earlier) deploy to ETC without changes.",
+		"languages_badge": "Languages & Tooling",
+		"languages_title": "Solidity and the EVM toolchain",
+		"languages_body": "The main language for ETC smart contracts is <b>Solidity</b>, the same language used across EVM chains. When compiling, set the target <code>evmVersion</code> to <code>shanghai</code> (or earlier), since ETC does not yet include later opcodes such as <code>TSTORE</code>/<code>TLOAD</code> (transient storage), <code>MCOPY</code>, or <code>CLZ</code>.<br /><br />Modern Ethereum tooling works out of the box: <a href='https://hardhat.org' target='_blank' rel='noopener'>Hardhat</a> and <a href='https://getfoundry.sh' target='_blank' rel='noopener'>Foundry</a> for development and testing, and libraries like <a href='https://docs.ethers.org' target='_blank' rel='noopener'>ethers.js</a> or <a href='https://viem.sh' target='_blank' rel='noopener'>viem</a> for client-side integration. <a href='https://vyperlang.org' target='_blank' rel='noopener'>Vyper</a> is also supported for teams that prefer its Python-like syntax.",
 		"explorer_badge": "Explorer",
-		"explorer_title": "ETC Blockchain Explorer",
-		"explorer_body": "Developers can also use the ETC blockchain explorer to test and deploy their DApps and smart contracts on the network. The ETC blockchain explorer provides a user-friendly interface for interacting with the blockchain, monitoring transactions, and accessing other useful information.",
-		"community_badge": "Community",
-		"community_title": "ETC Community",
-		"community_body": "The ETC community also offers various resources and support for developers who are interested in developing on the platform. These resources include documentation, tutorials, forums, and developer communities that can provide guidance and support throughout the development process.",
-		"p2": "Overall, developing for ETC requires a good understanding of blockchain technology, programming languages, and smart contract development. However, with the right tools and resources, developers can create powerful and innovative DApps and smart contracts on the ETC blockchain."
+		"explorer_title": "Block explorer",
+		"explorer_body": "Inspect transactions, contracts, and accounts on ETC mainnet through Blockscout at <a href='https://etc.blockscout.com' target='_blank' rel='noopener'>etc.blockscout.com</a>. The explorer supports verified contract source, ABI lookup, and read/write contract interactions directly from the browser.",
+		"community_badge": "Standards & Resources",
+		"community_title": "ECIPs and clients",
+		"community_body": "Protocol changes on ETC are proposed and tracked as <b>ECIPs</b> (Ethereum Classic Improvement Proposals) at <a href='https://ecips.ethereumclassic.org' target='_blank' rel='noopener'>ecips.ethereumclassic.org</a>. For the execution clients, research projects, and infrastructure maintained by the Cooperative, see our <a href='/development'>Development</a> page.",
+		"p2": "If you already build on Ethereum, deploying on ETC is mostly a matter of pointing your tooling at an ETC RPC endpoint — such as <a href='https://etc.rivet.link' target='_blank' rel='noopener'>Rivet</a> — and targeting the Shanghai EVM version. The same contracts, patterns, and libraries carry over."
 	},
 	"development": {
 		"header": "Development",

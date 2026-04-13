@@ -64,9 +64,7 @@
 								$t("developing-for-etc.explorer_badge")
 							}}</span>
 							<h2>{{ $t("developing-for-etc.explorer_title") }}</h2>
-							<p>
-								{{ $t("developing-for-etc.explorer_body") }}
-							</p>
+							<p v-html="$t('developing-for-etc.explorer_body')"></p>
 						</div>
 					</div>
 				</div>
@@ -80,9 +78,7 @@
 								$t("developing-for-etc.community_badge")
 							}}</span>
 							<h2>{{ $t("developing-for-etc.community_title") }}</h2>
-							<p>
-								{{ $t("developing-for-etc.community_body") }}
-							</p>
+							<p v-html="$t('developing-for-etc.community_body')"></p>
 						</div>
 						<div class="col-lg-6 col-md-12">
 							<img
@@ -98,9 +94,7 @@
 
 			<!-- developing requirement starts here -->
 			<div class="developingRequirement">
-				<p>
-					{{ $t("developing-for-etc.p2") }}
-				</p>
+				<p v-html="$t('developing-for-etc.p2')"></p>
 			</div>
 			<!-- developing requirement ends here -->
 		</template>
